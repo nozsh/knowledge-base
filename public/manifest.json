@@ -1,6 +1,6 @@
 {
-  "name": "Knowledge Base Test",
-  "short_name": "Knowledge Base Test",
+  "name": "Knowledge Base",
+  "short_name": "Knowledge Base",
   "start_url": "/kb/",
   "scope": "/kb/",
   "display": "standalone",
