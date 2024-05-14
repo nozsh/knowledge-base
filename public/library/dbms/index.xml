@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>СУБД on Knowledge Base</title>
+    <title>СУБД on Knowledge Base Test</title>
     <link>https://nozsh.su/kb/library/dbms/</link>
-    <description>Recent content in СУБД on Knowledge Base</description>
+    <description>Recent content in СУБД on Knowledge Base Test</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <atom:link href="https://nozsh.su/kb/library/dbms/index.xml" rel="self" type="application/rss+xml" />

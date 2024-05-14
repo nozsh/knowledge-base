@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Arch on Knowledge Base</title>
+    <title>Arch on Knowledge Base Test</title>
     <link>https://nozsh.su/kb/os/linux/arch/</link>
-    <description>Recent content in Arch on Knowledge Base</description>
+    <description>Recent content in Arch on Knowledge Base Test</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <atom:link href="https://nozsh.su/kb/os/linux/arch/index.xml" rel="self" type="application/rss+xml" />
