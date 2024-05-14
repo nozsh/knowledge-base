@@ -1,6 +1,7 @@
 ---
 type: docs
 title: Что это?
+description: Самая разная информация.
 # weight: 1
 bookCollapseSection: true
 bookFlatSection: false
