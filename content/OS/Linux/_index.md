@@ -1,8 +1,8 @@
 ---
 type: docs
-title: IDK
-# weight: 900
-bookCollapseSection: false
+title: 💿 Linux
+weight: 900
+bookCollapseSection: true
 bookFlatSection: false
 bookToc: false
 bookComments: false

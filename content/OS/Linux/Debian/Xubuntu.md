@@ -1,6 +1,6 @@
 ---
 type: docs
-title: IDK
+title: Xubuntu
 # weight: 900
 bookCollapseSection: false
 bookFlatSection: false
@@ -9,3 +9,7 @@ bookComments: false
 bookSearchExclude: false
 bookHidden: false
 ---
+
+# Xubuntu
+
+[xubuntu.org/download/](https://xubuntu.org/download/?nt)

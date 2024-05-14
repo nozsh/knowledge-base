@@ -1,8 +1,8 @@
 ---
 type: docs
-title: IDK
-# weight: 900
-bookCollapseSection: false
+title: Arch
+weight: 890
+bookCollapseSection: true
 bookFlatSection: false
 bookToc: false
 bookComments: false

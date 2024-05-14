@@ -1,6 +1,6 @@
 ---
 type: docs
-title: IDK
+title: Arch
 # weight: 900
 bookCollapseSection: false
 bookFlatSection: false
@@ -9,3 +9,7 @@ bookComments: false
 bookSearchExclude: false
 bookHidden: false
 ---
+
+# Arch
+
+[archlinux.org/download/](https://archlinux.org/download/?nt)

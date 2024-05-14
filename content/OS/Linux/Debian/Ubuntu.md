@@ -1,6 +1,6 @@
 ---
 type: docs
-title: IDK
+title: Ubuntu
 # weight: 900
 bookCollapseSection: false
 bookFlatSection: false
@@ -9,3 +9,7 @@ bookComments: false
 bookSearchExclude: false
 bookHidden: false
 ---
+
+# Ubuntu
+
+[ubuntu.com/download/](https://ubuntu.com/download?nt)

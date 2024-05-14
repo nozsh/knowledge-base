@@ -1,6 +1,6 @@
 ---
 type: docs
-title: IDK
+title: Kubuntu
 # weight: 900
 bookCollapseSection: false
 bookFlatSection: false
@@ -9,3 +9,7 @@ bookComments: false
 bookSearchExclude: false
 bookHidden: false
 ---
+
+# Kubuntu
+
+[kubuntu.org/getkubuntu/](https://kubuntu.org/getkubuntu/?nt)

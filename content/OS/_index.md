@@ -1,8 +1,8 @@
 ---
 type: docs
-title: IDK
-# weight: 900
-bookCollapseSection: false
+title: 💽 Операционки
+weight: 850
+bookCollapseSection: true
 bookFlatSection: false
 bookToc: false
 bookComments: false
