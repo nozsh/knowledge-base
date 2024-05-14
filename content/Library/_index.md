@@ -9,5 +9,3 @@ bookComments: false
 bookSearchExclude: true
 bookHidden: false
 ---
-
-Как правильно писать.
