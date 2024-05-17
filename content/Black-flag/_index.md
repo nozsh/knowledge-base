@@ -1,7 +1,7 @@
 ---
 type: docs
-title: 📚 Библиотека
-weight: 900
+title: 🏴‍☠️ Черный флаг
+# weight: 9999
 bookCollapseSection: true
 bookFlatSection: false
 bookToc: false

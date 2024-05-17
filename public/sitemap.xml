@@ -16,11 +16,11 @@
   </url><url>
     <loc>https://nozsh.su/kb/os/linux/</loc>
   </url><url>
+    <loc>https://nozsh.su/kb/library/</loc>
+  </url><url>
     <loc>https://nozsh.su/kb/os/linux/debian/</loc>
   </url><url>
     <loc>https://nozsh.su/kb/os/windows/windows-server/</loc>
-  </url><url>
-    <loc>https://nozsh.su/kb/library/</loc>
   </url><url>
     <loc>https://nozsh.su/kb/typo/</loc>
   </url><url>
@@ -50,6 +50,8 @@
   </url><url>
     <loc>https://nozsh.su/kb/os/linux/debian/xubuntu/</loc>
   </url><url>
+    <loc>https://nozsh.su/kb/black-flag/books/z-library/</loc>
+  </url><url>
     <loc>https://nozsh.su/kb/typo/expand/</loc>
   </url><url>
     <loc>https://nozsh.su/kb/library/im-hacker/biblioteka-zhurnala-xakep/</loc>
@@ -69,6 +71,8 @@
     <loc>https://nozsh.su/kb/library/infosec-cybersecurity/</loc>
   </url><url>
     <loc>https://nozsh.su/kb/typo/hints/</loc>
+  </url><url>
+    <loc>https://nozsh.su/kb/black-flag/books/</loc>
   </url><url>
     <loc>https://nozsh.su/kb/typo/buttons/</loc>
   </url><url>
@@ -101,5 +105,7 @@
     <loc>https://nozsh.su/kb/</loc>
   </url><url>
     <loc>https://nozsh.su/kb/library/im-hacker/</loc>
+  </url><url>
+    <loc>https://nozsh.su/kb/black-flag/</loc>
   </url>
 </urlset>
