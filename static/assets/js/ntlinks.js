@@ -1,9 +1,12 @@
-// Remove target=_blank
+// New tab edit page link
 
-llinks_rmtb = document
-  .querySelectorAll("a[target*='_blank']")
-  .forEach((llinks_rmtb) => {
-    llinks_rmtb.setAttribute("target", "");
+llinks_editpage = document
+  .querySelectorAll(
+    "a[href*='https://github.com/nozsh/knowledge-base/tree/master/content/']"
+  )
+  .forEach((llinks_editpage) => {
+    let llinks_editpage_href = llinks_editpage.href;
+    llinks_editpage.setAttribute("href", llinks_editpage_href + "?nt");
   });
 
 // New tab links
