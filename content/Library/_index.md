@@ -6,6 +6,6 @@ bookCollapseSection: true
 bookFlatSection: false
 bookToc: false
 bookComments: false
-bookSearchExclude: true
+bookSearchExclude: false
 bookHidden: false
 ---

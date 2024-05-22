@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>➡️ Мультимедиа on Knowledge Base</title>
+    <link>https://nozsh.su/kb/software/windows/multimedia/</link>
+    <description>Recent content in ➡️ Мультимедиа on Knowledge Base</description>
+    <generator>Hugo</generator>
+    <language>ru</language>
+    <atom:link href="https://nozsh.su/kb/software/windows/multimedia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>➡️ HandBrake (FOSS)</title>
+      <link>https://nozsh.su/kb/software/windows/multimedia/handbrake/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nozsh.su/kb/software/windows/multimedia/handbrake/</guid>
+      <description>&#xD;HandBrake&#xD;#&#xD;Лучшая программа для оптимизации/сжатия видео файлов.&#xA;GitHub&#xD;Сайт&#xD;</description>
+    </item>
+  </channel>
+</rss>

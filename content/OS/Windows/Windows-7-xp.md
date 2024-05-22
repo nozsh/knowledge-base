@@ -1,6 +1,6 @@
 ---
 type: docs
-title: Windows 7 & XP
+title: ➡️ Windows 7 & XP
 weight: 890
 bookCollapseSection: false
 bookFlatSection: false

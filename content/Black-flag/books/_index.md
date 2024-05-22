@@ -1,7 +1,7 @@
 ---
 type: docs
-title: Книги
-# weight: 9999
+title: ➡️ Книги
+weight: 500
 bookCollapseSection: true
 bookFlatSection: false
 bookToc: false

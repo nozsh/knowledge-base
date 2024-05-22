@@ -1,12 +1,13 @@
 ---
 type: docs
-title: Z-Library
+title: ➡️ ⚪️ Z-Library
+description: "Z-Library"
 # weight: 9999
 bookCollapseSection: false
 bookFlatSection: false
 bookToc: false
 bookComments: false
-bookSearchExclude: true
+bookSearchExclude: false
 bookHidden: false
 ---
 
@@ -22,5 +23,7 @@ http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion/
 ```
 
 {{< /details >}}
+
+Рай для любителей почитать. Тут есть все. Самые дорогие книги в тч.
 
 Тот самый Z-Library, но это зеркало. Оригинальные сайты доступны только в Tor. И для скачивания книг нужна регистрация, в последний раз регистрация работала только на сайтах в Tor. Не в Tor не отправляется письмо с подтверждением.

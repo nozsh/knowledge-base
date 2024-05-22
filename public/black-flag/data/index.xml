@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>➡️ Данные on Knowledge Base</title>
+    <link>https://nozsh.su/kb/black-flag/data/</link>
+    <description>Recent content in ➡️ Данные on Knowledge Base</description>
+    <generator>Hugo</generator>
+    <language>ru</language>
+    <atom:link href="https://nozsh.su/kb/black-flag/data/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>➡️ 0day</title>
+      <link>https://nozsh.su/kb/black-flag/data/0day/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nozsh.su/kb/black-flag/data/0day/</guid>
+      <description>0day&#xD;#&#xD;0day&#xA;Самые новые релизы благодаря автоматическому обновлению в режиме реального времени.</description>
+    </item>
+    <item>
+      <title>➡️ GameStatus</title>
+      <link>https://nozsh.su/kb/black-flag/data/gamestatus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nozsh.su/kb/black-flag/data/gamestatus/</guid>
+      <description>GameStatus&#xD;#&#xD;GameStatus&#xA;Показывает статус взлома игр. Такой себе сайт, увы не достойная замена нынче покойному CrackWatch.&#xA;Редко обновляется, часто нет новых игр. Если вы любите быть в теме, то вам на другие сайты в этой категории.&#xA;Советую PreDB и 0day.</description>
+    </item>
+    <item>
+      <title>➡️ PreDB</title>
+      <link>https://nozsh.su/kb/black-flag/data/predb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nozsh.su/kb/black-flag/data/predb/</guid>
+      <description>PreDB&#xD;#&#xD;1, 2&#xA;Полезная штука. Можно посмотреть информацию о варезах. Авторах, файлы nfo, был ли релиз уничтожен, если да, то узнать причину и тп.</description>
+    </item>
+    <item>
+      <title>➡️ Scene-RLS RELEASES</title>
+      <link>https://nozsh.su/kb/black-flag/data/scene-rls-releases/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nozsh.su/kb/black-flag/data/scene-rls-releases/</guid>
+      <description>Scene-RLS RELEASES&#xD;#&#xD;Scene-RLS RELEASES&#xA;Актуальная информация для всего.&#xA;Сложно, очень сложно.</description>
+    </item>
+    <item>
+      <title>➡️ xREL</title>
+      <link>https://nozsh.su/kb/black-flag/data/xrel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nozsh.su/kb/black-flag/data/xrel/</guid>
+      <description>xREL&#xD;#&#xD;xREL&#xA;Борд, где пользователи обсуждают свежие сюжеты, обзоры игр, фильмы и многое другое.&#xA;Острожно!&#xA;Deutsch sprache!</description>
+    </item>
+    <item>
+      <title>➡️ Таблица приватных трекеров</title>
+      <link>https://nozsh.su/kb/black-flag/data/table-of-private-trackers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nozsh.su/kb/black-flag/data/table-of-private-trackers/</guid>
+      <description>Таблица приватных трекеров&#xD;#&#xD;hdvinnie.github.io/Private-Trackers-Spreadsheet/&#xA;А почему бы и нет.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>➡️ Другое on Knowledge Base</title>
+    <link>https://nozsh.su/kb/software/windows/other/</link>
+    <description>Recent content in ➡️ Другое on Knowledge Base</description>
+    <generator>Hugo</generator>
+    <language>ru</language>
+    <atom:link href="https://nozsh.su/kb/software/windows/other/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>➡️ Caramba Switcher</title>
+      <link>https://nozsh.su/kb/software/windows/other/caramba-switcher/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nozsh.su/kb/software/windows/other/caramba-switcher/</guid>
+      <description>&#xD;Caramba Switcher&#xD;#&#xD;Caramba Switcher - это переключатель раскладки клавиатуры. Например вы написали &amp;ldquo;ghbdtn vbh&amp;rdquo;, нажали кнопку и абракадабра превратилась в &amp;ldquo;привет мир&amp;rdquo;.&#xA;Так же есть умный режим, который делает это все автоматически. Категорически не советую использовать автоматический режим, если вы программист.&#xA;Скачать&#xD;</description>
+    </item>
+    <item>
+      <title>➡️ Everything</title>
+      <link>https://nozsh.su/kb/software/windows/other/everything/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nozsh.su/kb/software/windows/other/everything/</guid>
+      <description>&#xD;Everything&#xD;#&#xD;Everything - бесплатная утилита для Windows, позволяющая практически мгновенно находить файлы и папки по их именам, размерам, датам, атрибутам и др.&#xA;Скачать&#xD;</description>
+    </item>
+    <item>
+      <title>➡️ qBittorrent</title>
+      <link>https://nozsh.su/kb/software/windows/other/qbittorrent/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nozsh.su/kb/software/windows/other/qbittorrent/</guid>
+      <description>&#xD;qBittorrent&#xD;#&#xD;Просто лучший торрент клиент.&#xA;Скачать&#xD;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,12 +1,12 @@
 ---
 type: docs
-title: Объектно-ориентированное программирование в С++
+title: ➡️ Объектно-ориентированное программирование в С++
 # weight: 9999
 bookCollapseSection: false
 bookFlatSection: false
 bookToc: false
 bookComments: false
-bookSearchExclude: true
+bookSearchExclude: false
 bookHidden: false
 ---
 

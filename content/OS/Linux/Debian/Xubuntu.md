@@ -1,6 +1,6 @@
 ---
 type: docs
-title: Xubuntu
+title: ➡️ Xubuntu
 # weight: 900
 bookCollapseSection: false
 bookFlatSection: false

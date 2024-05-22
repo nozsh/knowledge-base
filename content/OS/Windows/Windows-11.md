@@ -1,6 +1,6 @@
 ---
 type: docs
-title: Windows 11
+title: ➡️ Windows 11
 weight: 860
 bookCollapseSection: false
 bookFlatSection: false

@@ -1,6 +1,6 @@
 ---
 type: docs
-title: Kubuntu
+title: ➡️ Kubuntu
 # weight: 900
 bookCollapseSection: false
 bookFlatSection: false

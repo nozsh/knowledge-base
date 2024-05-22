@@ -1,12 +1,12 @@
 ---
 type: docs
-title: Восстановление данных. Практическое руководство
+title: ➡️ Восстановление данных. Практическое руководство
 # weight: 9999
 bookCollapseSection: false
 bookFlatSection: false
 bookToc: false
 bookComments: false
-bookSearchExclude: true
+bookSearchExclude: false
 bookHidden: false
 ---
 

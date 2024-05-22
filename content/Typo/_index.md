@@ -7,7 +7,23 @@ bookFlatSection: false
 bookToc: false
 bookComments: false
 bookSearchExclude: true
-bookHidden: false
+bookHidden: true
 ---
 
+# Typo
+
 Как правильно писать.
+
+[Кнопки](buttons)
+
+[Колонки](columns)
+
+[Спойлер/Аккордеон](details)
+
+[Каллауты](hints)
+
+[Вкладки](tabs)
+
+[Mermaid](mermaid)
+
+[Katex](katex)

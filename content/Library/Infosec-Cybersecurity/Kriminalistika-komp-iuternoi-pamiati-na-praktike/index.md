@@ -1,12 +1,12 @@
 ---
 type: docs
-title: Криминалистика компьютерной памяти на практике
+title: ➡️ Криминалистика компьютерной памяти на практике
 # weight: 9999
 bookCollapseSection: false
 bookFlatSection: false
 bookToc: false
 bookComments: false
-bookSearchExclude: true
+bookSearchExclude: false
 bookHidden: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 type: docs
 title: 🏴‍☠️ Черный флаг
-# weight: 9999
+weight: 950
 bookCollapseSection: true
 bookFlatSection: false
 bookToc: false

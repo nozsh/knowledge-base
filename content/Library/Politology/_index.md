@@ -1,11 +1,11 @@
 ---
 type: docs
-title: Политология
+title: ➡️ Политология
 # weight: 9999
 bookCollapseSection: true
 bookFlatSection: false
 bookToc: false
 bookComments: false
-bookSearchExclude: true
+bookSearchExclude: false
 bookHidden: false
 ---

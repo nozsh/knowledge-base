@@ -1,12 +1,12 @@
 ---
 type: docs
-title: Компьютер глазами хакера
+title: ➡️ Компьютер глазами хакера
 # weight: 9999
 bookCollapseSection: false
 bookFlatSection: false
 bookToc: false
 bookComments: false
-bookSearchExclude: true
+bookSearchExclude: false
 bookHidden: false
 ---
 

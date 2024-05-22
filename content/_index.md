@@ -16,3 +16,5 @@ bookHidden: false
 {{< hint info >}}
 Это база знаний, база интересной, полезной и не очень информации.
 {{< /hint >}}
+
+{{< imgs/img "alt text" "100%" "where.gif" >}}

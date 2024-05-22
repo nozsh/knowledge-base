@@ -1,12 +1,12 @@
 ---
 type: docs
-title: Взлом. Приемы, трюки и секреты хакеров. Версия 2.0
+title: ➡️ Взлом. Приемы, трюки и секреты хакеров. Версия 2.0
 # weight: 9999
 bookCollapseSection: false
 bookFlatSection: false
 bookToc: false
 bookComments: false
-bookSearchExclude: true
+bookSearchExclude: false
 bookHidden: false
 ---
 

@@ -1,12 +1,12 @@
 ---
 type: docs
-title: Python глазами хакера
+title: ➡️ Python глазами хакера
 # weight: 9999
 bookCollapseSection: false
 bookFlatSection: false
 bookToc: false
 bookComments: false
-bookSearchExclude: true
+bookSearchExclude: false
 bookHidden: false
 ---
 

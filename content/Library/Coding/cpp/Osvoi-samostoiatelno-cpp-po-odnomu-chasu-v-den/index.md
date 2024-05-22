@@ -1,12 +1,12 @@
 ---
 type: docs
-title: Освой самостоятельно C++ по одному часу в день
+title: ➡️ Освой самостоятельно C++ по одному часу в день
 # weight: 9999
 bookCollapseSection: false
 bookFlatSection: false
 bookToc: false
 bookComments: false
-bookSearchExclude: true
+bookSearchExclude: false
 bookHidden: false
 ---
 

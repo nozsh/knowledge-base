@@ -1,6 +1,6 @@
 ---
 type: docs
-title: Manjaro
+title: ➡️ Manjaro
 # weight: 900
 bookCollapseSection: false
 bookFlatSection: false

@@ -1,12 +1,12 @@
 ---
 type: docs
-title: Новая исповедь экономического убийцы
+title: ➡️ Новая исповедь экономического убийцы
 # weight: 9999
 bookCollapseSection: false
 bookFlatSection: false
 bookToc: false
 bookComments: false
-bookSearchExclude: true
+bookSearchExclude: false
 bookHidden: false
 ---
 
