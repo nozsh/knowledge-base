@@ -1,13 +1,10 @@
 // Remove target=_blank by default
 
-function llinks_rmtb() {
-  llinks_rmtb = document
-    .querySelectorAll("a[target*='_blank']")
-    .forEach((llinks_rmtb) => {
-      llinks_rmtb.setAttribute("target", "");
-    });
-}
-
+llinks_rmtb = document
+  .querySelectorAll("a[target*='_blank']")
+  .forEach((llinks_rmtb) => {
+    llinks_rmtb.setAttribute("target", "");
+  });
 
 // New tab edit page link
 
