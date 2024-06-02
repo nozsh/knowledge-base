@@ -1,7 +1,7 @@
 ---
 type: docs
 title: 📦 Софт
-weight: 900
+weight: 200
 bookCollapseSection: true
 bookFlatSection: false
 bookToc: false

@@ -8,6 +8,13 @@
     <language>ru</language>
     <atom:link href="https://nozsh.su/kb/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>➡️ 🧶 Информация</title>
+      <link>https://nozsh.su/kb/xcom/ai/info/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nozsh.su/kb/xcom/ai/info/</guid>
+      <description>&#xD;Информация&#xD;#&#xD;🚧&#xD;Все что есть в этом разделе (AI), может не работать в Chrome.&#xD;</description>
+    </item>
+    <item>
       <title>➡️ Дисклеймер</title>
       <link>https://nozsh.su/kb/black-flag/info/disclaimer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -62,13 +69,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://nozsh.su/kb/qus/ai/other/</guid>
       <description>Другое&#xD;#&#xD;vectorizer.ai - Нейросети превращают обычную картинку в векторную. Пока в бете бесплатно, когда нибудь станет платным.</description>
-    </item>
-    <item>
-      <title>UNDERGROUND</title>
-      <link>https://nozsh.su/kb/underground/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nozsh.su/kb/underground/</guid>
-      <description>Hellow&#xA;Sub1</description>
     </item>
     <item>
       <title>➡️ ⚪️ 1337x</title>
@@ -197,6 +197,13 @@
       <description>Z-Library&#xD;#&#xD;Z-Library 1, 2.&#xA;Tor&#xD;http://zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion/&#xD;http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion/ Рай для любителей почитать. Тут есть все. Самые дорогие книги в тч.&#xA;Тот самый Z-Library, но это зеркало. Оригинальные сайты доступны только в Tor. И для скачивания книг нужна регистрация, в последний раз регистрация работала только на сайтах в Tor. Не в Tor не отправляется письмо с подтверждением.</description>
     </item>
     <item>
+      <title>➡️ ✨ XCOM AI</title>
+      <link>https://nozsh.su/kb/qus/ai/xcom-ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nozsh.su/kb/qus/ai/xcom-ai/</guid>
+      <description>XCOM AI&#xD;#&#xD;XCOM &amp;gt; AI</description>
+    </item>
+    <item>
       <title>➡️ 🔴 RARBG (LT)</title>
       <link>https://nozsh.su/kb/black-flag/trackers/rarbg/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -225,11 +232,32 @@
       <description>Arch&#xD;#&#xD;archlinux.org/download/</description>
     </item>
     <item>
+      <title>➡️ Bing AI</title>
+      <link>https://nozsh.su/kb/xcom/ai/chat/bing-ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nozsh.su/kb/xcom/ai/chat/bing-ai/</guid>
+      <description>Bing AI&#xD;#&#xD;Bing AI</description>
+    </item>
+    <item>
       <title>➡️ Caramba Switcher</title>
       <link>https://nozsh.su/kb/software/windows/other/caramba-switcher/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://nozsh.su/kb/software/windows/other/caramba-switcher/</guid>
       <description>&#xD;Caramba Switcher&#xD;#&#xD;Caramba Switcher - это переключатель раскладки клавиатуры. Например вы написали &amp;ldquo;ghbdtn vbh&amp;rdquo;, нажали кнопку и абракадабра превратилась в &amp;ldquo;привет мир&amp;rdquo;.&#xA;Так же есть умный режим, который делает это все автоматически. Категорически не советую использовать автоматический режим, если вы программист.&#xA;Скачать&#xD;</description>
+    </item>
+    <item>
+      <title>➡️ Chat</title>
+      <link>https://nozsh.su/kb/xcom/ai/chat/chat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nozsh.su/kb/xcom/ai/chat/chat/</guid>
+      <description>Chat&#xD;#&#xD;Chat</description>
+    </item>
+    <item>
+      <title>➡️ ChatGPT</title>
+      <link>https://nozsh.su/kb/xcom/ai/chat/chatgpt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nozsh.su/kb/xcom/ai/chat/chatgpt/</guid>
+      <description>ChatGPT&#xD;#&#xD;Bing AI</description>
     </item>
     <item>
       <title>➡️ Civitai</title>
@@ -260,11 +288,32 @@
       <description>GameStatus&#xD;#&#xD;GameStatus&#xA;Показывает статус взлома игр. Такой себе сайт, увы не достойная замена нынче покойному CrackWatch.&#xA;Редко обновляется, часто нет новых игр. Если вы любите быть в теме, то вам на другие сайты в этой категории.&#xA;Советую PreDB и 0day.</description>
     </item>
     <item>
+      <title>➡️ GPT 3.5 Turbo</title>
+      <link>https://nozsh.su/kb/xcom/ai/chat/gpt-35-turbo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nozsh.su/kb/xcom/ai/chat/gpt-35-turbo/</guid>
+      <description>GPT 3.5 Turbo&#xD;#&#xD;Bing AI</description>
+    </item>
+    <item>
       <title>➡️ HandBrake (FOSS)</title>
       <link>https://nozsh.su/kb/software/windows/multimedia/handbrake/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://nozsh.su/kb/software/windows/multimedia/handbrake/</guid>
       <description>&#xD;HandBrake&#xD;#&#xD;Лучшая программа для оптимизации/сжатия видео файлов.&#xA;GitHub&#xD;Сайт&#xD;</description>
+    </item>
+    <item>
+      <title>➡️ HentaiEra</title>
+      <link>https://nozsh.su/kb/underground/deadhead/pron/hentai/hentaiera/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nozsh.su/kb/underground/deadhead/pron/hentai/hentaiera/</guid>
+      <description>&#xD;HentaiEra&#xD;#&#xD;</description>
+    </item>
+    <item>
+      <title>➡️ Image Gen</title>
+      <link>https://nozsh.su/kb/xcom/ai/images/image-gen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nozsh.su/kb/xcom/ai/images/image-gen/</guid>
+      <description>Image Gen&#xD;#&#xD;Image Gen</description>
     </item>
     <item>
       <title>➡️ Kubuntu</title>
@@ -286,6 +335,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://nozsh.su/kb/os/linux/arch/manjaro/</guid>
       <description>Manjaro&#xD;#&#xD;manjaro.org/download/</description>
+    </item>
+    <item>
+      <title>➡️ nHentai</title>
+      <link>https://nozsh.su/kb/underground/deadhead/pron/hentai/nhentai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nozsh.su/kb/underground/deadhead/pron/hentai/nhentai/</guid>
+      <description>&#xD;nHentai&#xD;#&#xD;</description>
     </item>
     <item>
       <title>➡️ PostgreSQL на русском</title>
@@ -323,11 +379,25 @@
       <description>&#xD;ReNamer&#xD;#&#xD;ReNamer - программа для переименования файлов с широкими возможностями. Позволяет изменять префиксы, суффиксы, заменять части слова, названия или буквы, изменять регистр, удалять скобки, добавлять порядковые номера, удалять цифры и символы, изменять расширение файлов и тд и тп.&#xA;Ключи активации&#xD;4C4943314E91AB6FA3EE2CF4548D6235CFC49E214FF2E48F9CE03E3597710F4BB6D591BFFCE0201C5E711DE895B00175264B14BF7CCBAE8937B6C26D878BA38B6BBBEB46B49C47BA610016C5B83C67CA3765&#xD;4C4943316B7C83228FEF39063B5459281C2FBF40FD886E3DB8DD41E56E98EC1FD056128D98EEA53DE1A871DBDE0D986EB976FC41D56DCE39AFC38E3E255E6A412CB83161236D0EE8D44761EDDC2328D5A319&#xD;4C494331594FC25A05ADD2E3D8EEE1E007C2531DA4D44ADFA0E8C188141AA7A97BF48D60B3991C0652DAE813FF0569CBC7EA9CAC0C4CA2A09708EA4276CB741C22AA9695D93229DF54E2C009C2BDBC912249&#xD;4C49433117D647946489FE796683C2A140F603E90007933DD1161148AA9FF420B03862B8FE5A193DCD6A4863ABA047E2E00EECCCD8C8865B3785274BE4F972596058350E36E20E4D1613BB86D586E55A3102&#xD;4C49433174AED7FA13754111F232CBE0C6336CEE554436ED909AFC98E036A897FC15DF1A3A7AC702426C819C87E1C3F5E339D5370E16171DEE501930E8D6951CB61BAC022C1F3264EA359DD85E930ED8B57E&#xD;4C494331D9792253C0D0EE57CE679DCD0DDF7C8E6F34F528ECE0AC970C65D1C11A111F1FC6FB697984F8278F455CB83536F6BB54B1579E34F27A3F541AC20C2F811957D1F65D682C1D08BC15D505BB62BB9C&#xD;4C494331542609E92B83A87298D4D4020B818E0EB64343EA8ABF5A6BE17D5CD7055ACE64112B57494238B037906F70F69093B2F44A6052927EE2934C937E3E29DC1C89A7D47168818AE97AA71645E0C690FE&#xD;4C4943319436FA10906BE516359113E2654A23DE33CDE13B3778D93161E6D3FE6AF315D794DC2B97F4D5B29A9C0506E8F5D979E6A2967C692528E2AAE97D645CE1B04DE252ED7B156915111C21D4E20B47DE&#xD;4C494331074B9827E0804F63272F3DCAABDE8AE59C0FE5BD55E3652AC599CFFFD9B8F2DAEED7CE8D0CE2D4F536E2A4C1791D585E0CFAE63A0000A51D73DF5A12964A2E907E96EA89DF567FE40026AC3223E7&#xD;4C494331396E1B2B09DA000277A4FDBCC27A900EE5DBA8EE9D3E5BA01D7D2E99920ED74F33992A5AA0C7B315C505D7E9D7705F9C8392235DAFBB1D32899A66EC3DDC00B9D53C930906650228699E34AF3DC9&#xD;4C4943312FD7183921A93A98E0CF282235476D0B292850B1CED511355C551898C94FCA2DA034F88E4C6E9A07677A18642D856A52A218BBD9F83C6D48AE890336942132D684E27E16D0965204F8DF8EE432D0&#xD;4C494331632590A181DF95B6F29115617A045239F778BFBBB26CD976AD719E322BD2D67C151E8EFD54B7B8ED5285B2CA73A026C93C33B5A3C69619C48522F6B2648F29FCC86BF789B61721615FC7F4C8EF0A&#xD;4C494331854B815ACE1DB547B8C6F317D5523354AEFB9907BD3036F1C31F0DF77346806117B143F5C4BD2993D2D641127EA9AD901A38CEBE1DB887C50F5710A462E46EC69A7304C796C74053B20A468BDB68 Скачать&#xD;</description>
     </item>
     <item>
+      <title>➡️ RuTracker</title>
+      <link>https://nozsh.su/kb/underground/deleted/knowledge-base/black-flag/trackers/rutracker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nozsh.su/kb/underground/deleted/knowledge-base/black-flag/trackers/rutracker/</guid>
+      <description>&#xD;RuTracker&#xD;#&#xD;Расширение для браузера&#xD;#&#xD;Плагин для браузеров на Chromium&#xA;Плагин для Firefox (версия браузера 56&amp;gt;=)&#xA;FAQ&#xD;#&#xD;</description>
+    </item>
+    <item>
       <title>➡️ Scene-RLS RELEASES</title>
       <link>https://nozsh.su/kb/black-flag/data/scene-rls-releases/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://nozsh.su/kb/black-flag/data/scene-rls-releases/</guid>
       <description>Scene-RLS RELEASES&#xD;#&#xD;Scene-RLS RELEASES&#xA;Актуальная информация для всего.&#xA;Сложно, очень сложно.</description>
+    </item>
+    <item>
+      <title>➡️ SDXLFlash</title>
+      <link>https://nozsh.su/kb/xcom/ai/images/sdxlflash/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nozsh.su/kb/xcom/ai/images/sdxlflash/</guid>
+      <description>SDXLFlash&#xD;#&#xD;Image Gen</description>
     </item>
     <item>
       <title>➡️ Sublime Text</title>
@@ -433,6 +503,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://nozsh.su/kb/library/system-administration/linux/posobie-po-programmirovaniiu-modulei-iadra-linux/</guid>
       <description>&#xD;Пособие по программированию модулей ядра Linux&#xD;#&#xD;Автор Год Перевод Jim Huang et al 2022 RUVDS Продолжаем совмещать приятное с полезным. Перед вами актуальная версия полностью переведённого руководства, которое вышло 2 июля 2022 года.&#xA;Пароль: (2?2voh&amp;quot;*~GU8*8l&#xA;PDF, FB2&#xA;Скачать&#xD;</description>
+    </item>
+    <item>
+      <title>➡️ Почувствуй себя китайцем - Как сделать VPN</title>
+      <link>https://nozsh.su/kb/underground/deleted/articles/pochuvstvui-sebia-kitaitsem-kak-sdelat-vpn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nozsh.su/kb/underground/deleted/articles/pochuvstvui-sebia-kitaitsem-kak-sdelat-vpn/</guid>
+      <description>&#xD;Почувствуй себя китайцем - Как сделать VPN&#xD;#&#xD;</description>
     </item>
     <item>
       <title>➡️ Таблица приватных трекеров</title>
@@ -622,6 +699,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://nozsh.su/kb/black-flag/web/xenforo.info/</guid>
       <description>XENFORO.INFO&#xD;#&#xD;XENFORO.INFO&#xA;Все для движка xenforo. Сайт полностью платный, как платить решать вам. Можно собрать симпатии (аналог лайков) или разово заплатить, что бы получить доступ ко всем слитым темам, плагинам и релизам.&#xA;Или если просто нужна помощь с форумом, здесь можно задать вопрос или найти ответ на нужный.</description>
+    </item>
+    <item>
+      <title>➡️ 🤗 Hugging-Face</title>
+      <link>https://nozsh.su/kb/xcom/ai/chat/hugging-face/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nozsh.su/kb/xcom/ai/chat/hugging-face/</guid>
+      <description>Hugging Face&#xD;#&#xD;HF JailBreak</description>
     </item>
     <item>
       <title>Katex</title>

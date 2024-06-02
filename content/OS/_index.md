@@ -1,7 +1,7 @@
 ---
 type: docs
 title: 💽 Операционки
-weight: 900
+weight: 100
 bookCollapseSection: true
 bookFlatSection: false
 bookToc: false

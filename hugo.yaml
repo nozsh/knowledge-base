@@ -32,6 +32,9 @@ menu:
     - name: "📟 Терминал"
       url: "https://nozsh.su/"
       weight: 10
+    - name: "💬 Контакт"
+      url: "https://nozsh.su/contact"
+      weight: 15
     - name: "✏️ Блог"
       url: "https://nozsh.su/blog/"
       weight: 20
