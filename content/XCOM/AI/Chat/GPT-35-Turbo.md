@@ -13,4 +13,4 @@ bookHidden: false
 
 # GPT 3.5 Turbo
 
-[Bing AI](/xcom/ai/chat/gpt35turbo/)
+[GPT 3.5 Turbo](/xcom/ai/chat/gpt35turbo/)

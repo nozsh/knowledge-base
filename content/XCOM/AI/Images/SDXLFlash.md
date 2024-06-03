@@ -13,4 +13,4 @@ bookHidden: false
 
 # SDXLFlash
 
-[Image Gen](/xcom/ai/image/sdxl-flash/)
+[SDXLFlash](/xcom/ai/image/sdxl-flash/)

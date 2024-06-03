@@ -13,4 +13,4 @@ bookHidden: false
 
 # ChatGPT
 
-[Bing AI](/xcom/ai/chat/gpt/)
+[ChatGPT](/xcom/ai/chat/gpt/)
