@@ -295,6 +295,13 @@
       <description>&#xD;Civitai&#xD;#&#xD;Civitai&#xA;Сайт с кучей AI контента. Модели, лоры, сгенерированные пикчи, видео и тд. и тп.&#xA;&amp;nbsp;Есть поддержка NSFW.&#xD;</description>
     </item>
     <item>
+      <title>➡️ cURL Converter</title>
+      <link>https://nozsh.su/kb/qus/converters/other/curl-converter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nozsh.su/kb/qus/converters/other/curl-converter/</guid>
+      <description>cURL Converter&#xD;#&#xD;cURL Converter&#xA;Крутая утилита, используйте вкладку &amp;ldquo;Сеть&amp;rdquo; в инструментах разработчика, чтобы скопировать запрос как cURL, и конвертируйте его в код.&#xA;Пример&#xD;cURL&#xA;curl &amp;#39;http://en.wikipedia.org/&amp;#39; \ -H &amp;#39;Accept-Encoding: gzip, deflate, sdch&amp;#39; \ -H &amp;#39;Accept-Language: en-US,en;q=0.8&amp;#39; \ -H &amp;#39;User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0&amp;#39; \ -H &amp;#39;Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8&amp;#39; \ -H &amp;#39;Referer: http://www.wikipedia.org/&amp;#39; \ -H &amp;#39;Connection: keep-alive&amp;#39; --compressed to Python&#xD;import requests headers = { # &amp;#39;Accept-Encoding&amp;#39;: &amp;#39;gzip, deflate, sdch&amp;#39;, &amp;#39;Accept-Language&amp;#39;: &amp;#39;en-US,en;q=0.</description>
+    </item>
+    <item>
       <title>➡️ Danbooru</title>
       <link>https://nozsh.su/kb/underground/deadhead/pron/booru-boards/danbooru-donmai-us/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
