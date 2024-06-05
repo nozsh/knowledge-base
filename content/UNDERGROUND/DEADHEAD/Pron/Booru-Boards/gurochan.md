@@ -13,6 +13,6 @@ bookHidden: false
 
 # GuroChan
 
-[https://guro.cx/](https://https://guro.cx/?nt)
+[https://guro.cx/](https://guro.cx/?nt)
 
-[https://boards.guro.cx/](https://https://boards.guro.cx/?nt)
+[https://boards.guro.cx/](https://boards.guro.cx/?nt)
