@@ -10,7 +10,7 @@ llinks_rmtb = document
 
 llinks_editpage = document
   .querySelectorAll(
-    "a[href*='https://github.com/nozsh/knowledge-base/tree/master/content/']"
+    "a[href*='https://github.com/nozsh/knowledge-base/tree/main/content/']"
   )
   .forEach((llinks_editpage) => {
     let llinks_editpage_href = llinks_editpage.href;
