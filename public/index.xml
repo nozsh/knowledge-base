@@ -225,11 +225,25 @@
       <description>7zip&#xD;#&#xD;7-Zip - свободный файловый архиватор с высокой степенью сжатия данных. Поддерживает несколько алгоритмов сжатия и множество форматов данных, включая собственный формат 7z c высокоэффективным алгоритмом сжатия LZMA.&#xA;Моя рекомендация&#xD;Лично я предпочитаю использовать версию 19.00.&#xA;Новые версии прекрасны, но у них есть ограничение. Когда вы настраивайте параметры архивации перед архивацией, программа оценивает нужную оперативную память. И в новой версии нельзя использовать максимальные настройки если у вас нету 100+ gb ОЗУ - оно просто не даст запустить архивацию.</description>
     </item>
     <item>
+      <title>➡️ Allthefallen</title>
+      <link>https://nozsh.su/kb/underground/deadhead/pron/booru-boards/booru-allthefallen-moe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nozsh.su/kb/underground/deadhead/pron/booru-boards/booru-allthefallen-moe/</guid>
+      <description>Allthefallen&#xD;#&#xD;booru.allthefallen.moe</description>
+    </item>
+    <item>
       <title>➡️ Arch</title>
       <link>https://nozsh.su/kb/os/linux/arch/arch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://nozsh.su/kb/os/linux/arch/arch/</guid>
       <description>Arch&#xD;#&#xD;archlinux.org/download/</description>
+    </item>
+    <item>
+      <title>➡️ Beeg</title>
+      <link>https://nozsh.su/kb/underground/deadhead/pron/just-tubes/beeg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nozsh.su/kb/underground/deadhead/pron/just-tubes/beeg/</guid>
+      <description>Beeg&#xD;#&#xD;Beeg</description>
     </item>
     <item>
       <title>➡️ Bing AI</title>
@@ -246,6 +260,13 @@
       <description>&#xD;Caramba Switcher&#xD;#&#xD;Caramba Switcher - это переключатель раскладки клавиатуры. Например вы написали &amp;ldquo;ghbdtn vbh&amp;rdquo;, нажали кнопку и абракадабра превратилась в &amp;ldquo;привет мир&amp;rdquo;.&#xA;Так же есть умный режим, который делает это все автоматически. Категорически не советую использовать автоматический режим, если вы программист.&#xA;Скачать&#xD;</description>
     </item>
     <item>
+      <title>➡️ CharHub</title>
+      <link>https://nozsh.su/kb/qus/ai/chat-bots/charhub/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nozsh.su/kb/qus/ai/chat-bots/charhub/</guid>
+      <description>CharHub&#xD;#&#xD;CharHub&#xA;Куча чат ботов как и у FlowGPT, абсолютно бесплатно, но разумеется после регистрации (Emailnator в помощь).&#xA;Дизайн сайт еще хуже чем у FlowGPT, но зато почти нет ошибок, разве что, иногда бот не до конца генерирует текст.&#xA;Так же сервис позволяет генерировать качественные изображения (всего 5 пальцев), но генерации ограниченны: 10 штук в день.&#xA;Боты качественные, в меру умные - советую.</description>
+    </item>
+    <item>
       <title>➡️ Chat</title>
       <link>https://nozsh.su/kb/xcom/ai/chat/chat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -260,6 +281,13 @@
       <description>ChatGPT&#xD;#&#xD;ChatGPT</description>
     </item>
     <item>
+      <title>➡️ Chub</title>
+      <link>https://nozsh.su/kb/qus/ai/chat-bots/chub/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nozsh.su/kb/qus/ai/chat-bots/chub/</guid>
+      <description>Chub&#xD;#&#xD;Chub&#xA;CharacterHub&#xA;Chub и CharacterHub в одной сети. В Chub диалоги ведутся у них на сайте, с их моделями, разумеется после регистрации.&#xA;Chub условно бесплатный (вроде как), есть ограничения в виде кредитов, один кредит = один ответ от бота, но я так и не смог потратить все кредиты. Вероятней всего они часто обновляются.&#xA;В CharacterHub же, находятся карточки с персонажами, которые можно скачать или импортировать, для общения, абсолютно бесплатно, в разные сервисы, без регистрации, без кредитов (модели обслуживаются обычными людьми).</description>
+    </item>
+    <item>
       <title>➡️ Civitai</title>
       <link>https://nozsh.su/kb/qus/ai/civitai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -267,11 +295,39 @@
       <description>&#xD;Civitai&#xD;#&#xD;Civitai&#xA;Сайт с кучей AI контента. Модели, лоры, сгенерированные пикчи, видео и тд. и тп.&#xA;&amp;nbsp;Есть поддержка NSFW.&#xD;</description>
     </item>
     <item>
+      <title>➡️ Danbooru</title>
+      <link>https://nozsh.su/kb/underground/deadhead/pron/booru-boards/danbooru-donmai-us/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nozsh.su/kb/underground/deadhead/pron/booru-boards/danbooru-donmai-us/</guid>
+      <description>Danbooru.donmai.us&#xD;#&#xD;danbooru.donmai.us</description>
+    </item>
+    <item>
       <title>➡️ Debian</title>
       <link>https://nozsh.su/kb/os/linux/debian/debian/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://nozsh.su/kb/os/linux/debian/debian/</guid>
       <description>Debian&#xD;#&#xD;debian.org/distrib/</description>
+    </item>
+    <item>
+      <title>➡️ E621</title>
+      <link>https://nozsh.su/kb/underground/deadhead/pron/booru-boards/e621-net/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nozsh.su/kb/underground/deadhead/pron/booru-boards/e621-net/</guid>
+      <description>E621&#xD;#&#xD;e621.net</description>
+    </item>
+    <item>
+      <title>➡️ E926</title>
+      <link>https://nozsh.su/kb/underground/deadhead/pron/booru-boards/e926-net/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nozsh.su/kb/underground/deadhead/pron/booru-boards/e926-net/</guid>
+      <description>E926&#xD;#&#xD;e926.net</description>
+    </item>
+    <item>
+      <title>➡️ Eporner</title>
+      <link>https://nozsh.su/kb/underground/deadhead/pron/just-tubes/eporner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nozsh.su/kb/underground/deadhead/pron/just-tubes/eporner/</guid>
+      <description>Eporner&#xD;#&#xD;Eporner</description>
     </item>
     <item>
       <title>➡️ Everything</title>
@@ -288,11 +344,25 @@
       <description>GameStatus&#xD;#&#xD;GameStatus&#xA;Показывает статус взлома игр. Такой себе сайт, увы не достойная замена нынче покойному CrackWatch.&#xA;Редко обновляется, часто нет новых игр. Если вы любите быть в теме, то вам на другие сайты в этой категории.&#xA;Советую PreDB и 0day.</description>
     </item>
     <item>
+      <title>➡️ Gelbooru</title>
+      <link>https://nozsh.su/kb/underground/deadhead/pron/booru-boards/gelbooru-com/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nozsh.su/kb/underground/deadhead/pron/booru-boards/gelbooru-com/</guid>
+      <description>Gelbooru&#xD;#&#xD;gelbooru.com</description>
+    </item>
+    <item>
       <title>➡️ GPT 3.5 Turbo</title>
       <link>https://nozsh.su/kb/xcom/ai/chat/gpt-35-turbo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://nozsh.su/kb/xcom/ai/chat/gpt-35-turbo/</guid>
       <description>GPT 3.5 Turbo&#xD;#&#xD;GPT 3.5 Turbo</description>
+    </item>
+    <item>
+      <title>➡️ GuroChan</title>
+      <link>https://nozsh.su/kb/underground/deadhead/pron/booru-boards/gurochan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nozsh.su/kb/underground/deadhead/pron/booru-boards/gurochan/</guid>
+      <description>GuroChan&#xD;#&#xD;https://guro.cx/&#xA;https://boards.guro.cx/</description>
     </item>
     <item>
       <title>➡️ HandBrake (FOSS)</title>
@@ -306,7 +376,21 @@
       <link>https://nozsh.su/kb/underground/deadhead/pron/hentai/hentaiera/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://nozsh.su/kb/underground/deadhead/pron/hentai/hentaiera/</guid>
-      <description>&#xD;HentaiEra&#xD;#&#xD;</description>
+      <description>HentaiEra&#xD;#&#xD;HentaiEra</description>
+    </item>
+    <item>
+      <title>➡️ Hobby</title>
+      <link>https://nozsh.su/kb/underground/deadhead/pron/just-tubes/hobby/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nozsh.su/kb/underground/deadhead/pron/just-tubes/hobby/</guid>
+      <description>Hobby&#xD;#&#xD;Hobby</description>
+    </item>
+    <item>
+      <title>➡️ Hypnohub</title>
+      <link>https://nozsh.su/kb/underground/deadhead/pron/booru-boards/hypnohub-net/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nozsh.su/kb/underground/deadhead/pron/booru-boards/hypnohub-net/</guid>
+      <description>Hypnohub&#xD;#&#xD;hypnohub.net</description>
     </item>
     <item>
       <title>➡️ Image Gen</title>
@@ -314,6 +398,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://nozsh.su/kb/xcom/ai/images/image-gen/</guid>
       <description>Image Gen&#xD;#&#xD;Image Gen</description>
+    </item>
+    <item>
+      <title>➡️ Konachan</title>
+      <link>https://nozsh.su/kb/underground/deadhead/pron/booru-boards/konachan-com/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nozsh.su/kb/underground/deadhead/pron/booru-boards/konachan-com/</guid>
+      <description>Konachan&#xD;#&#xD;konachan.com</description>
     </item>
     <item>
       <title>➡️ Kubuntu</title>
@@ -341,7 +432,14 @@
       <link>https://nozsh.su/kb/underground/deadhead/pron/hentai/nhentai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://nozsh.su/kb/underground/deadhead/pron/hentai/nhentai/</guid>
-      <description>&#xD;nHentai&#xD;#&#xD;</description>
+      <description>nHentai&#xD;#&#xD;nHentai</description>
+    </item>
+    <item>
+      <title>➡️ Paheal</title>
+      <link>https://nozsh.su/kb/underground/deadhead/pron/booru-boards/rule34-paheal-net/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nozsh.su/kb/underground/deadhead/pron/booru-boards/rule34-paheal-net/</guid>
+      <description>Paheal&#xD;#&#xD;rule34.paheal.net</description>
     </item>
     <item>
       <title>➡️ PostgreSQL на русском</title>
@@ -372,6 +470,13 @@
       <description>&#xD;qBittorrent&#xD;#&#xD;Просто лучший торрент клиент.&#xA;Скачать&#xD;</description>
     </item>
     <item>
+      <title>➡️ Realbooru</title>
+      <link>https://nozsh.su/kb/underground/deadhead/pron/booru-boards/realbooru-com/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nozsh.su/kb/underground/deadhead/pron/booru-boards/realbooru-com/</guid>
+      <description>Realbooru&#xD;#&#xD;realbooru.com</description>
+    </item>
+    <item>
       <title>➡️ ReNamer</title>
       <link>https://nozsh.su/kb/software/windows/data/renamer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -379,11 +484,25 @@
       <description>&#xD;ReNamer&#xD;#&#xD;ReNamer - программа для переименования файлов с широкими возможностями. Позволяет изменять префиксы, суффиксы, заменять части слова, названия или буквы, изменять регистр, удалять скобки, добавлять порядковые номера, удалять цифры и символы, изменять расширение файлов и тд и тп.&#xA;Ключи активации&#xD;4C4943314E91AB6FA3EE2CF4548D6235CFC49E214FF2E48F9CE03E3597710F4BB6D591BFFCE0201C5E711DE895B00175264B14BF7CCBAE8937B6C26D878BA38B6BBBEB46B49C47BA610016C5B83C67CA3765&#xD;4C4943316B7C83228FEF39063B5459281C2FBF40FD886E3DB8DD41E56E98EC1FD056128D98EEA53DE1A871DBDE0D986EB976FC41D56DCE39AFC38E3E255E6A412CB83161236D0EE8D44761EDDC2328D5A319&#xD;4C494331594FC25A05ADD2E3D8EEE1E007C2531DA4D44ADFA0E8C188141AA7A97BF48D60B3991C0652DAE813FF0569CBC7EA9CAC0C4CA2A09708EA4276CB741C22AA9695D93229DF54E2C009C2BDBC912249&#xD;4C49433117D647946489FE796683C2A140F603E90007933DD1161148AA9FF420B03862B8FE5A193DCD6A4863ABA047E2E00EECCCD8C8865B3785274BE4F972596058350E36E20E4D1613BB86D586E55A3102&#xD;4C49433174AED7FA13754111F232CBE0C6336CEE554436ED909AFC98E036A897FC15DF1A3A7AC702426C819C87E1C3F5E339D5370E16171DEE501930E8D6951CB61BAC022C1F3264EA359DD85E930ED8B57E&#xD;4C494331D9792253C0D0EE57CE679DCD0DDF7C8E6F34F528ECE0AC970C65D1C11A111F1FC6FB697984F8278F455CB83536F6BB54B1579E34F27A3F541AC20C2F811957D1F65D682C1D08BC15D505BB62BB9C&#xD;4C494331542609E92B83A87298D4D4020B818E0EB64343EA8ABF5A6BE17D5CD7055ACE64112B57494238B037906F70F69093B2F44A6052927EE2934C937E3E29DC1C89A7D47168818AE97AA71645E0C690FE&#xD;4C4943319436FA10906BE516359113E2654A23DE33CDE13B3778D93161E6D3FE6AF315D794DC2B97F4D5B29A9C0506E8F5D979E6A2967C692528E2AAE97D645CE1B04DE252ED7B156915111C21D4E20B47DE&#xD;4C494331074B9827E0804F63272F3DCAABDE8AE59C0FE5BD55E3652AC599CFFFD9B8F2DAEED7CE8D0CE2D4F536E2A4C1791D585E0CFAE63A0000A51D73DF5A12964A2E907E96EA89DF567FE40026AC3223E7&#xD;4C494331396E1B2B09DA000277A4FDBCC27A900EE5DBA8EE9D3E5BA01D7D2E99920ED74F33992A5AA0C7B315C505D7E9D7705F9C8392235DAFBB1D32899A66EC3DDC00B9D53C930906650228699E34AF3DC9&#xD;4C4943312FD7183921A93A98E0CF282235476D0B292850B1CED511355C551898C94FCA2DA034F88E4C6E9A07677A18642D856A52A218BBD9F83C6D48AE890336942132D684E27E16D0965204F8DF8EE432D0&#xD;4C494331632590A181DF95B6F29115617A045239F778BFBBB26CD976AD719E322BD2D67C151E8EFD54B7B8ED5285B2CA73A026C93C33B5A3C69619C48522F6B2648F29FCC86BF789B61721615FC7F4C8EF0A&#xD;4C494331854B815ACE1DB547B8C6F317D5523354AEFB9907BD3036F1C31F0DF77346806117B143F5C4BD2993D2D641127EA9AD901A38CEBE1DB887C50F5710A462E46EC69A7304C796C74053B20A468BDB68 Скачать&#xD;</description>
     </item>
     <item>
+      <title>➡️ Rule34</title>
+      <link>https://nozsh.su/kb/underground/deadhead/pron/booru-boards/rule34-xxx/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nozsh.su/kb/underground/deadhead/pron/booru-boards/rule34-xxx/</guid>
+      <description>Rule34&#xD;#&#xD;rule34.xxx</description>
+    </item>
+    <item>
       <title>➡️ RuTracker</title>
       <link>https://nozsh.su/kb/underground/deleted/knowledge-base/black-flag/trackers/rutracker/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://nozsh.su/kb/underground/deleted/knowledge-base/black-flag/trackers/rutracker/</guid>
       <description>&#xD;RuTracker&#xD;#&#xD;Расширение для браузера&#xD;#&#xD;Плагин для браузеров на Chromium&#xA;Плагин для Firefox (версия браузера 56&amp;gt;=)&#xA;FAQ&#xD;#&#xD;</description>
+    </item>
+    <item>
+      <title>➡️ Sakugabooru [SFW]</title>
+      <link>https://nozsh.su/kb/underground/deadhead/pron/booru-boards/sakugabooru-com-sfw/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nozsh.su/kb/underground/deadhead/pron/booru-boards/sakugabooru-com-sfw/</guid>
+      <description>Sakugabooru&#xD;#&#xD;sakugabooru.com</description>
     </item>
     <item>
       <title>➡️ Scene-RLS RELEASES</title>
@@ -400,11 +519,25 @@
       <description>SDXLFlash&#xD;#&#xD;SDXLFlash</description>
     </item>
     <item>
+      <title>➡️ SpankBang</title>
+      <link>https://nozsh.su/kb/underground/deadhead/pron/just-tubes/spankbang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nozsh.su/kb/underground/deadhead/pron/just-tubes/spankbang/</guid>
+      <description>SpankBang&#xD;#&#xD;SpankBang</description>
+    </item>
+    <item>
       <title>➡️ Sublime Text</title>
       <link>https://nozsh.su/kb/software/windows/ide-code-editors/sublime-text/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://nozsh.su/kb/software/windows/ide-code-editors/sublime-text/</guid>
       <description>&#xD;Sublime Text&#xD;#&#xD;Sublime просто Sublime.&#xA;Скачать&#xD;</description>
+    </item>
+    <item>
+      <title>➡️ TNAFlix</title>
+      <link>https://nozsh.su/kb/underground/deadhead/pron/just-tubes/tnaflix/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nozsh.su/kb/underground/deadhead/pron/just-tubes/tnaflix/</guid>
+      <description>TNAFlix&#xD;#&#xD;TNAFlix</description>
     </item>
     <item>
       <title>➡️ Ubuntu</title>
@@ -421,6 +554,13 @@
       <description>&#xD;VS Code&#xD;#&#xD;Visual Studio Code - редактор кода, разработанный Microsoft. Позиционируется как «легкий» редактор кода для кроссплатформенной разработки веб и облачных приложений&#xA;Скачать&#xD;</description>
     </item>
     <item>
+      <title>➡️ Xbooru</title>
+      <link>https://nozsh.su/kb/underground/deadhead/pron/booru-boards/xbooru-com/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nozsh.su/kb/underground/deadhead/pron/booru-boards/xbooru-com/</guid>
+      <description>Xbooru&#xD;#&#xD;xbooru.com</description>
+    </item>
+    <item>
       <title>➡️ xREL</title>
       <link>https://nozsh.su/kb/black-flag/data/xrel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -433,6 +573,20 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://nozsh.su/kb/os/linux/debian/xubuntu/</guid>
       <description>Xubuntu&#xD;#&#xD;xubuntu.org/download/</description>
+    </item>
+    <item>
+      <title>➡️ Yande.re</title>
+      <link>https://nozsh.su/kb/underground/deadhead/pron/booru-boards/yande-re/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nozsh.su/kb/underground/deadhead/pron/booru-boards/yande-re/</guid>
+      <description>Yande.re&#xD;#&#xD;yande.re</description>
+    </item>
+    <item>
+      <title>➡️ YouPorn</title>
+      <link>https://nozsh.su/kb/underground/deadhead/pron/just-tubes/youporn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nozsh.su/kb/underground/deadhead/pron/just-tubes/youporn/</guid>
+      <description>YouPorn&#xD;#&#xD;YouPorn</description>
     </item>
     <item>
       <title>➡️ Взлом. Приемы, трюки и секреты хакеров. Версия 2.0</title>
@@ -705,7 +859,7 @@
       <link>https://nozsh.su/kb/xcom/ai/chat/hugging-face/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://nozsh.su/kb/xcom/ai/chat/hugging-face/</guid>
-      <description>Hugging Face&#xD;#&#xD;HF JailBreak</description>
+      <description>Hugging Face&#xD;#&#xD;Для чатинга на более чем одно сообщение, нужна регистрация на Hugging Face&#xA;Hugging Face&#xA;Сколько то моделей, сколько то чатов. Особо не тестировал, как работает точно не знаю.&#xA;HF JailBreak&#xA;Это чат с джейлбрейком ChatGPT 3.5, вроде как Turbo. Весьма туп, но забавный.</description>
     </item>
     <item>
       <title>Katex</title>

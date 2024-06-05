@@ -7,5 +7,19 @@
     <generator>Hugo</generator>
     <language>ru</language>
     <atom:link href="https://nozsh.su/kb/qus/ai/chat-bots/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>➡️ CharHub</title>
+      <link>https://nozsh.su/kb/qus/ai/chat-bots/charhub/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nozsh.su/kb/qus/ai/chat-bots/charhub/</guid>
+      <description>CharHub&#xD;#&#xD;CharHub&#xA;Куча чат ботов как и у FlowGPT, абсолютно бесплатно, но разумеется после регистрации (Emailnator в помощь).&#xA;Дизайн сайт еще хуже чем у FlowGPT, но зато почти нет ошибок, разве что, иногда бот не до конца генерирует текст.&#xA;Так же сервис позволяет генерировать качественные изображения (всего 5 пальцев), но генерации ограниченны: 10 штук в день.&#xA;Боты качественные, в меру умные - советую.</description>
+    </item>
+    <item>
+      <title>➡️ Chub</title>
+      <link>https://nozsh.su/kb/qus/ai/chat-bots/chub/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nozsh.su/kb/qus/ai/chat-bots/chub/</guid>
+      <description>Chub&#xD;#&#xD;Chub&#xA;CharacterHub&#xA;Chub и CharacterHub в одной сети. В Chub диалоги ведутся у них на сайте, с их моделями, разумеется после регистрации.&#xA;Chub условно бесплатный (вроде как), есть ограничения в виде кредитов, один кредит = один ответ от бота, но я так и не смог потратить все кредиты. Вероятней всего они часто обновляются.&#xA;В CharacterHub же, находятся карточки с персонажами, которые можно скачать или импортировать, для общения, абсолютно бесплатно, в разные сервисы, без регистрации, без кредитов (модели обслуживаются обычными людьми).</description>
+    </item>
   </channel>
 </rss>

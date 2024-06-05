@@ -7,13 +7,13 @@ bookCollapseSection: false
 bookFlatSection: false
 bookToc: false
 bookComments: false
-bookSearchExclude: false
+bookSearchExclude: true
 bookHidden: false
 ---
 
 # TheYNC
 
-![](theync_screenshot.jpg)
+![](theync-screenshot.jpg)
 
 Немного порно, и много крови ;)
 
