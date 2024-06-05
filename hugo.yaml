@@ -4,6 +4,10 @@ defaultContentLanguage: ru
 title: Knowledge Base
 theme: ["hugo-book"]
 
+minify:
+  disableXML: true
+  minifyOutput: true
+
 # Book configuration
 disablePathToLower: false
 enableGitInfo: false
