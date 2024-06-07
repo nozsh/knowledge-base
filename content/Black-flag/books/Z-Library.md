@@ -13,12 +13,22 @@ bookHidden: false
 
 # Z-Library
 
-Z-Library [1](https://singlelogin.re/?nt), [2](https://zlibrary-global.se/?nt).
+- [singlelogin.re](https://singlelogin.re/?nt)
+- [singlelogin.rs](https://singlelogin.rs/?nt)
+- [Reddit](https://www.reddit.com/r/zlibrary/?nt)
+- [Mastodon](https://mastodon.social/@Z_Lib_official?nt)
+- [Telegram](https://t.me/zlibrary_official?nt)
+- [Wikipedia](https://en.wikipedia.org/wiki/Z-Library?nt)
+
+{{< hint info >}}
+**ФРБ объявило охоту на Z-Lib.**<br>
+**Актуальные домены лучше смотреть на Reddit, Telegram, Mastodon и Wikipedia.**
+{{< /hint >}}
 
 {{< details "Tor" >}}
 
 ```
-http://zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion/
+http://zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion/ # Возможно не актуален
 http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion/
 ```
 
