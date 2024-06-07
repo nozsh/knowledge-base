@@ -21,7 +21,6 @@ bookHidden: false
 - [Wikipedia](https://en.wikipedia.org/wiki/Z-Library?nt)
 
 {{< hint info >}}
-**ФРБ объявило охоту на Z-Lib.**<br>
 **Актуальные домены лучше смотреть на Reddit, Telegram, Mastodon и Wikipedia.**
 {{< /hint >}}
 
