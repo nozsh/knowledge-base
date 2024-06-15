@@ -19,6 +19,6 @@ bookHidden: false
 
 Сколько то моделей, сколько то чатов. Особо не тестировал, как работает точно не знаю.
 
-[HF JailBreak](/xcom/ai/chat/huggingface-jailbreak/)
+[HF JailBreak](/xcom/ai/chat/hf-jb/)
 
 Это чат с джейлбрейком ChatGPT 3.5, вроде как Turbo. Весьма туп, но забавный.
