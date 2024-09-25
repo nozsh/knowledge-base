@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ 🟠 Bitsearch
+title: 🟠 Bitsearch
 # description: "IDK"
 # weight: 900
 bookCollapseSection: false

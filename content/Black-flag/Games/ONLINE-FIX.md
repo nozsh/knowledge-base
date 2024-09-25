@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ 🟠 ONLINE-FIX
+title: 🟠 ONLINE-FIX
 # description: "IDK"
 # weight: 900
 bookCollapseSection: false

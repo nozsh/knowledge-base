@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ Linux
+title: 📁 Linux
 # weight: 9999
 bookCollapseSection: true
 bookFlatSection: false

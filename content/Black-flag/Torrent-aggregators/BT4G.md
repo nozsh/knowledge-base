@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ 🟠 BT4G
+title: 🟠 BT4G
 # description: "IDK"
 # weight: 900
 bookCollapseSection: false

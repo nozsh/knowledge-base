@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ Фантастика
+title: 📁 Фантастика
 # weight: 9999
 bookCollapseSection: true
 bookFlatSection: false

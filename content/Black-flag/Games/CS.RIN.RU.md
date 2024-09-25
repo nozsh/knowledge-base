@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ 🟢 CS.RIN.RU (R)
+title: 🟢 CS.RIN.RU (R)
 # description: "IDK"
 # weight: 900
 bookCollapseSection: false

@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ 🟠 EXT Torrents (m)
+title: 🟠 EXT Torrents (m)
 # description: "IDK"
 # weight: 900
 bookCollapseSection: false

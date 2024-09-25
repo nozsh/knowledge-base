@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ ⚪️ WarezForums (R)
+title: ⚪️ WarezForums (R)
 # description: "IDK"
 # weight: 900
 bookCollapseSection: false

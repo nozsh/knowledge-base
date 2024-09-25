@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ GameStatus
+title: 🔷 GameStatus
 # description: "IDK"
 # weight: 900
 bookCollapseSection: false

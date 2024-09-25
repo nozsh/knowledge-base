@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ Таблица приватных трекеров
+title: 🔷 Таб. прив. трекеров
 # description: "IDK"
 # weight: 900
 bookCollapseSection: false

@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ Агрегаторы
+title: 📁 Агрегаторы
 # description: "IDK"
 weight: 500
 bookCollapseSection: true

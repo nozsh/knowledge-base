@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ 🟢 XENFORO.INFO (R+)
+title: 🟢 XENFORO.INFO (R+)
 # description: "IDK"
 # weight: 900
 bookCollapseSection: false

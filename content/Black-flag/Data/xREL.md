@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ xREL
+title: 🔷 xREL
 # description: "IDK"
 # weight: 900
 bookCollapseSection: false

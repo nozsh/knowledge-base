@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ ChatGPT
+title: 🔷 ChatGPT
 # description: "IDK"
 # weight: 900
 bookCollapseSection: false

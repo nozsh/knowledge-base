@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ IDK
+title: 🔷 IDK
 # description: "IDK"
 # weight: 900
 bookCollapseSection: false

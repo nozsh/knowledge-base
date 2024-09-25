@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ Чат-боты
+title: 📁 Чат-боты
 weight: 850
 bookCollapseSection: true
 bookFlatSection: false

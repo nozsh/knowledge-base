@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ Книги
+title: 📁  Книги
 weight: 500
 bookCollapseSection: true
 bookFlatSection: false

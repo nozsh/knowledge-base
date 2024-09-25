@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ 🟢 FitGirl (t)
+title: 🟢 FitGirl (t)
 # description: "IDK"
 # weight: 900
 bookCollapseSection: false

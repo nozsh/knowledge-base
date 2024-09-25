@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ 🟢 RuTracker (R)
+title: 🟢 RuTracker (R)
 # description: "IDK"
 # weight: 900
 bookCollapseSection: false

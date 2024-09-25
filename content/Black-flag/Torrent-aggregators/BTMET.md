@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ 🟠 BTMET (m)
+title: 🟠 BTMET (m)
 # description: "IDK"
 # weight: 900
 bookCollapseSection: false

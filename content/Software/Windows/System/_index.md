@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ Система
+title: 📁 Система
 # weight: 900
 bookCollapseSection: true
 bookFlatSection: false

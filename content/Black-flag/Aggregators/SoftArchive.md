@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ ⚪️ SoftArchive
+title: ⚪️ SoftArchive
 # description: "IDK"
 # weight: 900
 bookCollapseSection: false

@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ Торрент агрегаторы
+title: 📁  Торрент агрегаторы
 weight: 500
 bookCollapseSection: true
 bookFlatSection: false

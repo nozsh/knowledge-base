@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ ⚪️ ProWebber
+title: ⚪️ ProWebber
 # description: "IDK"
 # weight: 900
 bookCollapseSection: false

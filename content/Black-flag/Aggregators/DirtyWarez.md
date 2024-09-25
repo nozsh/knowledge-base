@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ ⚪️ DirtyWarez (R)
+title: ⚪️ DirtyWarez (R)
 # description: "IDK"
 # weight: 900
 bookCollapseSection: false

@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ СУБД
+title: 📁 СУБД
 # weight: 9999
 bookCollapseSection: true
 bookFlatSection: false

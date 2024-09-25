@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ 0day
+title: 🔷 0day
 # description: "IDK"
 # weight: 900
 bookCollapseSection: false

@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ 🟠 The Pirate Bay
+title: 🟠 The Pirate Bay
 # description: "IDK"
 # weight: 900
 bookCollapseSection: false

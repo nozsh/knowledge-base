@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ Другое
+title: 🔷 Другое
 description: "Другое"
 weight: 900
 bookCollapseSection: false

@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ 🟠 Torrends
+title: 🟠 Torrends
 # description: "IDK"
 # weight: 900
 bookCollapseSection: false

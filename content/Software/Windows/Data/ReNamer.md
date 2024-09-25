@@ -1,6 +1,6 @@
 ---
 type: docs
-title: "➡️ ReNamer"
+title: "🔷 ReNamer"
 description: "ReNamer"
 # weight: 900
 bookCollapseSection: false

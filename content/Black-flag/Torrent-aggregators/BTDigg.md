@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ 🟠 BTDigg
+title: 🟠 BTDigg
 # description: "IDK"
 # weight: 900
 bookCollapseSection: false

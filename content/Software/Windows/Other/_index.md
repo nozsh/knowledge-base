@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ Другое
+title: 📁 Другое
 # weight: 900
 bookCollapseSection: true
 bookFlatSection: false

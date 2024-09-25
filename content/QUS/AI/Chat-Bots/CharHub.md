@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ CharHub
+title: 🔷 CharHub
 # description: "IDK"
 # weight: 900
 bookCollapseSection: false

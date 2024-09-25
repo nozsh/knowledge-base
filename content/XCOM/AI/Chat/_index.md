@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ 💬 Чат
+title: 💬 Чат
 # description: "IDK"
 # weight: 900
 bookCollapseSection: true

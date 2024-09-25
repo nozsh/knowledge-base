@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ C++
+title: 📁 C++
 # weight: 9999
 bookCollapseSection: true
 bookFlatSection: false

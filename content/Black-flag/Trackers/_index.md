@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ Трекеры
+title: 📁  Трекеры
 weight: 500
 bookCollapseSection: true
 bookFlatSection: false

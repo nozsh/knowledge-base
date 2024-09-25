@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ 🟠 SolidTorrents
+title: 🟠 SolidTorrents
 # description: "IDK"
 # weight: 900
 bookCollapseSection: false

@@ -1,6 +1,6 @@
 ---
 type: docs
-title: "➡️ VS Code"
+title: "🔷 VS Code"
 description: "VS Code"
 # weight: 900
 bookCollapseSection: false

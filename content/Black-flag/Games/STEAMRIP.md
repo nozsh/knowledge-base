@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ 🟢 STEAMRIP
+title: 🟢 STEAMRIP
 # description: "IDK"
 # weight: 900
 bookCollapseSection: false

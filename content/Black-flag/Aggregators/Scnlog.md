@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ ⚪️ Scnlog
+title: ⚪️ Scnlog
 # description: "IDK"
 # weight: 900
 bookCollapseSection: false

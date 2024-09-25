@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ ⚪️ Z-Library
+title: ⚪️ Z-Library (R)
 description: "Z-Library"
 # weight: 9999
 bookCollapseSection: false
@@ -13,6 +13,9 @@ bookHidden: false
 
 # Z-Library
 
+![](https://upload.wikimedia.org/wikipedia/en/7/70/Screenshot_of_Z-Library.png)
+
+- [z-lib.gs](https://z-lib.gs/?nt)
 - [singlelogin.re](https://singlelogin.re/?nt)
 - [singlelogin.rs](https://singlelogin.rs/?nt)
 - [Reddit](https://www.reddit.com/r/zlibrary/?nt)
@@ -35,4 +38,9 @@ http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion/
 
 Рай для любителей почитать. Тут есть все. Самые дорогие книги в тч.
 
-Тот самый Z-Library, но это зеркало. Оригинальные сайты доступны только в Tor. И для скачивания книг нужна регистрация, в последний раз регистрация работала только на сайтах в Tor. Не в Tor не отправляется письмо с подтверждением.
+Тот самый Z-Library. Оригинальные сайты доступны только в Tor (зеркала официальные). И для скачивания книг нужна регистрация, в последний раз регистрация работала только на сайтах в Tor. Не в Tor не отправляется письмо с подтверждением.
+
+{{< hint danger >}}
+**Что-то было удалено, скрыто или др.?**<br>
+Используйте [Anna's Archive](../Annas-Archive).
+{{< /hint >}}

@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ 🟢 LostFilm (R)
+title: 🟢 LostFilm (R) (t)
 # description: "IDK"
 # weight: 900
 bookCollapseSection: false
@@ -15,4 +15,6 @@ bookHidden: false
 
 [LostFilm](https://www.lostfilm.tv/?nt)
 
-Тот самый LostFilm. Онлайн стриминга нет, только качать. Только озвучка LostFilm.
+![](@img/lostfilm-screenshot.jpg)
+
+Тот самый LostFilm. Онлайн стриминга нет, только качать (торрент). Только озвучка LostFilm.

@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ Windows Server
+title: 🔷 Windows Server
 weight: 900
 bookCollapseSection: false
 bookFlatSection: false

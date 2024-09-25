@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ Конвертеры
+title: 📁 Конвертеры
 # weight: 900
 bookCollapseSection: true
 bookFlatSection: false

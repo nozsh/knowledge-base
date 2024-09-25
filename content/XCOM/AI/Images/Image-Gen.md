@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ Image Gen
+title: 🔷 Image Gen
 # description: "IDK"
 # weight: 900
 bookCollapseSection: false

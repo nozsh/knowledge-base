@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ ⚪️ WarezBook (R)
+title: ⚪️ WarezBook (R)
 # description: "IDK"
 # weight: 900
 bookCollapseSection: false

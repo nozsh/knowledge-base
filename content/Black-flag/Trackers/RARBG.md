@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ 🔴 RARBG (LT)
+title: 🔴 RARBG (LT)
 # description: "IDK"
 # weight: 900
 bookCollapseSection: false

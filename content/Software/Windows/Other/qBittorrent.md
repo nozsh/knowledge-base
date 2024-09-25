@@ -1,6 +1,6 @@
 ---
 type: docs
-title: "➡️ qBittorrent"
+title: "🔷 qBittorrent"
 description: "qBittorrent"
 # weight: 900
 bookCollapseSection: false

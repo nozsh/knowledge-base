@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ 🟠 Другие трекеры
+title: 🟠 Другие трекеры
 # description: "IDK"
 # weight: 900
 bookCollapseSection: false

@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ Debian
+title: 🔷 Debian
 # weight: 900
 bookCollapseSection: false
 bookFlatSection: false

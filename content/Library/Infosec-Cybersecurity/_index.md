@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ ИнфоБез & КБ
+title: 📁 ИнфоБез & КБ
 # weight: 9999
 bookCollapseSection: true
 bookFlatSection: false

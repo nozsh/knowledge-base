@@ -1,8 +1,8 @@
 ---
 type: docs
-title: ➡️ ✨ XCOM > AI
+title: ✨ XCOM > AI
 # description: "IDK"
-# weight: 900
+weight: 10
 bookCollapseSection: false
 bookFlatSection: false
 bookToc: false

@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ 🟠 1Progs
+title: 🟠 1Progs
 # description: "IDK"
 # weight: 900
 bookCollapseSection: false

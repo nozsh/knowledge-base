@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ ⚪️ Internet Archive
+title: ⚪️ Internet Archive
 # description: "IDK"
 # weight: 900
 bookCollapseSection: false

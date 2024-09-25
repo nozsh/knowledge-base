@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ 🖼️ Пикчи
+title: 🖼️ Пикчи
 # description: "IDK"
 # weight: 900
 bookCollapseSection: true

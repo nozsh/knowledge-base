@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ ⚪️ NullCave (R)
+title: ⚪️ NullCave (R)
 # description: "IDK"
 # weight: 900
 bookCollapseSection: false

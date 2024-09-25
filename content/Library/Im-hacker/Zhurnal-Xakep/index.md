@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ Журнал «Хакер»
+title: 🔷 Журнал «Хакер»
 # weight: 9999
 bookCollapseSection: false
 bookFlatSection: false

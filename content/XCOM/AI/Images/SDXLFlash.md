@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ SDXLFlash
+title: 🔷 SDXLFlash
 # description: "IDK"
 # weight: 900
 bookCollapseSection: false

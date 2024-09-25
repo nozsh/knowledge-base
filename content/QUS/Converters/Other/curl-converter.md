@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ cURL Converter
+title: 🔷 cURL Converter
 # description: "IDK"
 # weight: 900
 bookCollapseSection: false

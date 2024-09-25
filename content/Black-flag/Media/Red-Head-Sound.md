@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ ⚪️ Red Head Sound
+title: ⚪️ Red Head Sound
 # description: "IDK"
 # weight: 900
 bookCollapseSection: false
@@ -14,5 +14,7 @@ bookHidden: false
 # Red Head Sound
 
 [Red Head Sound](https://redheadsound.studio/?nt)
+
+![](@img/redheadsound-screenshot.jpg)
 
 Сайт группы озвучки RHS (Red Head Sound). Только озвучка RHS.

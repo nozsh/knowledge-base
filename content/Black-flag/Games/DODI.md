@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ 🟢 DODI (t) (LD)
+title: 🟢 DODI (t) (LD)
 # description: "IDK"
 # weight: 900
 bookCollapseSection: false

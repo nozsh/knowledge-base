@@ -1,6 +1,6 @@
 ---
 type: docs
-title: "➡️ Everything"
+title: "🔷 Everything"
 description: "Everything"
 # weight: 900
 bookCollapseSection: false

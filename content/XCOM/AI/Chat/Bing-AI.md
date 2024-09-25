@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ Bing AI
+title: 🔷 Bing AI
 # description: "IDK"
 # weight: 900
 bookCollapseSection: false

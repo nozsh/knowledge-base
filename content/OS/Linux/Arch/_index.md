@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ Arch
+title: 🔷 Arch
 weight: 890
 bookCollapseSection: true
 bookFlatSection: false

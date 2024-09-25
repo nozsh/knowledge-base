@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ 🟠 Knaben Database
+title: 🟠 Knaben Database
 # description: "IDK"
 # weight: 900
 bookCollapseSection: false

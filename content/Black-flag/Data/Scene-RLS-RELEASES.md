@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ Scene-RLS RELEASES
+title: 🔷 Scene-RLS RELEASES
 # description: "IDK"
 # weight: 900
 bookCollapseSection: false

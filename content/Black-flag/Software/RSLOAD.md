@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ ⚪️ RSLOAD (fR)
+title: ⚪️ RSLOAD (fR)
 # description: "IDK"
 # weight: 900
 bookCollapseSection: false

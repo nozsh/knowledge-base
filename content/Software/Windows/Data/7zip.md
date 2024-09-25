@@ -1,6 +1,6 @@
 ---
 type: docs
-title: "➡️ 7zip"
+title: "🔷 7zip"
 description: "7zip"
 # weight: 900
 bookCollapseSection: false

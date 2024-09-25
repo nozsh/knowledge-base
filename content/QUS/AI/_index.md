@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ AI
+title: 📁 AI
 # weight: 900
 bookCollapseSection: true
 bookFlatSection: false

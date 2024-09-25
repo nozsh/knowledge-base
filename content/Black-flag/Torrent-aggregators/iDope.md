@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ 🟠 iDope
+title: 🟠 iDope
 # description: "IDK"
 # weight: 900
 bookCollapseSection: false

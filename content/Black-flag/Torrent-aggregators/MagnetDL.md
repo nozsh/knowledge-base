@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ 🟠 MagnetDL
+title: 🟠 MagnetDL
 # description: "IDK"
 # weight: 900
 bookCollapseSection: false

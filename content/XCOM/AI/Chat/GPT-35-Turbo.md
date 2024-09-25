@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ GPT 3.5 Turbo
+title: 🔷 GPT 3.5 Turbo
 # description: "IDK"
 # weight: 900
 bookCollapseSection: false

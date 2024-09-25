@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ Мультимедиа
+title: 📁 Мультимедиа
 # weight: 900
 bookCollapseSection: true
 bookFlatSection: false

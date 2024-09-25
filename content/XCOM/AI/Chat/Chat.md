@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ Chat
+title: 🔷 Chat
 # description: "IDK"
 # weight: 900
 bookCollapseSection: false

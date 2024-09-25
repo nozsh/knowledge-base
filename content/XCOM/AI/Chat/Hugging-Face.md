@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ 🤗 Hugging-Face
+title: 🔷 🤗 Hugging-Face
 # description: "IDK"
 # weight: 900
 bookCollapseSection: false

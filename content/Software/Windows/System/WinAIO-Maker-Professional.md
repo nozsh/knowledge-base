@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ WinAIO Maker Professional
+title: 🔷 WinAIO Maker Professional
 # description: "IDK"
 # weight: 900
 bookCollapseSection: false

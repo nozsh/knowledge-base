@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ Ubuntu
+title: 🔷 Ubuntu
 # weight: 900
 bookCollapseSection: false
 bookFlatSection: false

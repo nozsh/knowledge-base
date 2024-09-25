@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ Сис. администрирование
+title: 📁 Сис. администрирование
 # weight: 9999
 bookCollapseSection: true
 bookFlatSection: false

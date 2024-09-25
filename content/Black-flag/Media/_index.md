@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ Медиа
+title: 📁  Медиа
 weight: 500
 bookCollapseSection: true
 bookFlatSection: false

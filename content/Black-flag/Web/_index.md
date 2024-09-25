@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ Веб
+title: 📁  Веб
 # description: "IDK"
 weight: 500
 bookCollapseSection: true

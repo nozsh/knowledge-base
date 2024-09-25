@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ ⚪️ TorrentGalaxy
+title: ⚪️ TorrentGalaxy
 # description: "IDK"
 # weight: 900
 bookCollapseSection: false

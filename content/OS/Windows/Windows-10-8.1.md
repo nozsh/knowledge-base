@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ Windows 10 & 8.1
+title: 🔷 Windows 10 & 8.1
 weight: 870
 bookCollapseSection: false
 bookFlatSection: false

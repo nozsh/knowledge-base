@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ Игры
+title: 📁  Игры
 weight: 500
 bookCollapseSection: true
 bookFlatSection: false
@@ -9,5 +9,3 @@ bookComments: false
 bookSearchExclude: true
 bookHidden: false
 ---
-
-

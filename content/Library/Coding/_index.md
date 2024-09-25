@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ Программирование
+title: 📁 Программирование
 # weight: 9999
 bookCollapseSection: true
 bookFlatSection: false

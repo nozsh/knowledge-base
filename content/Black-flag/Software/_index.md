@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ Софт
+title: 📁  Софт
 weight: 500
 bookCollapseSection: true
 bookFlatSection: false

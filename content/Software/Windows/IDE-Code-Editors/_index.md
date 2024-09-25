@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ Редакторы кода и IDE
+title: 📁 Редакторы кода и IDE
 # weight: 900
 bookCollapseSection: true
 bookFlatSection: false

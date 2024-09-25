@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ Chub
+title: 🔷 Chub
 # description: "IDK"
 # weight: 900
 bookCollapseSection: false

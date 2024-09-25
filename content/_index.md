@@ -14,7 +14,41 @@ bookHidden: false
 # Knowledge Base
 
 {{< hint info >}}
-Это база знаний, база интересной, полезной и не очень информации.
+Это база знаний интересной, полезной и не очень информации.
 {{< /hint >}}
 
-{{< imgs/img "alt text" "100%" "where.gif" >}}
+<img alt="Knowledge Base" id="giphy-image" src="@img/where.gif" width="100%">
+
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    let giphyImageElement = document.getElementById("giphy-image");
+
+    // Thanks github.com/shravzzv for api key <3
+    let apiKey = "uDu77HHFhXrEpWJCGuI83p9YtVnbhQAf";
+    let apiUrl = `https://api.giphy.com/v1/gifs/random?api_key=${apiKey}`;
+
+    let fetchRandomGif = () => {
+      fetch(apiUrl)
+        .then((response) => response.json())
+        .then((data) => {
+          if (data.data && data.data.images && data.data.images.original) {
+            let gifUrl = data.data.images.original.url;
+            giphyImageElement.src = gifUrl;
+          } else {
+            showDefaultGif();
+          }
+        })
+        .catch((error) => {
+          console.error("Error fetching the gif:", error);
+          showDefaultGif();
+        });
+    };
+
+    let showDefaultGif = () => {
+      let defaultGif = "where.gif";
+      giphyImageElement.src = defaultGif;
+    };
+
+    fetchRandomGif();
+  });
+</script>

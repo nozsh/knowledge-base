@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ ⚪️ TorrentLeech (RR)
+title: ⚪️ TorrentLeech (RR)
 # description: "IDK"
 # weight: 900
 bookCollapseSection: false

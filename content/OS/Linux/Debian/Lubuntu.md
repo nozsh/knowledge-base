@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ Lubuntu
+title: 🔷 Lubuntu
 # weight: 900
 bookCollapseSection: false
 bookFlatSection: false

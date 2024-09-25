@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ 🟢 GOG Games
+title: 🟢 GOG Games
 # description: "IDK"
 # weight: 900
 bookCollapseSection: false

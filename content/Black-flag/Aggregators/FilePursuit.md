@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ ⚪️ FilePursuit
+title: ⚪️ FilePursuit
 # description: "IDK"
 # weight: 900
 bookCollapseSection: false

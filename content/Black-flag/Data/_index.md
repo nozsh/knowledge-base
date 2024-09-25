@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ Данные
+title: 📁  Данные
 # description: "IDK"
 weight: 500
 bookCollapseSection: true

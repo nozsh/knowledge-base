@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ AI
+title: 📁 AI
 # description: "IDK"
 # weight: 900
 bookCollapseSection: true

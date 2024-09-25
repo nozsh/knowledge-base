@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ➡️ 🟢 REPACK.ME (RR)
+title: 🟢 REPACK.ME (RR)
 # description: "IDK"
 # weight: 900
 bookCollapseSection: false
