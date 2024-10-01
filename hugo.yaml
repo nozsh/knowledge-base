@@ -10,7 +10,7 @@ minify:
 
 # Book configuration
 disablePathToLower: false
-enableGitInfo: false
+enableGitInfo: true
 
 # Needed for mermaid/katex shortcodes
 markup:

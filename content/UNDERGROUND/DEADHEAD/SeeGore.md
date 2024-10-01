@@ -15,6 +15,6 @@ bookHidden: false
 
 [SeeGore](https://seegore.com/?nt)
 
-Узреть gore.
+![](@img/seegore-screenshot.jpg)
 
-Так же [TheYNC](../theync).
+Узреть GORE.

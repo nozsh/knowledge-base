@@ -15,4 +15,6 @@ bookHidden: false
 
 [Kaotic](https://kaotic.com/?nt)
 
+![](@img/kaotic-screenshot.jpg)
+
 Кровь, насилие, похоть, и какая то еб\*нутая дичь.

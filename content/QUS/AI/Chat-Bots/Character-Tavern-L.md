@@ -1,6 +1,6 @@
 ---
 type: docs
-title: 🔷 Character-Tavern
+title: 🔷 CharacterTavern
 # description: "IDK"
 # weight: 900
 bookCollapseSection: false
@@ -11,8 +11,8 @@ bookSearchExclude: false
 bookHidden: false
 ---
 
-# Character-Tavern
+# Character Tavern
 
-{{< redirect "0" "../../AI-Character-Cards/character-tavern" >}}
+{{< redirect "0" "../../character-cards/character-tavern" >}}
 
-### [**>> >> >>**](../../AI-Character-Cards/character-tavern)
+### [**>> >> >>**](../../character-cards/character-tavern)

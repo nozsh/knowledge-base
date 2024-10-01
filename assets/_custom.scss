@@ -1,3 +1,7 @@
+:root {
+  --body-background: rgb(29, 30, 32);
+}
+
 li:has(> #section-121a7d5c3d6e4ddeb23608342b35163e) {
   display: none;
 }
@@ -7,4 +11,16 @@ li:has(> #section-36da37742e2b918318e5cc90eb549b95) {
 
 article img {
   border-radius: 0.25rem;
+}
+
+.book-menu-content {
+  user-select: none;
+}
+
+summary {
+  user-select: none;
+
+  &:focus {
+    outline: none;
+  }
 }

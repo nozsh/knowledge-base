@@ -1,16 +1,16 @@
 ---
 type: docs
-title: 🔷 HentaiEra
+title: 🔷 FauxID
 # description: "IDK"
-# weight: 900
+# weight: 100
 bookCollapseSection: false
 bookFlatSection: false
 bookToc: false
 bookComments: false
-bookSearchExclude: true
+bookSearchExclude: false
 bookHidden: false
 ---
 
-# HentaiEra
+# FauxID
 
-[HentaiEra](https://hentaiera.com/?nt)
+[FauxID](https://fauxid.com/fake-name-generator/?nt)

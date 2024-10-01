@@ -1,7 +1,7 @@
 ---
 type: docs
 title: 💜 Hentai
-weight: 9090
+# weight: 9090
 bookCollapseSection: true
 bookFlatSection: false
 bookToc: false

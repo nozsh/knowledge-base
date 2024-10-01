@@ -1,6 +1,6 @@
 ---
 type: docs
-title: 📁  Anime
+title: 📁 Аниме
 weight: 500
 bookCollapseSection: true
 bookFlatSection: false

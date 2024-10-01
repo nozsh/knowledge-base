@@ -19,5 +19,5 @@ bookHidden: false
 
 ---
 
-- [chat-gpt.org/chat](https://chat-gpt.org/chat)
-- [gpt-chatbot.ru](https://gpt-chatbot.ru/)
+- [gpt-chatbot.ru](https://gpt-chatbot.ru/?nt)
+- [chat-gpt.org/chat](https://chat-gpt.org/chat?nt)

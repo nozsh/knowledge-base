@@ -8,9 +8,11 @@ bookFlatSection: false
 bookToc: false
 bookComments: false
 bookSearchExclude: false
-bookHidden: false
+bookHidden: true
 ---
 
 # XCOM AI
 
-[XCOM > AI](../../../xcom/ai/)
+{{< redirect "0" "../../../xcom/ai/info/" >}}
+
+### [**>> >> >>**](../../../xcom/ai/info/)

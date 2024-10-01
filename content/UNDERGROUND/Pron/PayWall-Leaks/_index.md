@@ -1,11 +1,11 @@
 ---
 type: docs
-title: 📁 AI Character Cards
-weight: 860
+title: 💸 PayWall Leaks
+# weight: 9090
 bookCollapseSection: true
 bookFlatSection: false
 bookToc: false
 bookComments: false
-bookSearchExclude: false
+bookSearchExclude: true
 bookHidden: false
 ---

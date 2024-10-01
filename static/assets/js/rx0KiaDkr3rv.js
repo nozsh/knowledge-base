@@ -1,5 +1,5 @@
 window.addEventListener("load", function () {
-  function handleSection(sectionName, sectionText, urlCheck) {
+  function handleSection(sectionName, sectionText, urlCheck, faviconUrl) {
     let elements = document.querySelectorAll("a[role='button']");
     let found = Array.from(elements).find((el) =>
       el.textContent.includes(sectionText)
@@ -25,12 +25,35 @@ window.addEventListener("load", function () {
       links.forEach((link) => {
         link.href = originalHrefs.get(link);
       });
+
+      // Меняем фавикон
+      changeFavicon(faviconUrl);
     }
   }
 
+  // Функция для изменения фавикона
+  function changeFavicon(url) {
+    // Создаем новый тег <link> для фавикона
+    let link = document.createElement("link");
+    link.type = "image/png";
+    link.rel = "icon";
+    link.href = url;
+    document.getElementsByTagName("head")[0].appendChild(link);
+  }
+
   // Обработка для раздела "underground"
-  handleSection("underground", "🚫 UNDERGROUND", /\/underground(\/|$)/);
+  handleSection(
+    "underground",
+    "🚫 UNDERGROUND",
+    /\/underground(\/|$)/,
+    "/kb/fav/underground-favicon-228px.png"
+  );
 
   // Обработка для раздела "deleted"
-  handleSection("deleted", "🗑️ DELETED", /\/deleted(\/|$)/);
+  handleSection(
+    "deleted",
+    "🗑️ DELETED",
+    /\/deleted(\/|$)/,
+    "/kb/fav/deleted-favicon-228px.png"
+  );
 });

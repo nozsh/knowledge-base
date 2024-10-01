@@ -14,3 +14,5 @@ bookHidden: false
 # nHentai
 
 [nHentai](https://nhentai.net/?nt)
+
+![](@img/nhentai-screenshot.jpg)

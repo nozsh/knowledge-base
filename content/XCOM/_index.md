@@ -7,5 +7,5 @@ bookFlatSection: false
 bookToc: false
 bookComments: false
 bookSearchExclude: false
-bookHidden: false
+bookHidden: true
 ---

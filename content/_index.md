@@ -19,7 +19,7 @@ bookHidden: false
 
 <img alt="Knowledge Base" id="giphy-image" src="@img/where.gif" width="100%">
 
-<script>
+<!-- <script>
   document.addEventListener("DOMContentLoaded", () => {
     let giphyImageElement = document.getElementById("giphy-image");
 
@@ -51,4 +51,4 @@ bookHidden: false
 
     fetchRandomGif();
   });
-</script>
+</script> -->

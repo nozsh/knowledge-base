@@ -13,10 +13,14 @@ bookHidden: false
 
 # TheYNC
 
+[TheYNC](https://theync.com/?nt)
+
 ![](@img/theync-screenshot.jpg)
 
 Немного порно, и много крови ;)
 
-[Байпасер «Underground» видео](#). Работает только с mp4, не всеми, но большинством.
+{{< hint warning >}}
+**Большинство контента было перенесено и публикуется в «UNDERGROUND», который платный.**
+{{< /hint >}}
 
 Так же [SeeGore](../seegore).

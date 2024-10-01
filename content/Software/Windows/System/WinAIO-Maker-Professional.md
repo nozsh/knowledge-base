@@ -13,7 +13,7 @@ bookHidden: false
 
 # WinAIO Maker Professional
 
-**WinAIO Maker Professional** - бесплатная портативная утилита, с помощью которой можно быстро создавать комплексные AIO-образы («всё в одном») различных версий операционной системы Windows
+**WinAIO Maker Professional** - бесплатная портативная утилита, с помощью которой можно быстро создавать комплексные AIO-образы («все в одном») различных версий операционной системы Windows
 
 {{< button href="https://disk.yandex.ru/d/vJqPbH_U_GtFSQ?nt" >}}Скачать{{< /button >}}
 {{< button href="https://disk.yandex.ru/d/iq_zLnMlTJD-kQ?nt" >}}Пароль{{< /button >}}

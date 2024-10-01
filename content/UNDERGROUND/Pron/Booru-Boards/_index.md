@@ -1,7 +1,7 @@
 ---
 type: docs
-title: 📌 Борды
-weight: 9090
+title: 📌 Boards
+# weight: 9090
 bookCollapseSection: true
 bookFlatSection: false
 bookToc: false
