@@ -15,4 +15,6 @@ bookHidden: false
 
 [1Progs](https://1progs.pro/?nt)
 
+![](@img/1progs-screenshot.jpg)
+
 Не надо чувак.

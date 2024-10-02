@@ -14,3 +14,5 @@ bookHidden: false
 # Terk
 
 [Terk](https://www.terk.nl/?nt)
+
+![](@img/terk-screenshot.jpg)

@@ -15,4 +15,6 @@ bookHidden: false
 
 [LRepacks](https://lrepacks.net/?nt)
 
+![](@img/lrepacks-screenshot.jpg)
+
 Это сайт ELCHUPACABRA, одного из крутых репакеров. Возможно, даже круче [кролика](../repack.me).

@@ -15,4 +15,6 @@ bookHidden: false
 
 [GOG Games](https://gog-games.to/?nt)
 
+![](@img/gog-games-screenshot.jpg)
+
 Можно скачать любую игру из библиотеке GOG.

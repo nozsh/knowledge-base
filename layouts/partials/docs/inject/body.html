@@ -3,4 +3,13 @@
 <script src="/kb/assets/js/assets-img.js?v=1" defer></script>
 
 
+{{/* Load mediumZoom script */}}
+{{- $imagezoom := resources.Get "js/medium-zoom.min.js" }}
+<script src="{{ $imagezoom.RelPermalink }}?v={{ time.Now.Unix }}" data-no-instant></script>
+
+<script>
+  mediumZoom('.book-page img:not([no-zoom])');
+</script>
+
+
 <script data-goatcounter="https://saladvisor-kb.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>

@@ -15,4 +15,6 @@ bookHidden: false
 
 [DIAKOV.NET](https://diakov.net/?nt)
 
+![](@img/diakov.net-screenshot.jpg)
+
 Типо как [repack.me](../repack.me), только diakov.net.

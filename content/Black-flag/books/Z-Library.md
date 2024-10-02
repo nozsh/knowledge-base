@@ -42,5 +42,5 @@ http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion/
 
 {{< hint danger >}}
 **Что-то было удалено, скрыто или др.?**<br>
-Используйте [Anna's Archive](../Annas-Archive).
+Используйте [Anna's Archive](../annas-archive).
 {{< /hint >}}

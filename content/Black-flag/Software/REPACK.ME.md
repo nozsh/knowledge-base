@@ -15,4 +15,6 @@ bookHidden: false
 
 [REPACK.ME](https://repack.me/?nt)
 
+![](@img/repack.me-screenshot.jpg)
+
 Куча софта, закрытая регистрация, крутой кролик.

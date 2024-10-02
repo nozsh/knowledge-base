@@ -14,3 +14,5 @@ bookHidden: false
 # Xrares
 
 [Xrares](https://www.xrares.com/?nt)
+
+![](@img/xrares-screenshot.jpg)

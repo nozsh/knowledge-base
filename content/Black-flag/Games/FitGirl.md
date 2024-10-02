@@ -15,4 +15,6 @@ bookHidden: false
 
 [FitGirl Repacks](https://fitgirl-repacks.site/?nt)
 
-Жирная девочка в теме.
+![](@img/fitgirl-screenshot.jpg)
+
+Аналогично [DODI](../dodi).

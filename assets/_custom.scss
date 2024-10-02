@@ -24,3 +24,19 @@ summary {
     outline: none;
   }
 }
+
+// Medium Zoom
+.medium-zoom-overlay {
+  // background: var(--body-background) !important;
+  background: transparent !important;
+  // backdrop-filter: blur(6px);
+  z-index: 2;
+}
+
+// .medium-zoom-overlay--opened {
+//   z-index: 3;
+// }
+
+// .medium-zoom-image--opened {
+//   z-index: 3;
+// }

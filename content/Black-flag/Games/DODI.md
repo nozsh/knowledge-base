@@ -13,6 +13,8 @@ bookHidden: false
 
 # DODI
 
-[1](https://dodi-repacks.site/?nt), [2](https://dodi-repacks.download/?nt)
+[dodi-repacks.site](https://dodi-repacks.site/?nt), [dodi-repacks.download](https://dodi-repacks.download/?nt)
 
-Один из лучших репакеров игр.
+![](@img/dodi-screenshot.jpg)
+
+Один из лучших репакеров игр. Почти не известен в необъятной, но хорошо известен на западе.
