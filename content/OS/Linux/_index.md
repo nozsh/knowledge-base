@@ -1,7 +1,7 @@
 ---
 type: docs
 title: 💿 Linux
-weight: 900
+weight: 850
 bookCollapseSection: true
 bookFlatSection: false
 bookToc: false
