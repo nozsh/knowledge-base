@@ -1,6 +1,6 @@
 ---
 type: docs
-title: 🟢 REPACK.ME (RR)
+title: ⚪️ REPACK.ME (RR)
 # description: "IDK"
 # weight: 900
 bookCollapseSection: false
@@ -18,3 +18,7 @@ bookHidden: false
 ![](@img/repack.me-screenshot.jpg)
 
 Куча софта, закрытая регистрация, крутой кролик.
+
+{{< hint danger >}}
+**Возможно есть связь с русской хакерской группой хактивистов «CyberVolk».**
+{{< /hint >}}
