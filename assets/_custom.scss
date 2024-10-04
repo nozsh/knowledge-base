@@ -25,6 +25,11 @@ summary {
   }
 }
 
+.markdown .book-hint.green {
+  border-color: rgb(102, 255, 133);
+  background-color: rgba(102, 255, 133, 0.1);
+}
+
 // Medium Zoom
 .medium-zoom-overlay {
   // background: var(--body-background) !important;

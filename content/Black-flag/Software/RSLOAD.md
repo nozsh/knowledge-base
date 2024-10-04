@@ -17,6 +17,6 @@ bookHidden: false
 
 ![](@img/rsload-screenshot.jpg)
 
-Когда то тут жил [кролик](../repack.me). Тоже нормальный сайт.
+Когда то тут жил [кролик](../repack.me). Сайт вроде как нормальный, но может попасться бяка (вряд ли вина репакера).
 
 [Как качать?](https://rsload.net/kak-skachivat-fayly-s-sayta.html?nt)

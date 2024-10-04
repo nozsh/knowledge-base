@@ -15,9 +15,9 @@ bookHidden: false
 
 ![](https://upload.wikimedia.org/wikipedia/en/7/70/Screenshot_of_Z-Library.png)
 
-- [z-lib.gs](https://z-lib.gs/?nt)
 - [singlelogin.re](https://singlelogin.re/?nt)
 - [singlelogin.rs](https://singlelogin.rs/?nt)
+- [z-lib.gs](https://z-lib.gs/?nt)
 - [Reddit](https://www.reddit.com/r/zlibrary/?nt)
 - [Mastodon](https://mastodon.social/@Z_Lib_official?nt)
 - [Telegram](https://t.me/zlibrary_official?nt)

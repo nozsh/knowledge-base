@@ -1,6 +1,6 @@
 ---
 type: docs
-title: 🟢 LRepacks (fR) (LD)
+title: 🟢 🐐 LRepacks (fR) (LD)
 # description: "IDK"
 # weight: 900
 bookCollapseSection: false
@@ -17,4 +17,4 @@ bookHidden: false
 
 ![](@img/lrepacks-screenshot.jpg)
 
-Это сайт ELCHUPACABRA, одного из крутых репакеров. Возможно, даже круче [кролика](../repack.me).
+Это сайт **ELCHUPACABRA**, одного из известных репакеров.

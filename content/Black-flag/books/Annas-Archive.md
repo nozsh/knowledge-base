@@ -18,7 +18,6 @@ bookHidden: false
 - [annas-archive.se](https://annas-archive.se?nt)
 - [annas-archive.li](https://annas-archive.li/?nt)
 - [annas-archive.org](https://annas-archive.org/)
-- [annas-archive.se](http://annas-archive.se/?nt)
 - [Reddit](https://www.reddit.com/r/Annas_Archive/?nt)
 - [Wikipedia](https://en.wikipedia.org/wiki/Anna's_Archive?nt)
 

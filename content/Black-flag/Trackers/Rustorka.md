@@ -1,6 +1,6 @@
 ---
 type: docs
-title: ⚪️ Rustorka (R%)
+title: ⚪️ Rustorka (R)
 # description: "IDK"
 # weight: 900
 bookCollapseSection: false

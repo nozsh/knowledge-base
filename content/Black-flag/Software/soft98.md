@@ -1,6 +1,6 @@
 ---
 type: docs
-title: 🟠 1Progs
+title: 🟢 🐐 soft98
 # description: "IDK"
 # weight: 900
 bookCollapseSection: false
@@ -11,10 +11,10 @@ bookSearchExclude: false
 bookHidden: false
 ---
 
-# 1Progs
+# soft98
 
-[1Progs](https://1progs.pro/?nt)
+[soft98](https://soft98.ir/?nt)
 
-![](@img/1progs-screenshot.jpg)
-
-Не надо чувак.
+{{< hint info >}}
+**Осторожно фарси!**
+{{< /hint >}}

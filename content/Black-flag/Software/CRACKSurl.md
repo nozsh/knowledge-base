@@ -1,6 +1,6 @@
 ---
 type: docs
-title: 🔷 CRACKSurl
+title: 🟢 🐐 CRACKSurl
 # description: "IDK"
 # weight: 900
 bookCollapseSection: false
@@ -14,5 +14,3 @@ bookHidden: false
 # CRACKSurl
 
 [CRACKSurl](https://cracksurl.com/?nt)
-
-
