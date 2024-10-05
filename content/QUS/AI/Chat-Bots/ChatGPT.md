@@ -15,7 +15,9 @@ bookHidden: false
 
 Официальный сайт - [chat.openai.com](https://chat.openai.com/?nt)
 
-Теперь можно использовать без подписки, аккаунта и ограничений. Но нужно заходить с USA.
+Теперь можно использовать без подписки, аккаунта и ограничений. ~~Но нужно заходить с USA~~ Теперь работает и с других стран.
+
+{{< imgs/imgc width="" caption="ChatGPT OpenAI" alt="ChatGPT OpenAI" src="@img/openai-chatgpt-screenshot.jpg" >}}
 
 ---
 

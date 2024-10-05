@@ -2,7 +2,7 @@
 type: docs
 title: ⚪️ DIAKOV.NET (LD)
 # description: "IDK"
-# weight: 900
+weight: 500
 bookCollapseSection: false
 bookFlatSection: false
 bookToc: false

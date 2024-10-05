@@ -1,8 +1,8 @@
 ---
 type: docs
-title: 🟢 🐐 CRACKSurl
+title: 🔷 CharacterHub
 # description: "IDK"
-weight: 100
+# weight: 900
 bookCollapseSection: false
 bookFlatSection: false
 bookToc: false
@@ -11,8 +11,8 @@ bookSearchExclude: false
 bookHidden: false
 ---
 
-# CRACKSurl
+# CharacterHub
 
-[CRACKSurl](https://cracksurl.com/?nt)
+{{< redirect "0" "../../chat-bots/chub" >}}
 
-![](@img/cracksurl-screenshot.jpg)
+### [**>> >> >>**](../../chat-bots/chub)

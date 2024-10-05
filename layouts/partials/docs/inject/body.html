@@ -1,14 +1,14 @@
-<script src="/kb/assets/js/rx0KiaDkr3rv.js?v=1" defer></script>
-<script src="/kb/assets/js/ntlinks.js?v=2" defer></script>
-<script src="/kb/assets/js/assets-img.js?v=1" defer></script>
+<script src="/kb/assets/js/rx0KiaDkr3rv.js?v={{ time.Now.Unix }}" defer></script>
+<script src="/kb/assets/js/ntlinks.js?v={{ time.Now.Unix }}" defer></script>
+<!-- <script src="/kb/assets/js/assets-img.js?v=1" defer></script> -->
 
 
 {{/* Load mediumZoom script */}}
 {{- $imagezoom := resources.Get "js/medium-zoom.min.js" }}
-<script src="{{ $imagezoom.RelPermalink }}?v={{ time.Now.Unix }}" data-no-instant></script>
+<script src="{{ $imagezoom.RelPermalink }}?v=1.0.6" data-no-instant></script>
 
 <script>
-  mediumZoom('.book-page img:not([no-zoom])');
+  mediumZoom('.book-article img:not([no-zoom])');
 </script>
 
 

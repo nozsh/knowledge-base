@@ -2,7 +2,7 @@
 type: docs
 title: 🟢 🐐 LRepacks (fR) (LD)
 # description: "IDK"
-# weight: 900
+weight: 100
 bookCollapseSection: false
 bookFlatSection: false
 bookToc: false

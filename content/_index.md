@@ -17,7 +17,16 @@ bookHidden: false
 Это база знаний интересной, полезной и не очень информации.
 {{< /hint >}}
 
-<img alt="Knowledge Base" id="giphy-image" src="@img/where.gif" width="100%" no-zoom>
+<!-- <img alt="Knowledge Base" id="giphy-image" src="@img/where.gif" width="100%" no-zoom> -->
+
+{{< imgs/img "Knowledge Base" "100%" "@img/where.gif" "no-zoom" >}}
+
+
+<style>
+.book-footer > div {
+  display: none;
+}
+</style>
 
 <!-- <script>
   document.addEventListener("DOMContentLoaded", () => {
