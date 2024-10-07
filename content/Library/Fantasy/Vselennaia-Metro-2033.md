@@ -28,8 +28,6 @@ _Последнее обновление было - 04.07.2021._
 
 ---
 
-Пароль: `ctb$*OxDogAi31xD`
-
 **FB2**
 
-{{< button href="https://disk.yandex.ru/d/nL29k1P-RQUJJg?nt" >}}Скачать{{< /button >}}
+{{< button href="https://disk.yandex.ru/d/nL29k1P-RQUJJg?nt" >}}Скачать{{< /button >}}{{< button href="https://disk.yandex.ru/d/PuvDPoVz14sJxw?nt" >}}Пароль{{< /button >}}

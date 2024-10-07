@@ -36,8 +36,6 @@ bookHidden: false
 
 ---
 
-Пароль: `(W$ORkHcr4s:71di`
-
 **PDF**
 
-{{< button href="https://disk.yandex.ru/d/cOTv3VWF98ywZA?nt" >}}Скачать{{< /button >}}
+{{< button href="https://disk.yandex.ru/d/cOTv3VWF98ywZA?nt" >}}Скачать{{< /button >}}{{< button href="https://disk.yandex.ru/d/gWQboVwDV7068w?nt" >}}Пароль{{< /button >}}

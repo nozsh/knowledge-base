@@ -26,8 +26,6 @@ bookHidden: false
 
 ---
 
-Пароль: `(2?2voh"*~GU8*8l`
-
 **PDF, FB2**
 
-{{< button href="https://disk.yandex.ru/d/AspL4687aOw1kA?nt" >}}Скачать{{< /button >}}
+{{< button href="https://disk.yandex.ru/d/AspL4687aOw1kA?nt" >}}Скачать{{< /button >}}{{< button href="https://disk.yandex.ru/d/a2sGMLZEebzuLg?nt" >}}Пароль{{< /button >}}

@@ -34,8 +34,6 @@ bookHidden: false
 
 ---
 
-Пароль: `lZZkWvC&nx0YpjO6`
-
 **PDF-A4-A6, epub, fb2-fb3, mobi, rtf, txt**
 
-{{< button href="https://disk.yandex.ru/d/cUkpY8YYAEQ6YQ?nt" >}}Скачать{{< /button >}}
+{{< button href="https://disk.yandex.ru/d/cUkpY8YYAEQ6YQ?nt" >}}Скачать{{< /button >}}{{< button href="https://disk.yandex.ru/d/rfBGbB8V98VaAQ?nt" >}}Пароль{{< /button >}}

@@ -34,8 +34,6 @@ _Дополнительные материалы и цветные иллюст�
 
 ---
 
-Пароль: `Z"gVT$JL=n{P)*F#`
-
 **PDF**
 
-{{< button href="https://disk.yandex.ru/d/0wt9amYgCukWng?nt" >}}Скачать{{< /button >}}
+{{< button href="https://disk.yandex.ru/d/0wt9amYgCukWng?nt" >}}Скачать{{< /button >}}{{< button href="https://disk.yandex.ru/d/BJ8k62u8VA79EA?nt" >}}Пароль{{< /button >}}

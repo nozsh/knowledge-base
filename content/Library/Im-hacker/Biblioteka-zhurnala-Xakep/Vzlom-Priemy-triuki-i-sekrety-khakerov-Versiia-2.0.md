@@ -34,8 +34,6 @@ bookHidden: false
 
 ---
 
-Пароль: `dtZLGPvihML;gXxa`
-
 **PDF**
 
-{{< button href="https://disk.yandex.ru/d/PXrGdaRKGgWpcg?nt" >}}Скачать{{< /button >}}
+{{< button href="https://disk.yandex.ru/d/PXrGdaRKGgWpcg?nt" >}}Скачать{{< /button >}}{{< button href="https://disk.yandex.ru/d/MAsDXvDRaSiEmQ?nt" >}}Пароль{{< /button >}}

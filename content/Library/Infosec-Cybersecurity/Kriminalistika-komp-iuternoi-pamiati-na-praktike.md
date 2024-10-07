@@ -26,8 +26,6 @@ bookHidden: false
 
 ---
 
-Пароль: `kg>&yDB*r38u);#<`
-
 **PDF**
 
-{{< button href="https://disk.yandex.ru/d/YfswHMU6o-zuMQ?nt" >}}Скачать{{< /button >}}
+{{< button href="https://disk.yandex.ru/d/YfswHMU6o-zuMQ?nt" >}}Скачать{{< /button >}}{{< button href="https://disk.yandex.ru/d/ZWjjfNtd7hWY1Q?nt" >}}Пароль{{< /button >}}

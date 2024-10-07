@@ -22,8 +22,6 @@ bookHidden: false
 
 ---
 
-Пароль: `4=#=w9z-!EtKs!T=`
-
 **PDF**
 
-{{< button href="https://disk.yandex.ru/d/OFgRBiEZSYfcEg?nt" >}}Скачать{{< /button >}}
+{{< button href="https://disk.yandex.ru/d/OFgRBiEZSYfcEg?nt" >}}Скачать{{< /button >}}{{< button href="https://disk.yandex.ru/d/FXZGon6lVG_ivw?nt" >}}Пароль{{< /button >}}

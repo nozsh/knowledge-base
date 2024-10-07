@@ -20,8 +20,6 @@ bookHidden: false
 
 ---
 
-Пароль: `UFZCEIP?>M}5vxn4`
-
 **PDF**
 
-{{< button href="https://disk.yandex.ru/d/4LO8NrZ17fnHaw?nt" >}}Скачать{{< /button >}}
+{{< button href="https://disk.yandex.ru/d/4LO8NrZ17fnHaw?nt" >}}Скачать{{< /button >}}{{< button href="https://disk.yandex.ru/d/0xV1Epnhy3L-3Q?nt" >}}Пароль{{< /button >}}
