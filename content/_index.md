@@ -1,7 +1,7 @@
 ---
 type: docs
-title: Что это?
-description: Самая разная информация.
+title: "kb a.k.a"
+description: "Это база знаний интересной, полезной и не очень информации."
 # weight: 1
 bookCollapseSection: true
 bookFlatSection: false
@@ -20,7 +20,6 @@ bookHidden: false
 <!-- <img alt="Knowledge Base" id="giphy-image" src="@img/where.gif" width="100%" no-zoom> -->
 
 <img loading="eager" alt="Knowledge Base" width="100%" src="https://assets.nozsh.su/img/kb/kb/where.webp" no-zoom>
-
 
 <style>
 .book-footer > div {
