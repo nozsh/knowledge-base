@@ -1,7 +1,7 @@
 ---
 type: docs
 title: "kb a.k.a"
-description: "Это база знаний интересной, полезной и не очень информации."
+description: "База знаний интересной, полезной и не очень информации."
 # weight: 1
 bookCollapseSection: true
 bookFlatSection: false
