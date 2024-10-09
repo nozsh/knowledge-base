@@ -43,7 +43,7 @@ menu:
       url: "https://nozsh.su/blog/"
       weight: 20
 
-disableKinds: ["taxonomy", "taxonomyTerm"]
+disableKinds: ["taxonomy"]
 
 params:
   title: Knowledge Base
