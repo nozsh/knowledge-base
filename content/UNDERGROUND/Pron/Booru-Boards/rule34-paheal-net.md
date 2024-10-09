@@ -9,6 +9,7 @@ bookToc: false
 bookComments: false
 bookSearchExclude: true
 bookHidden: false
+robotsNoIndex: true
 ---
 
 # Paheal

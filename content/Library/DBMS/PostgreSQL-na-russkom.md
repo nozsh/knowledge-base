@@ -8,11 +8,12 @@ bookToc: false
 bookComments: false
 bookSearchExclude: false
 bookHidden: false
+robotsNoIndex: true
 ---
 
 # PostgreSQL на русском
 
-{{< imgs/img "" "350px" "@img/postgresql_elephant_logo.svg" >}}
+{{< imgs/img "PostgreSQL на русском - Cover" "350px" "@img/postgresql-elephant-logo.svg" >}}
 
 ---
 

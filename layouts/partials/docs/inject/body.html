@@ -1,7 +1,12 @@
-<script src="/kb/assets/js/rx0KiaDkr3rv.js?v={{ time.Now.Unix }}" defer></script>
-<script src="/kb/assets/js/ntlinks.js?v={{ time.Now.Unix }}" defer></script>
-<!-- <script src="/kb/assets/js/assets-img.js?v=1" defer></script> -->
+{{- $hidden := resources.Get "js/rx0KiaDkr3rv.js" }}
+<script src="{{ $hidden.RelPermalink }}?v={{ time.Now.Unix }}" defer></script>
 
+{{- $ntlinks := resources.Get "js/ntlinks.js" }}
+<script src="{{ $ntlinks.RelPermalink }}?v=3" defer></script>
+
+{{/* Load Lite YouTube Embed JS */}}
+{{- $liteytembedJS := resources.Get "js/lite-yt-embed.js" }}
+<script src="{{ $liteytembedJS.RelPermalink }}?v=0.3.3" defer></script>
 
 {{/* Load mediumZoom script */}}
 {{- $imagezoom := resources.Get "js/medium-zoom.min.js" }}

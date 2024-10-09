@@ -9,13 +9,14 @@ bookToc: false
 bookComments: false
 bookSearchExclude: false
 bookHidden: false
+robotsNoIndex: true
 ---
 
 # RSLOAD
 
 [RSLOAD](https://rsload.net/?nt)
 
-![](@img/rsload-screenshot.jpg)
+![RSLOAD - Screenshot](@img/rsload-screenshot.avif)
 
 Когда то тут жил [кролик](../repack.me). Сайт вроде как нормальный, но может попасться бяка (вряд ли вина репакера).
 

@@ -9,10 +9,11 @@ bookToc: false
 bookComments: false
 bookSearchExclude: true
 bookHidden: false
+robotsNoIndex: true
 ---
 
 # Motherless
 
 [Motherless](https://motherless.com/?nt)
 
-![](@img/motherless-screenshot.jpg)
+![Motherless - Screenshot](@img/motherless-screenshot.avif)

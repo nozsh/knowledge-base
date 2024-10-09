@@ -13,7 +13,7 @@ bookHidden: false
 
 # cURL Converter
 
-[cURL Converter](https://curlconverter.com/?nt)
+[cURL Converter](https://curlconverter.com/?sl)
 
 Крутая утилита, используйте вкладку "Сеть" в инструментах разработчика, чтобы скопировать запрос как cURL, и конвертируйте его в код.
 
@@ -119,4 +119,4 @@ int main(int argc, char *argv[])
 
 Очень ускоряет.
 
-Так же [GitHub](https://github.com/curlconverter/curlconverter/?nt)
+Так же [GitHub](https://github.com/curlconverter/curlconverter/?sl)

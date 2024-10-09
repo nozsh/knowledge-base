@@ -9,12 +9,14 @@ bookToc: false
 bookComments: false
 bookSearchExclude: false
 bookHidden: false
+robotsNoIndex: true
 ---
 
 # DODI
 
-[dodi-repacks.site](https://dodi-repacks.site/?nt), [dodi-repacks.download](https://dodi-repacks.download/?nt)
+- [dodi-repacks.site](https://dodi-repacks.site/?nt)
+- [dodi-repacks.download](https://dodi-repacks.download/?nt)
 
-![](@img/dodi-screenshot.jpg)
+![DODI - Screenshot](@img/dodi-screenshot.avif)
 
 Один из лучших репакеров игр. Почти не известен в необъятной, но хорошо известен на западе.

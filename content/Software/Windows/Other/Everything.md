@@ -15,4 +15,4 @@ bookHidden: false
 
 Everything - бесплатная утилита для Windows, позволяющая практически мгновенно находить файлы и папки по их именам, размерам, датам, атрибутам и др.
 
-{{< button href="https://www.voidtools.com/?nt" >}}Скачать{{< /button >}}
+{{< button href="https://www.voidtools.com/?sl" >}}Скачать{{< /button >}}

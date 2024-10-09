@@ -9,6 +9,7 @@ bookToc: true
 bookComments: false
 bookSearchExclude: true
 bookHidden: false
+robotsNoIndex: true
 ---
 
 # Как сделать VPN - 3x-ui

@@ -9,10 +9,11 @@ bookToc: false
 bookComments: false
 bookSearchExclude: true
 bookHidden: false
+robotsNoIndex: true
 ---
 
 # Hobby
 
 [Hobby](https://hobby.porn/?nt)
 
-![](@img/hobby-screenshot.jpg)
+![Hobby - Screenshot](@img/hobby-screenshot.avif)

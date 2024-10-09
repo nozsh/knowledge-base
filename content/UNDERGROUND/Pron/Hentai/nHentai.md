@@ -9,10 +9,11 @@ bookToc: false
 bookComments: false
 bookSearchExclude: true
 bookHidden: false
+robotsNoIndex: true
 ---
 
 # nHentai
 
 [nHentai](https://nhentai.net/?nt)
 
-![](@img/nhentai-screenshot.jpg)
+![nHentai - Screenshot](@img/nhentai-screenshot.avif)

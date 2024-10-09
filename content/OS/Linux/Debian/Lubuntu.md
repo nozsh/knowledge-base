@@ -12,4 +12,4 @@ bookHidden: false
 
 # Lubuntu
 
-[lubuntu.me/downloads/](https://lubuntu.me/downloads/?nt)
+[lubuntu.me/downloads/](https://lubuntu.me/downloads/?sl)

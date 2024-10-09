@@ -9,13 +9,15 @@ bookToc: false
 bookComments: false
 bookSearchExclude: false
 bookHidden: false
+robotsNoIndex: true
 ---
 
 # HDREZKA
 
-[HDREZKA 1](https://rezka.ag/?nt), [HDREZKA 2](https://hdrezka.ag/?nt)
+- [rezka.ag](https://rezka.ag/?nt)
+- [hdrezka.ag](https://hdrezka.ag/?nt)
 
-![](@img/hdrezka-screenshot.jpg)
+![HDREZKA - Screenshot](@img/hdrezka-screenshot.avif)
 
 Все фильмы, сериалы, аниме, мультфильмы, даже 40-х. В максимальном качестве, с выбором любой существующей озвучки. Самые новые, самые популярные и самые нишевые произведения.
 

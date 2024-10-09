@@ -13,11 +13,11 @@ bookHidden: false
 
 # ChatGPT
 
-Официальный сайт - [chat.openai.com](https://chat.openai.com/?nt)
+Официальный сайт - [chat.openai.com](https://chat.openai.com/?sl)
 
 Теперь можно использовать без подписки, аккаунта и ограничений. ~~Но нужно заходить с USA~~ Теперь работает и с других стран.
 
-{{< imgs/imgc width="" caption="ChatGPT OpenAI" alt="ChatGPT OpenAI" src="@img/openai-chatgpt-screenshot.jpg" >}}
+{{< imgs/imgc width="" caption="ChatGPT OpenAI" alt="ChatGPT OpenAI" src="@img/openai-chatgpt-screenshot.avif" >}}
 
 ---
 

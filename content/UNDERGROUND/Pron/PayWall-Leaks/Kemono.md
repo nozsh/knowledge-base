@@ -9,13 +9,14 @@ bookToc: false
 bookComments: false
 bookSearchExclude: true
 bookHidden: false
+robotsNoIndex: true
 ---
 
 # Kemono
 
 [Kemono](https://kemono.su/?nt)
 
-![](@img/kemono-screenshot.jpg)
+![Kemono - Screenshot](@img/kemono-screenshot.avif)
 
 Тут "не реальный" контент. Так же "[реальный](../coomer)" контент.
 

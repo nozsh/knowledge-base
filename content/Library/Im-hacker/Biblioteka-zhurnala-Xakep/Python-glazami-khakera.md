@@ -8,11 +8,12 @@ bookToc: false
 bookComments: false
 bookSearchExclude: false
 bookHidden: false
+robotsNoIndex: true
 ---
 
 # Python глазами хакера
 
-{{< imgs/img "" "350px" "@img/python-glazami-hakera-biblioteka-zhurnala-haker-kollektiv-avtorov-cover.jpg" >}}
+{{< imgs/img "Python глазами хакера - Cover" "350px" "@img/python-glazami-hakera-biblioteka-zhurnala-haker-kollektiv-avtorov-cover.avif" >}}
 
 ---
 

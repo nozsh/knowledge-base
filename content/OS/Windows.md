@@ -13,8 +13,8 @@ slug: "windows-iso"
 
 # Windows
 
-Официальные [образы Windows](https://massgrave.dev/genuine-installation-media?nt), со всеми локализациями.
+Официальные [образы Windows](https://massgrave.dev/genuine-installation-media?sl), со всеми локализациями.
 
-[Активация Windows](https://github.com/massgravel/Microsoft-Activation-Scripts?nt).
+[Активация Windows](https://github.com/massgravel/Microsoft-Activation-Scripts?sl).
 
-![](@img/massgrave-screenshot.jpg)
+![massgrave.dev - Screenshot](@img/massgrave-screenshot.avif)

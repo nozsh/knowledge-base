@@ -13,9 +13,9 @@ bookHidden: false
 
 # Civitai
 
-[Civitai](https://civitai.com/?nt)
+[Civitai](https://civitai.com/?sl)
 
-![Civitai](@img/civitai-screenshot.jpg)
+![Civitai - Screenshot](@img/civitai-screenshot.avif)
 
 Сайт с кучей моделей, лор для генерации пикч и видео, так же можно посмотреть уже сгенерированный контент.
 

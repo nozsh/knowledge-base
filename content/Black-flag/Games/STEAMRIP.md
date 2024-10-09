@@ -9,12 +9,13 @@ bookToc: false
 bookComments: false
 bookSearchExclude: false
 bookHidden: false
+robotsNoIndex: true
 ---
 
 # STEAMRIP
 
 [STEAMRIP](https://steamrip.com/?nt)
 
-![](@img/steamrip-screenshot.jpg)
+![STEAMRIP - Screenshot](@img/steamrip-screenshot.avif)
 
-Предустановленные (портативные?) игры совершенно бесплатно. Контент не был удален или сжат.
+Портативные игры совершенно бесплатно. Контент не был удален или сжат.

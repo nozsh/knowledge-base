@@ -8,11 +8,12 @@ bookToc: false
 bookComments: false
 bookSearchExclude: false
 bookHidden: false
+robotsNoIndex: true
 ---
 
 # Криминалистика компьютерной памяти на практике
 
-{{< imgs/img "" "350px" "@img/kriminalistika-kompyuternoj-pamyati-na-praktik-cover.jpg" >}}
+{{< imgs/img "Криминалистика компьютерной памяти на практике - Cover" "350px" "@img/kriminalistika-kompyuternoj-pamyati-na-praktik-cover.avif" >}}
 
 ---
 

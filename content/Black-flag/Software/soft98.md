@@ -9,13 +9,14 @@ bookToc: false
 bookComments: false
 bookSearchExclude: false
 bookHidden: false
+robotsNoIndex: true
 ---
 
 # soft98
 
 [soft98](https://soft98.ir/?nt)
 
-![](@img/soft98-screenshot.jpg)
+![soft98 - Screenshot](@img/soft98-screenshot.avif)
 
 {{< hint info >}}
 **Осторожно фарси!**

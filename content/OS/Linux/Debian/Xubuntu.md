@@ -12,4 +12,4 @@ bookHidden: false
 
 # Xubuntu
 
-[xubuntu.org/download/](https://xubuntu.org/download/?nt)
+[xubuntu.org/download/](https://xubuntu.org/download/?sl)

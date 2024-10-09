@@ -9,13 +9,14 @@ bookToc: false
 bookComments: false
 bookSearchExclude: true
 bookHidden: false
+robotsNoIndex: true
 ---
 
 # Coomer
 
 [Coomer](https://coomer.su/?nt)
 
-![](@img/coomer-screenshot.jpg)
+![Coomer - Screenshot](@img/coomer-screenshot.avif)
 
 Тут "реальный" контент. Так же "[не реальный](../kemono)" контент.
 

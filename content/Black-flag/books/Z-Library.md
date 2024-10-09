@@ -9,11 +9,12 @@ bookToc: false
 bookComments: false
 bookSearchExclude: false
 bookHidden: false
+robotsNoIndex: true
 ---
 
 # Z-Library
 
-![](https://upload.wikimedia.org/wikipedia/en/7/70/Screenshot_of_Z-Library.png)
+![Z-Library - Screenshot](https://upload.wikimedia.org/wikipedia/en/7/70/Screenshot_of_Z-Library.png)
 
 - [singlelogin.re](https://singlelogin.re/?nt)
 - [singlelogin.rs](https://singlelogin.rs/?nt)

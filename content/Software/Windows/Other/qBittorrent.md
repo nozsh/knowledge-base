@@ -15,4 +15,4 @@ bookHidden: false
 
 Просто лучший торрент клиент.
 
-{{< button href="https://www.qbittorrent.org/download?nt" >}}Скачать{{< /button >}}
+{{< button href="https://www.qbittorrent.org/download?sl" >}}Скачать{{< /button >}}

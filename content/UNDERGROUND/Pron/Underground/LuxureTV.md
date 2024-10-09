@@ -9,10 +9,11 @@ bookToc: false
 bookComments: false
 bookSearchExclude: true
 bookHidden: false
+robotsNoIndex: true
 ---
 
 # LuxureTV
 
 [LuxureTV](https://en.luxuretv.com/?nt)
 
-![](@img/luxuretv-screenshot.jpg)
+![LuxureTV - Screenshot](@img/luxuretv-screenshot.avif)

@@ -3,11 +3,13 @@
 
 {{- $src := .Get 2 | safeURL -}}
 
-{{- if hasPrefix $src $imgPATH -}}
-  {{- $urlWithoutHash := .Page.RelPermalink | replaceRE "#.*$" "" -}}
-  {{- $articleName := $urlWithoutHash | replaceRE "^.*/([^/]+)/$" "$1" | urlize -}}
-  {{- $newSrc := $src | replaceRE (printf "^%s" $imgPATH) (printf "%s%s" $imgURL $articleName) -}}
-  <img alt='{{ .Get 0 }}' width='{{.Get 1}}' src='{{ $newSrc }}' {{ .Get 3 | safeHTMLAttr }}>
-{{- else -}}
-  <img alt='{{ .Get 0 }}' width='{{ .Get 1 }}' src='{{ .Get 2 }}' {{ .Get 3 | safeHTMLAttr }}>
-{{- end -}}
+<p>
+  {{- if hasPrefix $src $imgPATH -}}
+    {{- $urlWithoutHash := .Page.RelPermalink | replaceRE "#.*$" "" -}}
+    {{- $articleName := $urlWithoutHash | replaceRE "^.*/([^/]+)/$" "$1" | urlize -}}
+    {{- $newSrc := $src | replaceRE (printf "^%s" $imgPATH) (printf "%s%s" $imgURL $articleName) -}}
+    <img loading="lazy" alt='{{ .Get 0 }}' width='{{.Get 1}}' src='{{ $newSrc }}'>
+  {{- else -}}
+    <img loading="lazy" alt='{{ .Get 0 }}' width='{{ .Get 1 }}' src='{{ .Get 2 }}'>
+  {{- end -}}
+</p>

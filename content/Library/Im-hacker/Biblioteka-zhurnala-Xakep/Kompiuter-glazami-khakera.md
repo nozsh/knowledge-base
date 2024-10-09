@@ -8,11 +8,12 @@ bookToc: false
 bookComments: false
 bookSearchExclude: false
 bookHidden: false
+robotsNoIndex: true
 ---
 
 # Компьютер глазами хакера
 
-{{< imgs/img "" "350px" "@img/kompyuter-glazami-hakera-biblioteka-zhurnala-haker-shalin-pavel-cover.jpg" >}}
+{{< imgs/img "Компьютер глазами хакера - Cover" "350px" "@img/kompyuter-glazami-hakera-biblioteka-zhurnala-haker-shalin-pavel-cover.avif" >}}
 
 ---
 

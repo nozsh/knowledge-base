@@ -12,4 +12,4 @@ bookHidden: false
 
 # Kubuntu
 
-[kubuntu.org/getkubuntu/](https://kubuntu.org/getkubuntu/?nt)
+[kubuntu.org/getkubuntu/](https://kubuntu.org/getkubuntu/?sl)

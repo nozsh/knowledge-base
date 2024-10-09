@@ -9,10 +9,11 @@ bookToc: false
 bookComments: false
 bookSearchExclude: true
 bookHidden: false
+robotsNoIndex: true
 ---
 
 # eFukt
 
 [eFukt](https://efukt.com/?nt)
 
-![](@img/efukt-screenshot.jpg)
+![eFukt - Screenshot](@img/efukt-screenshot.avif)

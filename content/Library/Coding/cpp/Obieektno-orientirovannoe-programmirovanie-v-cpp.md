@@ -8,11 +8,12 @@ bookToc: false
 bookComments: false
 bookSearchExclude: false
 bookHidden: false
+robotsNoIndex: true
 ---
 
 # Объектно-ориентированное программирование в С++
 
-{{< imgs/img "" "350px" "@img/obektno-orientirovannoe-programirovanie-lafore-cover.jpg" >}}
+{{< imgs/img "Объектно-ориентированное программирование в С++ - Cover" "350px" "@img/obektno-orientirovannoe-programirovanie-lafore-cover.avif" >}}
 
 ---
 

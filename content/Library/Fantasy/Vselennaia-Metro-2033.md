@@ -8,11 +8,12 @@ bookToc: false
 bookComments: false
 bookSearchExclude: false
 bookHidden: false
+robotsNoIndex: true
 ---
 
 # Вселенная Метро 2033
 
-{{< imgs/img "" "350px" "@img/vselennaia-metro-2033-cover.jpg" >}}
+{{< imgs/img "Вселенная Метро 2033 - Cover" "350px" "@img/vselennaia-metro-2033-cover.avif" >}}
 
 ---
 

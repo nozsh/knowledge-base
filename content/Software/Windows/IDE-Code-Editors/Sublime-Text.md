@@ -15,4 +15,4 @@ bookHidden: false
 
 Sublime просто Sublime.
 
-{{< button href="https://www.sublimetext.com/?nt" >}}Скачать{{< /button >}}
+{{< button href="https://www.sublimetext.com/?sl" >}}Скачать{{< /button >}}

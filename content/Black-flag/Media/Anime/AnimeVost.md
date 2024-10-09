@@ -9,12 +9,14 @@ bookToc: false
 bookComments: false
 bookSearchExclude: false
 bookHidden: false
+robotsNoIndex: true
 ---
 
 # AnimeVost
 
-[AnimeVost](https://animevost.org/?nt) // [VK](https://vk.com/animevostorg?nt)
+- [AnimeVost](https://animevost.org/?nt)
+- [VK](https://vk.com/animevostorg?nt)
 
-![](@img/animevost-screenshot.jpg)
+![AnimeVost - Screenshot](@img/animevost-screenshot.avif)
 
 Противоположность [AnimeBest](../animebest).

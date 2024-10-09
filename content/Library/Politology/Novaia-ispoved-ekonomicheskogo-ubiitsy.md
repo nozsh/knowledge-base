@@ -8,11 +8,12 @@ bookToc: false
 bookComments: false
 bookSearchExclude: false
 bookHidden: false
+robotsNoIndex: true
 ---
 
 # Новая исповедь экономического убийцы
 
-{{< imgs/img "" "350px" "@img/dzhon-perkins-novaya-ispoved-ekonomicheskogo-ubiycy-cover.jpg" >}}
+{{< imgs/img "Новая исповедь экономического убийцы - Cover" "350px" "@img/dzhon-perkins-novaya-ispoved-ekonomicheskogo-ubiycy-cover.avif" >}}
 
 ---
 

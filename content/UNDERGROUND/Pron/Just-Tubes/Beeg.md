@@ -9,10 +9,11 @@ bookToc: false
 bookComments: false
 bookSearchExclude: true
 bookHidden: false
+robotsNoIndex: true
 ---
 
 # Beeg
 
 [Beeg](https://beeg.com/?nt)
 
-![](@img/beeg-screenshot.jpg)
+![Beeg - Screenshot](@img/beeg-screenshot.avif)

@@ -12,4 +12,4 @@ bookHidden: false
 
 # Arch
 
-[archlinux.org/download/](https://archlinux.org/download/?nt)
+[archlinux.org/download/](https://archlinux.org/download/?sl)

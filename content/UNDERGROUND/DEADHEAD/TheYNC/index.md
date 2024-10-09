@@ -9,13 +9,14 @@ bookToc: false
 bookComments: false
 bookSearchExclude: true
 bookHidden: false
+robotsNoIndex: true
 ---
 
 # TheYNC
 
 [TheYNC](https://theync.com/?nt)
 
-![](@img/theync-screenshot.jpg)
+![TheYNC - Screenshot](@img/theync-screenshot.avif)
 
 Немного порно, и много крови ;)
 

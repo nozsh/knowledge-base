@@ -12,4 +12,4 @@ bookHidden: false
 
 # Manjaro
 
-[manjaro.org/download/](https://manjaro.org/download/?nt)
+[manjaro.org/download/](https://manjaro.org/download/?sl)

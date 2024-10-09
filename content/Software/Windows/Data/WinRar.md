@@ -13,4 +13,4 @@ bookHidden: false
 
 # WinRar
 
-{{< button href="https://www.rarlab.com/download.htm?nt" >}}Скачать{{< /button >}}{{< button href="https://disk.yandex.ru/d/4J-ptWRaItn_sQ?nt" >}}rarreg{{< /button >}}{{< button href="https://disk.yandex.ru/d/mjO7UZE9NVSdTQ?nt" >}}Пароль{{< /button >}}
+{{< button href="https://www.rarlab.com/download.htm?sl" >}}Скачать{{< /button >}}{{< button href="https://disk.yandex.ru/d/4J-ptWRaItn_sQ?nt" >}}rarreg{{< /button >}}{{< button href="https://disk.yandex.ru/d/mjO7UZE9NVSdTQ?nt" >}}Пароль{{< /button >}}

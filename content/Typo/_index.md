@@ -8,6 +8,7 @@ bookToc: false
 bookComments: false
 bookSearchExclude: true
 bookHidden: true
+robotsNoIndex: true
 ---
 
 # Typo

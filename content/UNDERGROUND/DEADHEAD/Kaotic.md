@@ -9,12 +9,13 @@ bookToc: false
 bookComments: false
 bookSearchExclude: true
 bookHidden: false
+robotsNoIndex: true
 ---
 
 # Kaotic
 
 [Kaotic](https://kaotic.com/?nt)
 
-![](@img/kaotic-screenshot.jpg)
+![Kaotic - Screenshot](@img/kaotic-screenshot.avif)
 
 Кровь, насилие, похоть, и какая то еб\*нутая дичь.

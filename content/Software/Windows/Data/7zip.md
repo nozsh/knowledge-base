@@ -25,4 +25,4 @@ bookHidden: false
 
 &nbsp;
 
-{{< button href="https://www.7-zip.org/?nt" >}}Скачать{{< /button >}}
+{{< button href="https://www.7-zip.org/?sl" >}}Скачать{{< /button >}}

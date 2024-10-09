@@ -9,10 +9,11 @@ bookToc: false
 bookComments: false
 bookSearchExclude: true
 bookHidden: false
+robotsNoIndex: true
 ---
 
 # TNAFlix
 
 [TNAFlix](https://www.tnaflix.com/?nt)
 
-![](@img/tnaflix-screenshot.jpg)
+![TNAFlix - Screenshot](@img/tnaflix-screenshot.avif)

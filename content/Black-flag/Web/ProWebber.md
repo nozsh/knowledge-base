@@ -9,13 +9,14 @@ bookToc: false
 bookComments: false
 bookSearchExclude: false
 bookHidden: false
+robotsNoIndex: true
 ---
 
 # ProWebber
 
 [ProWebber](https://prowebber.club/?nt)
 
-![](@img/prowebber-screenshot.jpg)
+![ProWebber - Screenshot](@img/prowebber-screenshot.avif)
 
 Изначально prowebber[.]ru (Сейчас там другой сайт), сайту около 12 лет.
 

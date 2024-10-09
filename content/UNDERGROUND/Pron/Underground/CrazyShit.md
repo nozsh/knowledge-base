@@ -9,12 +9,13 @@ bookToc: false
 bookComments: false
 bookSearchExclude: true
 bookHidden: false
+robotsNoIndex: true
 ---
 
 # CrazyShit
 
 [CrazyShit](https://crazyshit.com/?nt)
 
-![](@img/crazyshit-screenshot.jpg)
+![CrazyShit - Screenshot](@img/crazyshit-screenshot.avif)
 
 > _**Чо тут нах\*й происходит?**_

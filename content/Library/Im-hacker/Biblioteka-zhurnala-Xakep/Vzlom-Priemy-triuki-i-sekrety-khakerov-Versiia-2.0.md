@@ -8,11 +8,12 @@ bookToc: false
 bookComments: false
 bookSearchExclude: false
 bookHidden: false
+robotsNoIndex: true
 ---
 
 # Взлом. Приемы, трюки и секреты хакеров. Версия 2.0
 
-{{< imgs/img "" "350px" "@img/vzlom-priemy-tryuki-i-sekrety-hakerov-versiya-2.00-biblioteka-zhurnala-haker-shalin-pavel-cover.jpg" >}}
+{{< imgs/img "Взлом. Приемы, трюки и секреты хакеров. Версия 2.0 - Cover" "350px" "@img/vzlom-priemy-tryuki-i-sekrety-hakerov-versiya-2.00-biblioteka-zhurnala-haker-shalin-pavel-cover.avif" >}}
 
 ---
 

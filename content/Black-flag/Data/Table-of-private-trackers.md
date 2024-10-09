@@ -9,10 +9,11 @@ bookToc: false
 bookComments: false
 bookSearchExclude: false
 bookHidden: false
+robotsNoIndex: true
 ---
 
 # Таблица приватных трекеров
 
-[hdvinnie.github.io/Private-Trackers-Spreadsheet/](https://hdvinnie.github.io/Private-Trackers-Spreadsheet/?nt)
+[hdvinnie.github.io/Private-Trackers-Spreadsheet](https://hdvinnie.github.io/Private-Trackers-Spreadsheet/?nt)
 
 А почему бы и нет.

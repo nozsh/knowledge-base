@@ -9,10 +9,11 @@ bookToc: false
 bookComments: false
 bookSearchExclude: true
 bookHidden: false
+robotsNoIndex: true
 ---
 
 # Terk
 
 [Terk](https://www.terk.nl/?nt)
 
-![](@img/terk-screenshot.jpg)
+![Terk - Screenshot](@img/terk-screenshot.avif)

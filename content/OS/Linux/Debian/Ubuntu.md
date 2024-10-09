@@ -12,4 +12,4 @@ bookHidden: false
 
 # Ubuntu
 
-[ubuntu.com/download/](https://ubuntu.com/download?nt)
+[ubuntu.com/download/](https://ubuntu.com/download?sl)

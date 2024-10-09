@@ -9,10 +9,11 @@ bookToc: false
 bookComments: false
 bookSearchExclude: true
 bookHidden: false
+robotsNoIndex: true
 ---
 
 # Xrares
 
 [Xrares](https://www.xrares.com/?nt)
 
-![](@img/xrares-screenshot.jpg)
+![Xrares - Screenshot](@img/xrares-screenshot.avif)

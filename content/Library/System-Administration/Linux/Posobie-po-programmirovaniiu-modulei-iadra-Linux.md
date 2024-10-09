@@ -8,11 +8,12 @@ bookToc: false
 bookComments: false
 bookSearchExclude: false
 bookHidden: false
+robotsNoIndex: true
 ---
 
 # Пособие по программированию модулей ядра Linux
 
-{{< imgs/img "" "350px" "@img/jim-huang-et-al-posobie-po-programmirovaniyu-modulej-yadra-linux-cover.png" >}}
+{{< imgs/img "Пособие по программированию модулей ядра Linux - Cover" "350px" "@img/jim-huang-et-al-posobie-po-programmirovaniyu-modulej-yadra-linux-cover.avif" >}}
 
 ---
 

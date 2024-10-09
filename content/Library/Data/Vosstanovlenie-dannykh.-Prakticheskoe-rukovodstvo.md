@@ -8,11 +8,12 @@ bookToc: false
 bookComments: false
 bookSearchExclude: false
 bookHidden: false
+robotsNoIndex: true
 ---
 
 # Восстановление данных. Практическое руководство
 
-{{< imgs/img "" "350px" "@img/vosstanovlenie-dannyh.-prakticheskoe-rukovodstvo-2-e-izd.-2021-kasperski-k.-kirilova-k.-holmogorov-v-cover.jpg" >}}
+{{< imgs/img "Восстановление данных. Практическое руководство - Cover" "350px" "@img/vosstanovlenie-dannyh.-prakticheskoe-rukovodstvo-2-e-izd.-2021-kasperski-k.-kirilova-k.-holmogorov-v-cover.avif" >}}
 
 ---
 

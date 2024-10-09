@@ -9,12 +9,13 @@ bookToc: false
 bookComments: false
 bookSearchExclude: true
 bookHidden: false
+robotsNoIndex: true
 ---
 
 # SeeGore
 
 [SeeGore](https://seegore.com/?nt)
 
-![](@img/seegore-screenshot.jpg)
+![SeeGore - Screenshot](@img/seegore-screenshot.avif)
 
 Узреть GORE.

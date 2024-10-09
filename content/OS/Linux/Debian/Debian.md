@@ -12,4 +12,4 @@ bookHidden: false
 
 # Debian
 
-[debian.org/distrib/](https://www.debian.org/distrib/?nt)
+[debian.org/distrib/](https://www.debian.org/distrib/?sl)

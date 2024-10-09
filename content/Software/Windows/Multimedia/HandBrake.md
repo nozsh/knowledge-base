@@ -13,9 +13,9 @@ bookHidden: false
 
 # HandBrake
 
-{{< imgs/img "HandBrake Logo" "150px" "@img/handbrake_logo.png" >}}
+{{< imgs/img "HandBrake Logo" "150px" "@img/handbrake-logo.avif" >}}
 
 Лучшая программа для оптимизации/сжатия видео файлов.
 
-{{< button href="https://github.com/HandBrake/HandBrake/releases?nt" >}}GitHub{{< /button >}}
-{{< button href="https://handbrake.fr/?nt" >}}Сайт{{< /button >}}
+{{< button href="https://github.com/HandBrake/HandBrake/releases?sl" >}}GitHub{{< /button >}}
+{{< button href="https://handbrake.fr/?sl" >}}Сайт{{< /button >}}

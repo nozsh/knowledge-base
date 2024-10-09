@@ -9,12 +9,13 @@ bookToc: false
 bookComments: false
 bookSearchExclude: false
 bookHidden: false
+robotsNoIndex: true
 ---
 
 # Red Head Sound
 
 [Red Head Sound](https://redheadsound.studio/?nt)
 
-![](@img/redheadsound-screenshot.jpg)
+![Red Head Sound - Screenshot](@img/redheadsound-screenshot.avif)
 
 Сайт группы озвучки RHS (Red Head Sound). Только озвучка RHS.

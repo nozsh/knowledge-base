@@ -9,10 +9,11 @@ bookToc: false
 bookComments: false
 bookSearchExclude: true
 bookHidden: false
+robotsNoIndex: true
 ---
 
 # SpankBang
 
 [SpankBang](https://spankbang.com/?nt)
 
-![](@img/spankbang-screenshot.jpg)
+![SpankBang - Screenshot](@img/spankbang-screenshot.avif)

@@ -8,11 +8,12 @@ bookToc: false
 bookComments: false
 bookSearchExclude: false
 bookHidden: false
+robotsNoIndex: true
 ---
 
 # Освой самостоятельно C++ по одному часу в день
 
-{{< imgs/img "" "350px" "@img/osvoj-samostoyatelno-c-po-odnomu-chasu-v-den-cover.jpg" >}}
+{{< imgs/img "Освой самостоятельно C++ по одному часу в день - Cover" "350px" "@img/osvoj-samostoyatelno-c-po-odnomu-chasu-v-den-cover.avif" >}}
 
 ---
 

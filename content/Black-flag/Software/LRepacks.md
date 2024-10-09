@@ -9,12 +9,13 @@ bookToc: false
 bookComments: false
 bookSearchExclude: false
 bookHidden: false
+robotsNoIndex: true
 ---
 
 # LRepacks
 
 [LRepacks](https://lrepacks.net/?nt)
 
-![](@img/lrepacks-screenshot.jpg)
+![LRepacks - Screenshot](@img/lrepacks-screenshot.avif)
 
 Это сайт **ELCHUPACABRA**, одного из известных репакеров.

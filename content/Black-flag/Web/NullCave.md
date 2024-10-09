@@ -9,13 +9,14 @@ bookToc: false
 bookComments: false
 bookSearchExclude: false
 bookHidden: false
+robotsNoIndex: true
 ---
 
 # NullCave
 
 [NullCave](https://nullcave.club/?nt)
 
-![](@img/nullcave-screenshot.jpg)
+![NullCave - Screenshot](@img/nullcave-screenshot.avif)
 
 Это сайт raz0r’a, админа сайта [ProWebber](../prowebber), как пишет автор - NullCave создан исключительно для англоязычной аудитории.
 

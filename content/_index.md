@@ -19,7 +19,7 @@ bookHidden: false
 
 <!-- <img alt="Knowledge Base" id="giphy-image" src="@img/where.gif" width="100%" no-zoom> -->
 
-{{< imgs/img "Knowledge Base" "100%" "@img/where.gif" "no-zoom" >}}
+<img loading="eager" alt="Knowledge Base" width="100%" src="https://assets.nozsh.su/img/kb/kb/where.webp" no-zoom>
 
 
 <style>

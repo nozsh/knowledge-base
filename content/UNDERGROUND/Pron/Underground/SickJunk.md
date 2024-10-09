@@ -9,10 +9,11 @@ bookToc: false
 bookComments: false
 bookSearchExclude: true
 bookHidden: false
+robotsNoIndex: true
 ---
 
 # SickJunk
 
 [SickJunk](https://sickjunk.com/?nt)
 
-![](@img/sickjunk-screenshot.jpg)
+![SickJunk - Screenshot](@img/sickjunk-screenshot.avif)

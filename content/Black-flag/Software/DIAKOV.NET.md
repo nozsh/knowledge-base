@@ -9,12 +9,13 @@ bookToc: false
 bookComments: false
 bookSearchExclude: false
 bookHidden: false
+robotsNoIndex: true
 ---
 
 # DIAKOV.NET
 
 [DIAKOV.NET](https://diakov.net/?nt)
 
-![](@img/diakov.net-screenshot.jpg)
+![DIAKOV.NET - Screenshot](@img/diakov.net-screenshot.avif)
 
 Типо как [repack.me](../repack.me), только diakov.net.

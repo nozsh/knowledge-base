@@ -9,13 +9,14 @@ bookToc: false
 bookComments: false
 bookSearchExclude: false
 bookHidden: false
+robotsNoIndex: true
 ---
 
 # REPACK.ME
 
 [REPACK.ME](https://repack.me/?nt)
 
-![](@img/repack.me-screenshot.jpg)
+![REPACK.ME - Screenshot](@img/repack.me-screenshot.avif)
 
 Куча софта, закрытая регистрация, ~~крутой~~ кролик.
 

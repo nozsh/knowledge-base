@@ -9,10 +9,11 @@ bookToc: false
 bookComments: false
 bookSearchExclude: true
 bookHidden: false
+robotsNoIndex: true
 ---
 
 # HentaiEra
 
 [HentaiEra](https://hentaiera.com/?nt)
 
-![](@img/hentaiera-screenshot.jpg)
+![HentaiEra - Screenshot](@img/hentaiera-screenshot.avif)

@@ -13,10 +13,10 @@ bookHidden: false
 
 # Character Tavern
 
-[Character Tavern](https://character-tavern.com/?nt)
+[Character Tavern](https://character-tavern.com/?sl)
 
-![Character Tavern](@img/character-tavern-screenshot.jpg)
+![Character Tavern](@img/character-tavern-screenshot.avif)
 
-В основном карточки персонажей, с разных источников. Удобный импорт в [SillyTavern](https://github.com/SillyTavern/SillyTavern?nt), а так же на [Chub](../../chat-bots/chub) и [RisuAI](https://risuai.xyz/?nt)
+В основном карточки персонажей, с разных источников. Удобный импорт в [SillyTavern](https://github.com/SillyTavern/SillyTavern?sl), а так же на [Chub](../../chat-bots/chub) и [RisuAI](https://risuai.xyz/?sl)
 
 _Так же сайт позволяет начать диалог прямо на сайте (не проверенно, как работает), но для этого нужна регистрация._

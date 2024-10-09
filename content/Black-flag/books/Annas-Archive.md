@@ -9,11 +9,12 @@ bookToc: false
 bookComments: false
 bookSearchExclude: false
 bookHidden: false
+robotsNoIndex: true
 ---
 
 # Anna's Archive
 
-{{< imgs/img "alt text" "50%" "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Anna%E2%80%99s_Archive_Screenshot_2024-06-30_at_00-35-26.png/1280px-Anna%E2%80%99s_Archive_Screenshot_2024-06-30_at_00-35-26.png" >}}
+{{< imgs/img "Anna's Archive - Screenshot" "50%" "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Anna%E2%80%99s_Archive_Screenshot_2024-06-30_at_00-35-26.png/1280px-Anna%E2%80%99s_Archive_Screenshot_2024-06-30_at_00-35-26.png" >}}
 
 - [annas-archive.se](https://annas-archive.se?nt)
 - [annas-archive.li](https://annas-archive.li/?nt)
