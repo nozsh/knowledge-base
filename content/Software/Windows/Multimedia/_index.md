@@ -1,6 +1,7 @@
 ---
 type: docs
 title: 📁 Мультимедиа
+description: "kb a.k.a Knowledge Base"
 # weight: 900
 bookCollapseSection: true
 bookFlatSection: false

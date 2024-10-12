@@ -1,6 +1,7 @@
 ---
 type: docs
 title: 🗑️ Статьи
+description: "kb a.k.a Knowledge Base"
 weight: 9090
 bookCollapseSection: true
 bookFlatSection: false

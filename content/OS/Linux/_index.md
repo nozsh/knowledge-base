@@ -1,6 +1,7 @@
 ---
 type: docs
 title: 💿 Linux
+description: "kb a.k.a Knowledge Base"
 weight: 850
 bookCollapseSection: true
 bookFlatSection: false

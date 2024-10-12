@@ -1,6 +1,7 @@
 ---
 type: docs
 title: 🔷 Освой самостоятельно C++ по одному часу в день
+description: "kb a.k.a Knowledge Base"
 # weight: 9999
 bookCollapseSection: false
 bookFlatSection: false

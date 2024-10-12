@@ -1,6 +1,7 @@
 ---
 type: docs
 title: 📁 Аниме
+description: "kb a.k.a Knowledge Base"
 weight: 500
 bookCollapseSection: true
 bookFlatSection: false

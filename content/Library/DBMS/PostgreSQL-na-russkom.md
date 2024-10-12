@@ -1,6 +1,7 @@
 ---
 type: docs
 title: 🔷 PostgreSQL на русском
+description: "kb a.k.a Knowledge Base"
 # weight: 9999
 bookCollapseSection: false
 bookFlatSection: false

@@ -1,7 +1,7 @@
 ---
 type: docs
 title: 🏷️ Метки
-# description: "IDK"
+description: "kb a.k.a Knowledge Base"
 weight: 20
 bookCollapseSection: false
 bookFlatSection: false

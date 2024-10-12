@@ -1,8 +1,8 @@
 ---
 type: docs
 title: 🟢 🐐 CRACKSurl
-# description: "IDK"
-weight: 100
+description: "kb a.k.a Knowledge Base"
+# weight: 100
 bookCollapseSection: false
 bookFlatSection: false
 bookToc: false

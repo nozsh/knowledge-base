@@ -34,20 +34,20 @@ menu:
   # before: []
   after:
     - name: "📟 Терминал"
-      url: "https://nozsh.su/"
+      url: "../"
       weight: 10
     - name: "💬 Контакт"
-      url: "https://nozsh.su/contact"
+      url: "../contact/"
       weight: 15
     - name: "✏️ Блог"
-      url: "https://nozsh.su/blog/"
+      url: "../blog/"
       weight: 20
 
 disableKinds: ["taxonomy"]
 
 params:
   title: Knowledge Base
-  description: "Самая разная информация."
+  description: "База знаний интересной, полезной и не очень информации."
 
   # (Optional, default light) Sets color theme: light, dark or auto.
   # Theme 'auto' switches between dark and light modes based on browser/os preferences

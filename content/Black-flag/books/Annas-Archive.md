@@ -1,7 +1,7 @@
 ---
 type: docs
 title: ⚪️ Anna's Archive (LD)
-description: "Anna's Archive, maybe better than Z-Lib."
+description: "kb a.k.a Knowledge Base"
 # weight: 900
 bookCollapseSection: false
 bookFlatSection: false

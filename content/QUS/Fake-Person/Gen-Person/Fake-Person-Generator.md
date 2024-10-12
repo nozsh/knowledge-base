@@ -1,7 +1,7 @@
 ---
 type: docs
 title: 🔷 Fake Person Generator
-# description: "IDK"
+description: "kb a.k.a Knowledge Base"
 # weight: 100
 bookCollapseSection: false
 bookFlatSection: false

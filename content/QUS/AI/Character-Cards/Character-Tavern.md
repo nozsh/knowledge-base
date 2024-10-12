@@ -1,14 +1,14 @@
 ---
 type: docs
 title: 🔷 Character Tavern
-# description: "IDK"
+description: "kb a.k.a Knowledge Base"
 # weight: 900
 bookCollapseSection: false
 bookFlatSection: false
 bookToc: false
 bookComments: false
 bookSearchExclude: false
-bookHidden: false
+bookHidden: false4
 ---
 
 # Character Tavern

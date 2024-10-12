@@ -1,6 +1,7 @@
 ---
 type: docs
 title: 🔷 Взлом. Приемы, трюки и секреты хакеров. Версия 2.0
+description: "kb a.k.a Knowledge Base"
 # weight: 9999
 bookCollapseSection: false
 bookFlatSection: false

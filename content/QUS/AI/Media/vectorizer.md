@@ -1,7 +1,7 @@
 ---
 type: docs
 title: 🔷 vectorizer
-# description: "vectorizer"
+description: "kb a.k.a Knowledge Base"
 # weight: 900
 bookCollapseSection: false
 bookFlatSection: false

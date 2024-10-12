@@ -1,7 +1,7 @@
 ---
 type: docs
 title: "🔷 Sublime Text"
-description: "Sublime Text"
+description: "kb a.k.a Knowledge Base"
 # weight: 900
 bookCollapseSection: false
 bookFlatSection: false

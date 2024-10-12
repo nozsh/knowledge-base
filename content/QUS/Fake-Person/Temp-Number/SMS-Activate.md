@@ -1,7 +1,7 @@
 ---
 type: docs
 title: 🔷 SMS Activate
-description: "SMS Activate - Временный номер"
+description: "kb a.k.a Knowledge Base"
 # weight: 900
 bookCollapseSection: false
 bookFlatSection: false

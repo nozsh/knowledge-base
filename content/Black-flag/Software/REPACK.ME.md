@@ -1,8 +1,8 @@
 ---
 type: docs
 title: 🟠 REPACK.ME (RR)
-# description: "IDK"
-weight: 900
+description: "kb a.k.a Knowledge Base"
+# weight: 900
 bookCollapseSection: false
 bookFlatSection: false
 bookToc: false

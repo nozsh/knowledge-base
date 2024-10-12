@@ -1,7 +1,7 @@
 ---
 type: docs
 title: 🔷 WinRar
-# description: "WinRar"
+description: "kb a.k.a Knowledge Base"
 # weight: 900
 bookCollapseSection: false
 bookFlatSection: false

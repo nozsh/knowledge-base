@@ -1,7 +1,7 @@
 ---
 type: docs
 title: "🔷 Caramba Switcher"
-description: "Caramba Switcher"
+description: "kb a.k.a Knowledge Base"
 # weight: 900
 bookCollapseSection: false
 bookFlatSection: false

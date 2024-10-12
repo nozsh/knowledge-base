@@ -1,7 +1,7 @@
 ---
 type: docs
 title: 🗑️ Как сделать VPN - 3x-ui
-# description: "IDK"
+description: "kb a.k.a Knowledge Base"
 # weight: 900
 bookCollapseSection: false
 bookFlatSection: false

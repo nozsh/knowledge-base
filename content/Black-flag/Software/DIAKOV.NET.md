@@ -1,8 +1,8 @@
 ---
 type: docs
 title: ⚪️ DIAKOV.NET (LD)
-# description: "IDK"
-weight: 500
+description: "kb a.k.a Knowledge Base"
+# weight: 500
 bookCollapseSection: false
 bookFlatSection: false
 bookToc: false

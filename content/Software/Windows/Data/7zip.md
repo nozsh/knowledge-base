@@ -1,7 +1,7 @@
 ---
 type: docs
 title: "🔷 7zip"
-description: "7zip"
+description: "kb a.k.a Knowledge Base"
 # weight: 900
 bookCollapseSection: false
 bookFlatSection: false

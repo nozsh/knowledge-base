@@ -1,7 +1,7 @@
 ---
 type: docs
 title: "🔷 qBittorrent"
-description: "qBittorrent"
+description: "kb a.k.a Knowledge Base"
 # weight: 900
 bookCollapseSection: false
 bookFlatSection: false

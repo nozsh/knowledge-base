@@ -1,8 +1,8 @@
 ---
 type: docs
 title: ⚪️ RSLOAD (fR)
-# description: "IDK"
-weight: 500
+description: "kb a.k.a Knowledge Base"
+# weight: 500
 bookCollapseSection: false
 bookFlatSection: false
 bookToc: false

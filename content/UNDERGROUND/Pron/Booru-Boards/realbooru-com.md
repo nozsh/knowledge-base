@@ -1,7 +1,7 @@
 ---
 type: docs
 title: 🔷 Realbooru
-# description: "IDK"
+description: "kb a.k.a Knowledge Base"
 # weight: 900
 bookCollapseSection: false
 bookFlatSection: false
