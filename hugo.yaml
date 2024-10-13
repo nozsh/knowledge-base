@@ -33,15 +33,15 @@ languages:
 menu:
   # before: []
   after:
-    - name: "📟 Терминал"
+    # - name: "🔗 Контакт"
+    #   url: "../contact/"
+    #   weight: 10
+    # - name: "🔗 Блог"
+    #   url: "../blog/"
+    #   weight: 20
+    - name: "🔗 hub"
       url: "../"
-      weight: 10
-    - name: "💬 Контакт"
-      url: "../contact/"
-      weight: 15
-    - name: "✏️ Блог"
-      url: "../blog/"
-      weight: 20
+      weight: 30
 
 disableKinds: ["taxonomy"]
 
