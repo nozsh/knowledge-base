@@ -1,6 +1,6 @@
 ---
 type: docs
-title: 🔷 ChatGPT
+title: ✨ ChatGPT
 description: "kb a.k.a Knowledge Base"
 # weight: 900
 bookCollapseSection: false
