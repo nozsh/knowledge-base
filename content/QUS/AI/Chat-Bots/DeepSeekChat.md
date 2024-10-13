@@ -16,6 +16,8 @@ bookHidden: false
 
 [DeepSeek](https://chat.deepseek.com/sl)
 
+![DeepSeek Chat - Screenshot](@img/deepseek-chat-screenshot.avif)
+
 Есть обычная DeepSeek модель для рядового общения и DeepSeek Coder, для кода.
 
 В некоторых моментах умнее, в некоторых тупее чем [ChatGPT](../chatgpt)
