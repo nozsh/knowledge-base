@@ -14,7 +14,7 @@ robotsNoIndex: true
 
 # Как сделать VPN - 3x-ui
 
-![](@img/pochuvstvui-siebia-kitaitsiem-cover.jpg)
+![](@img/pochuvstvui-siebia-kitaitsiem-cover.avif)
 
 {{< hint warning >}}
 **Внимание!**<br>
@@ -49,7 +49,7 @@ apt update                   # Обязательно
 
 Возможно потребуется обновить пакеты до последних версий, тогда нужно вводить первую команду. Что я и рекомендую, ничего страшного не случится, просто придется подождать. А вот вторая команда обновляет список доступных пакетов из официальных репозиториев.
 
-{{< imgs/imgc width="" caption="Команды apt update \ apt upgrade (Debian)" alt="" src="@img/001-komandy-apt-update-apt-upgrade.jpg" >}}
+{{< imgs/imgc width="" caption="Команды apt update \ apt upgrade (Debian)" alt="" src="@img/001-komandy-apt-update-apt-upgrade.avif" >}}
 
 Далее:
 
@@ -102,7 +102,7 @@ Sniffing                 : Включить
 HTTP, TLS, QUIC, FAKEDNS : Включить
 ```
 
-{{< imgs/imgc width="" caption="Конфигурация профиля (VLESS xtls-reality)" alt="" src="@img/002-konfiguratsiya-podklyucheniya.jpg" >}}
+{{< imgs/imgc width="" caption="Конфигурация профиля (VLESS xtls-reality)" alt="" src="@img/002-konfiguratsiya-podklyucheniya.avif" >}}
 
 _В конфиге есть домен ("Домен: ..."), он там есть потому что он есть, но он не обязателен._
 
@@ -123,7 +123,7 @@ _В конфиге есть домен ("Домен: ..."), он там есть
 
 Переходим обратно в панель. Нажимаем на "+" > Тыкаем на значок "QR-код". Откроется окно, там тыкаем уже на сам QR-код и ключ скопируется в буфер.
 
-{{< imgs/imgc caption="Подключение к серверу (Панель)" src="@img/003-kak-podklyuchitsya-k-serveru-panel.jpg" >}}
+{{< imgs/imgc caption="Подключение к серверу (Панель)" src="@img/003-kak-podklyuchitsya-k-serveru-panel.avif" >}}
 
 ### На ПК
 
@@ -131,11 +131,11 @@ _В конфиге есть домен ("Домен: ..."), он там есть
 
 Server > Add profile from clipboard.
 
-{{< imgs/imgc caption="Добавление сервера в NekoBox (ПК)" src="@img/004-podklyucheniye-k-vpn-nekoray-pc-1.jpg" >}}
+{{< imgs/imgc caption="Добавление сервера в NekoBox (ПК)" src="@img/004-podklyucheniye-k-vpn-nekoray-pc-1.avif" >}}
 
 Сервер должен был появится в списке, далее нажимаем по нему ПКМ > "Start".
 
-{{< imgs/imgc caption="Запуск сервера в NekoBox (ПК)" src="@img/005-podklyucheniye-k-vpn-nekoray-pc-2.jpg" >}}
+{{< imgs/imgc caption="Запуск сервера в NekoBox (ПК)" src="@img/005-podklyucheniye-k-vpn-nekoray-pc-2.avif" >}}
 
 Должна была появится галочка напротив сервера слева, вместо цифры его позиции. Далее ставим галочки "System Proxy" и "Tun Mode".
 
@@ -145,7 +145,7 @@ Server > Add profile from clipboard.
 
 Tun Mode - это впн мод. Режим прокси будет работать везде где прокси поддерживаются, режим впн будет работать на всей системе.
 
-{{< imgs/imgc caption="System Proxy \ Tun Mode \ NekoBox (ПК)" src="@img/006-podklyucheniye-k-vpn-nekoray-pc-3.jpg" >}}
+{{< imgs/imgc caption="System Proxy \ Tun Mode \ NekoBox (ПК)" src="@img/006-podklyucheniye-k-vpn-nekoray-pc-3.avif" >}}
 
 Прокси будет работать немного быстрее режима впн. Поэтому если вы собирайтесь использовать впн только в браузере и у вас популярный браузер, который поддерживает прокси, то режим впн можно не включать.
 
@@ -161,7 +161,7 @@ Tun Mode - это впн мод. Режим прокси будет работа
 
 Для подключения к серверу, нажимаем на сервер и кнопку внизу.
 
-{{< imgs/imgc caption="Добавление \ Подключение к серверу в NekoBox (Андроид)" src="@img/007-dobavleniye-servera-i-podklyucheniye-s-android-nekobox.jpg" >}}
+{{< imgs/imgc caption="Добавление \ Подключение к серверу в NekoBox (Андроид)" src="@img/007-dobavleniye-servera-i-podklyucheniye-s-android-nekobox.avif" >}}
 
 Так же как и на ПК рекомендую зайти в настройки и включить "FakeDNS".
 

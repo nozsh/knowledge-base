@@ -23,7 +23,7 @@ robotsNoIndex: true
 ## FAQ
 
 {{< details "Посмотрите внимательно, что НЕ НУЖНО нажимать, чтобы случайно не отключить плагин" >}}
-![](@img/001-4454rufzflmxu8ol.jpg)
+![](@img/001-4454rufzflmxu8ol.avif)
 {{< /details >}}
 
 ### Какой вариант выбрать для опции Прокси?
@@ -56,10 +56,10 @@ robotsNoIndex: true
 
 {{< details "Как запросить нужные разрешения и включить бесконфликтный режим (скриншоты)" >}}
 
-![](@img/002-wnwr0ahhufso2hd5-1.jpg)
-![](@img/003-wnwr0ahhufso2hd5-2.jpg)
-![](@img/004-wnwr0ahhufso2hd5-3.jpg)
-![](@img/005-wnwr0ahhufso2hd5-4.jpg)
+![](@img/002-wnwr0ahhufso2hd5-1.avif)
+![](@img/003-wnwr0ahhufso2hd5-2.avif)
+![](@img/004-wnwr0ahhufso2hd5-3.avif)
+![](@img/005-wnwr0ahhufso2hd5-4.avif)
 
 {{< /details >}}
 
