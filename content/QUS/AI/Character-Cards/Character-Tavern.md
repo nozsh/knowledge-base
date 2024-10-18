@@ -8,7 +8,7 @@ bookFlatSection: false
 bookToc: false
 bookComments: false
 bookSearchExclude: false
-bookHidden: false4
+bookHidden: false
 ---
 
 # Character Tavern
