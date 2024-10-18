@@ -13,6 +13,4 @@ bookHidden: false
 
 # Character Tavern
 
-{{< redirect "0" "../../character-cards/character-tavern" >}}
-
 ### [**>> >> >>**](../../character-cards/character-tavern)

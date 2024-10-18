@@ -13,6 +13,4 @@ bookHidden: false
 
 # CharacterHub
 
-{{< redirect "0" "../../chat-bots/chub-characterhub" >}}
-
 ### [**>> >> >>**](../../chat-bots/chub-characterhub)
