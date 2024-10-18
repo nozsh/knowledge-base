@@ -11,7 +11,7 @@ bookSearchExclude: false
 bookHidden: false
 ---
 
-# Chub
+# Chub & CharacterHub
 
 [Chub](https://chub.ai/?sl)
 
