@@ -17,7 +17,7 @@ bookHidden: false
 
 ![Character Tavern](@img/character-tavern-screenshot.avif)
 
-В основном карточки персонажей, с разных источников. Удобный импорт в [SillyTavern](https://github.com/SillyTavern/SillyTavern?sl), а так же на [Chub](../../chat-bots/chub) и [RisuAI](https://risuai.xyz/?sl)
+В основном карточки персонажей, с разных источников. Удобный импорт в [SillyTavern](https://github.com/SillyTavern/SillyTavern?sl), а так же на [Chub](../../chat-bots/chub-characterhub) и [RisuAI](https://risuai.xyz/?sl)
 
 _Так же сайт позволяет начать диалог прямо на сайте (не проверенно, как работает), но для этого нужна регистрация._
 
@@ -25,4 +25,4 @@ UPD: 22-10-2024
 
 Сайт теперь почти бесполезен в качестве библиотеки с карточками персонажей. Так как все карточки с chub были удалены.
 
-Лучше сразу смотреть карточки на [Chub](../../chat-bots/chub).
+Лучше сразу смотреть карточки на [Chub](../../chat-bots/chub-characterhub).
