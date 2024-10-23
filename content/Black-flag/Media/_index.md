@@ -2,7 +2,7 @@
 type: docs
 title: 📁  Медиа
 description: "kb a.k.a Knowledge Base"
-# weight: 500
+weight: 500
 bookCollapseSection: true
 bookFlatSection: false
 bookToc: false
