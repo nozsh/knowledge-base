@@ -1,0 +1,163 @@
+baseURL: https://nozsh.su/kb/
+languageCode: ru
+defaultContentLanguage: ru
+title: Knowledge Base
+theme: ["hextra"]
+
+enableRobotsTXT: false
+enableGitInfo: true
+# enableEmoji: false
+hasCJKLanguage: true
+
+# services:
+#   googleAnalytics:
+#     ID: G-MEASUREMENT_ID
+
+outputs:
+  home: [HTML]
+  page: [HTML]
+  section: [HTML]
+  # section: [HTML, RSS]
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+languages:
+  ru:
+    languageName: Русский
+    languageCode: ru
+    languageDirection: ltr
+    weight: 10
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+
+enableInlineShortcodes: true
+
+menu:
+  main:
+    - identifier: blog
+      name: "✏️ Блог"
+      url: ../blog
+      weight: 10
+    - identifier: hub
+      name: "🌀 hub"
+      url: ../
+      weight: 20
+    - name: Search
+      weight: 900
+      params:
+        type: search
+    # - name: GitHub
+    #   weight: 6
+    #   url: "https://github.com/imfing/hextra"
+    #   params:
+    #     icon: github
+
+  sidebar:
+    - identifier: more
+      name: Еще
+      params:
+        type: separator
+      weight: 1
+    - identifier: private-paste
+      name: "Private Paste"
+      url: "private-paste"
+      weight: 10
+    - identifier: bref
+      name: "BR3F ↗"
+      url: "https://www.br3f.com/?sl"
+      weight: 20
+
+disableKinds: ["taxonomy"]
+
+params:
+  description: Modern, responsive, batteries-included Hugo theme for creating beautiful static websites.
+
+  assets:
+    assetsURL: "https://assets.nozsh.su/img/kb/"
+    assetsPATH: "@img"
+
+  navbar:
+    displayTitle: true
+    displayLogo: true
+    logo:
+      path: favicon.svg
+      # dark: images/logo-dark.svg
+      # width: 40
+      # height: 20
+      # link: /
+    width: wide
+
+  page:
+    # full (100%), wide (90rem), normal (1280px)
+    width: normal
+
+  theme:
+    # light | dark | system
+    default: system
+    displayToggle: true
+
+  footer:
+    enable: true
+    displayCopyright: true
+    displayPoweredBy: true
+    width: normal
+
+  displayUpdatedDate: true
+  DateFormat: "2 Jan 2006"
+
+  # Search
+  # flexsearch is enabled by default
+  search:
+    enable: true
+    type: flexsearch
+
+    flexsearch:
+      # index page by: content | summary | heading | title
+      index: content
+      # full | forward | reverse | strict
+      # https://github.com/nextapps-de/flexsearch/#tokenizer-prefix-search
+      tokenize: forward
+
+  editURL:
+    enable: true
+    # base: "https://github.com/imfing/hextra/edit/main/exampleSite/content"
+    base: "https://github.com/nozsh/knowledge-base/edit/v2/content"
+
+  blog:
+    list:
+      displayTags: true
+      # date | lastmod | publishDate | title | weight
+      sortBy: date
+      sortOrder: desc # or "asc"
+
+  highlight:
+    copy:
+      enable: true
+      # hover | always
+      display: hover
+
+  comments:
+    enable: false
+    type: giscus
+
+    # https://giscus.app/
+    giscus:
+      repo: imfing/hextra
+      repoId: R_kgDOJ9fJag
+      category: General
+      categoryId: DIC_kwDOJ9fJas4CY7gW
+      # mapping: pathname
+      # strict: 0
+      # reactionsEnabled: 1
+      # emitMetadata: 0
+      # inputPosition: top
+      # lang: en
+# permalinks:
+# docs: "/:filename" # convert = /posts/post1 => /post1, https://gohugo.io/content-management/urls/

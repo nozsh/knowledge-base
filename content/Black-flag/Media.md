@@ -1,0 +1,63 @@
+---
+type: docs
+# slug: ""
+# url: "" # Abs URL to
+# linkTitle: ""
+title: "Медиа"
+description: "kb a.k.a Knowledge Base"
+# aliases:
+#   - callouts
+sidebar:
+  # open: true
+  # exclude: true
+# date: ""
+# math: true
+# draft: true
+# prev: docs/folder/
+# next: docs/folder/
+# toc: false
+# excludeSearch: true
+robotsNoIndex: true
+weight: 900
+---
+
+{{< callout type="info" >}}
+Фильмы, мультфильмы, сериалы, аниме и все такое.
+{{< /callout >}}
+
+<br>
+
+## Аниме
+
+- {{< icon "trust medium" >}} [Amedia](https://amedia.site/?nt) / [{{< icon "telegram" >}}](https://t.me/AnimeMediaNews?sl)
+  - Сайт как сайт.
+  - Не везде, но имеется плеер Kodik, а поэтому не везде, но имеются куча озвучек.
+
+- {{< icon "trust medium" >}} [AnimeVost](https://animevost.org/?nt) / [{{< icon "vk" >}}](https://vk.com/animevostorg?nt)
+  - Противоположность AnimeBest.
+
+<br>
+
+- {{< icon "trust low" >}} [AnimeBest](https://anime1.best/?nt) / [{{< icon "telegram" >}}](https://t.me/Anime1Best?sl)
+  - Не советую. Категорически заставляют скачать их приложение.
+  - Клянчат очень немалые суммы на оплаты серверов, не то что бы я против, но чуваки, серьезно? Пираты таким не занимаются.
+
+## Фильмы / Сериалы
+
+- {{< icon "trust good" >}} [LostFilm](https://www.lostfilm.tv/?nt) <sup>(R) (t)</sup>
+  - Тот самый LostFilm. Онлайн стриминга нет, только качать (торрент).
+  - Озвучка только от LostFilm.
+
+- {{< icon "trust good" >}} [HDREZKA](https://rezka.ag/?nt), [2](https://hdrezka.ag/?nt)
+  - Все фильмы, сериалы, аниме, мультфильмы, даже 40-х. В максимальном качестве, с выбором (почти) любой существующей озвучки. Самые новые, самые популярные и самые нишевые произведения.
+
+<br>
+
+- {{< icon "trust medium" >}} [Red Head Sound](https://redheadsound.studio/?nt)
+  - Сайт группы озвучки RHS.
+  - Озвучка только от RHS.
+
+- {{< icon "trust medium" >}} [Zetflix](https://go.zet-flix.online/?nt), [2](https://zetflix.zone/?nt) / [{{< icon "telegram" >}}](https://t.me/+VIIFsf9wbiU1YWMy?sl)
+  - База совсем не большая. Бывает много озвучек.
+
+<!-- <br> -->

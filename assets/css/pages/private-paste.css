@@ -1,0 +1,54 @@
+.private-paste {
+  margin-top: 1rem;
+}
+
+.private-paste * {
+  outline: none;
+}
+
+.private-paste .disabled {
+  opacity: 0.5;
+}
+
+.private-paste form textarea,
+.private-paste input {
+  width: 100%;
+  padding: 10px;
+}
+
+.private-paste__preview #preview {
+  padding: 10px;
+}
+
+.private-paste__preview #preview h1:first-child,
+.private-paste__preview #preview h2:first-child,
+.private-paste__preview #preview h3:first-child,
+.private-paste__preview #preview h4:first-child,
+.private-paste__preview #preview h5:first-child,
+.private-paste__preview #preview h6:first-child {
+  margin-top: 0;
+}
+
+.private-paste__message,
+.private-paste__preview,
+.private-paste__password,
+.private-paste__buttons {
+  margin-top: 0.5rem;
+}
+
+.private-paste__buttons button {
+  padding: 5px 20px 5px 20px;
+  font-weight: bold;
+  text-transform: uppercase;
+  width: 100%;
+}
+
+.private-paste #toggleView {
+  padding: 5px 20px 5px 20px;
+  font-weight: bold;
+  width: 100%;
+}
+
+.private-paste__buttons button:first-child {
+  margin-right: 0.5rem;
+}

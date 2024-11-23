@@ -1,0 +1,107 @@
+/* # Callout Shortcode */
+
+/* --Green-- */
+
+.hx-border-green-200 {
+  --tw-border-opacity: 1;
+  border-color: rgb(144 238 144 / var(--tw-border-opacity));
+}
+
+.hx-bg-green-100 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(210 255 210 / var(--tw-bg-opacity));
+}
+
+.hx-text-green-900 {
+  --tw-text-opacity: 1;
+  color: rgb(0 128 0 / var(--tw-text-opacity));
+}
+
+.dark\:hx-border-green-200\/30:is(html[class~="dark"] *) {
+  border-color: rgb(144 238 144 / 0.3);
+}
+
+.dark\:hx-bg-green-900\/30:is(html[class~="dark"] *) {
+  background-color: rgb(0 128 0 / 0.3);
+}
+
+.dark\:hx-text-green-200:is(html[class~="dark"] *) {
+  --tw-text-opacity: 1;
+  color: rgb(144 238 144 / var(--tw-text-opacity));
+}
+
+/* --White-- */
+
+.hx-border-white-200 {
+  --tw-border-opacity: 1;
+  border-color: rgb(
+    220 220 220 / var(--tw-border-opacity)
+  ); /* Светлый оттенок */
+}
+
+.hx-bg-white-100 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(240 240 240 / var(--tw-bg-opacity)); /* Белый */
+}
+
+.hx-text-white-900 {
+  --tw-text-opacity: 1;
+  color: rgb(80 80 80 / var(--tw-text-opacity)); /* Темный оттенок для текста */
+}
+
+.dark\:hx-border-white-200\/30:is(html[class~="dark"] *) {
+  border-color: rgb(255 255 255 / 0.3); /* Полупрозрачный светлый оттенок */
+}
+
+.dark\:hx-bg-white-900\/30:is(html[class~="dark"] *) {
+  background-color: rgb(200 200 200 / 0.3);
+}
+
+.dark\:hx-text-white-200:is(html[class~="dark"] *) {
+  --tw-text-opacity: 1;
+  color: rgb(
+    240 240 240 / var(--tw-text-opacity)
+  ); /* Светлый оттенок для текста */
+}
+
+/* # Content */
+
+.content a {
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.hextra-badge a {
+  color: inherit;
+}
+
+/* Medium Zoom */
+.medium-zoom-overlay {
+  background: rgb(17 17 17 / var(--tw-bg-opacity)) !important;
+  /* background: transparent !important; */
+  /* backdrop-filter: blur(6px); */
+  z-index: 30;
+}
+
+.medium-zoom-image--opened {
+  border-radius: 0.375rem;
+  z-index: 35;
+}
+
+/* # Other */
+li:has(a[href="/kb/typo/"]) {
+  display: none;
+}
+
+article kbd {
+  background: color-mix(in srgb, var(--theme) 5%, transparent) !important;
+  color: var(--kbd-color) !important;
+  border-top: 1px solid color-mix(in srgb, var(--accent) 25%, transparent) !important;
+  border-left: 1px solid var(--accent) !important;
+  border-right: 1px solid var(--accent) !important;
+  border-bottom: 4px solid var(--accent) !important;
+  border-radius: 4px !important;
+  padding: 1px 6px !important;
+  margin: 0 2px !important;
+  font-size: calc(var(--font-size) * 0.95) !important;
+}

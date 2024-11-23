@@ -1,0 +1,17 @@
+:root {
+  --theme: rgb(255, 255, 255);
+  --accent-acid: #ccff00;
+  --accent-jam: #fb2d8d;
+  --font-size: 0.875rem;
+}
+
+:root {
+  --accent: var(--accent-jam);
+  --mark-color: #fff;
+}
+
+.dark {
+  --theme: rgb(17, 17, 17);
+  --accent: var(--accent-acid);
+  --mark-color: #000;
+}

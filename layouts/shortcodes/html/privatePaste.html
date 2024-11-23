@@ -1,0 +1,48 @@
+<div class="private-paste">
+  <button id="toggleView"
+    class="hx-rounded-lg hx-border hx-border-gray-200 hx-text-current hover:hx-border-gray-300 hx-bg-transparent dark:hx-border-neutral-800 hover:hx-bg-slate-50 dark:hover:hx-border-neutral-700 dark:hover:hx-bg-neutral-900 hx-transition-all hx-duration-200">
+    ✏️ Редактировать
+  </button>
+
+  <div class="private-paste__message" style="display: none">
+    <form>
+      <textarea
+        class="hx-rounded-lg hx-border hx-border-gray-200 hx-text-current hover:hx-border-gray-300 hx-bg-transparent dark:hx-border-neutral-800 hover:hx-bg-slate-50 dark:hover:hx-border-neutral-700 dark:hover:hx-bg-neutral-900 hx-transition-all hx-duration-200"
+        id="message" placeholder="Привет мир!" rows="5"></textarea>
+    </form>
+  </div>
+
+  <div class="private-paste__preview">
+    <div id="preview"
+      class="hx-rounded-lg hx-border hx-border-gray-200 hx-text-current hover:hx-border-gray-300 hx-bg-transparent dark:hx-border-neutral-800 hover:hx-bg-slate-50 dark:hover:hx-border-neutral-700 dark:hover:hx-bg-neutral-900 hx-transition-all hx-duration-200">
+      Чтобы начат писать, нажми кнопку <strong>Редактировать</strong> ☝️
+    </div>
+  </div>
+
+  <div class="private-paste__password">
+    <input
+      class="hx-rounded-lg hx-border hx-border-gray-200 hx-text-current hover:hx-border-gray-300 hx-bg-transparent dark:hx-border-neutral-800 hover:hx-bg-slate-50 dark:hover:hx-border-neutral-700 dark:hover:hx-bg-neutral-900 hx-transition-all hx-duration-200"
+      id="password" class="" type="password" placeholder="Пароль (Необязательно)"></input>
+  </div>
+
+  <div class="private-paste__buttons hx-flex hx-justify-center">
+    <button
+      class="hx-rounded-lg hx-border hx-border-gray-200 hx-text-current hover:hx-border-gray-300 hx-bg-transparent dark:hx-border-neutral-800 hover:hx-bg-slate-50 dark:hover:hx-border-neutral-700 dark:hover:hx-bg-neutral-900 hx-transition-all hx-duration-200"
+      id="encryptButton" type="button">🔑</button>
+    <button
+      class="hx-rounded-lg hx-border hx-border-gray-200 hx-text-current hover:hx-border-gray-300 hx-bg-transparent dark:hx-border-neutral-800 hover:hx-bg-slate-50 dark:hover:hx-border-neutral-700 dark:hover:hx-bg-neutral-900 hx-transition-all hx-duration-200"
+      id="decryptButton" type="button">🔓</button>
+  </div>
+</div>
+
+{{- $privatePasteCSS := resources.Get "css/pages/private-paste.css" }}
+{{- $lzstringJS := resources.Get "js/lib/lzstring.js" }}
+{{- $cryptJS := resources.Get "js/lib/crypt.js" }}
+{{- $markedJS := resources.Get "js/lib/marked.min.js" }}
+{{- $privatePasteJS := resources.Get "js/pages/private-paste.js" }}
+<link rel="preload" as="style" onload="this.rel='stylesheet'" type="text/css"
+  href="{{ $privatePasteCSS.RelPermalink }}?v=1">
+<script src="{{ $lzstringJS.RelPermalink }}?v=1" defer></script>
+<script src="{{ $cryptJS.RelPermalink }}?v=1" defer></script>
+<script src="{{ $markedJS.RelPermalink }}?v=14.1.3"></script>
+<script src="{{ $privatePasteJS.RelPermalink }}?v=1" defer></script>
