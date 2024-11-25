@@ -43,10 +43,15 @@
   width: 100%;
 }
 
-.private-paste #toggleView {
+.private-paste #toggleView,
+.private-paste #toggleQrCode {
   padding: 5px 20px 5px 20px;
   font-weight: bold;
   width: 100%;
+}
+
+.private-paste #toggleQrCode {
+  margin-bottom: 0.5rem;
 }
 
 .private-paste__buttons button:first-child {

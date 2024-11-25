@@ -1,4 +1,13 @@
 <div class="private-paste">
+  <button id="toggleQrCode" disabled
+    class="disabled hx-rounded-lg hx-border hx-border-gray-200 hx-text-current hover:hx-border-gray-300 hx-bg-transparent dark:hx-border-neutral-800 hover:hx-bg-slate-50 dark:hover:hx-border-neutral-700 dark:hover:hx-bg-neutral-900 hx-transition-all hx-duration-200">
+    QR Code
+  </button>
+
+  <div class="private-paste__qr-code" style="display: none">
+    <img id="qrCode" src="" alt="" width="200px">
+  </div>
+
   <button id="toggleView"
     class="hx-rounded-lg hx-border hx-border-gray-200 hx-text-current hover:hx-border-gray-300 hx-bg-transparent dark:hx-border-neutral-800 hover:hx-bg-slate-50 dark:hover:hx-border-neutral-700 dark:hover:hx-bg-neutral-900 hx-transition-all hx-duration-200">
     ✏️ Редактировать

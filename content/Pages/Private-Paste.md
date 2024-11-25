@@ -24,8 +24,6 @@ robotsNoIndex: true
 
 {{< html/privatePaste >}}
 
-
-
 ## Как это работает?
 
 - `🔑` - Зашифровать

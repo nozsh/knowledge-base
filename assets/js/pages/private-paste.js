@@ -25,8 +25,12 @@ const passwordInput = document.getElementById("password");
 const previewDiv = document.querySelector(".private-paste__preview");
 const preview = document.getElementById("preview");
 const toggleViewButton = document.getElementById("toggleView");
+const qrCodeDiv = document.querySelector(".private-paste__qr-code");
+const qrCode = document.getElementById("qrCode");
+const qrCodeButton = document.getElementById("toggleQrCode");
 
 let isEditing = false;
+let isQrVisible = false;
 
 // Edit links in markdown
 const updatePreview = () => {
@@ -42,7 +46,7 @@ const updatePreview = () => {
   });
 };
 
-// Update button state
+// Update buttons state
 const updateToggleButtonState = () => {
   if (isEditing && messageTextarea.value.trim() === "") {
     toggleViewButton.classList.add("disabled");
@@ -50,6 +54,16 @@ const updateToggleButtonState = () => {
   } else {
     toggleViewButton.classList.remove("disabled");
     toggleViewButton.disabled = false; // Enable button in other
+  }
+};
+
+const updateToggleQrCodeState = () => {
+  // Проверяем, есть ли хэш в URL и пусто ли содержимое textarea
+  let hasHashInUrl = window.location.hash.trim() !== "";
+
+  if (isQrVisible != hasHashInUrl) {
+    qrCodeButton.classList.remove("disabled");
+    qrCodeButton.disabled = false;
   }
 };
 
@@ -94,6 +108,24 @@ const getUrl = (url) => {
 
   location.href = path;
   location.reload();
+
+  updateToggleQrCodeState();
+};
+
+// Get QrCode Function
+const getQrCode = async () => {
+  let qrCodeUrl = window.location.href;
+  qrCode.src =
+    "https://api.qrserver.com/v1/create-qr-code/?size=1000x1000&qzone=2&ecc=M&data=" +
+    qrCodeUrl;
+  isQrVisible = !isQrVisible;
+  qrCodeDiv.style.display = isQrVisible ? "block" : "none";
+  messageDiv.style.display = isQrVisible ? "none" : "block";
+  previewDiv.style.display = isQrVisible ? "none" : "block";
+  toggleViewButton.style.display = isQrVisible ? "none" : "block";
+  passwordInput.style.display = isQrVisible ? "none" : "block";
+  document.getElementById("encryptButton").style.display = isQrVisible ? "none" : "block";
+  document.getElementById("decryptButton").style.display = isQrVisible ? "none" : "block";
 };
 
 // Encrypt Function
@@ -158,9 +190,13 @@ const decrypt = async () => {
   }
 };
 
+// Handlers
+updateToggleQrCodeState();
+
 // Buttons Handlers
 document.getElementById("encryptButton").addEventListener("click", encrypt);
 document.getElementById("decryptButton").addEventListener("click", decrypt);
+document.getElementById("toggleQrCode").addEventListener("click", getQrCode);
 
 // document.getElementById("decryptButton").addEventListener("click", decrypt);
 
