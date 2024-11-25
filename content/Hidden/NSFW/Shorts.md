@@ -28,5 +28,4 @@ robotsNoIndex: true
 - [RedGifs](https://www.redgifs.com/)
   - Легендарный старый добрый - Gfycat.
 - [Scrolller](https://scrolller.com/r/nsfw)
-  - Блокировка нажатия «правой кнопки мыши».
   - Много надоедливых баннеров и рекламы.

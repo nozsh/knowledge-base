@@ -47,6 +47,8 @@ sidebar:
 - {{< icon "trust good" >}} [ШТФ? {{< icon "telegram" >}}](https://t.me/photosed?sl) <sup>🌟</sup>
   - Много всего за бесплатно.
   - В основном для Photoshop & Illustrator.
+- {{< icon "trust good" >}} [Iconify Design](https://iconify.design/?sl) <sup>🌟</sup>
+  - Огромная коллекция иконок.
 
 <br>
 
@@ -61,8 +63,6 @@ sidebar:
   - Разные ресурсы, так же есть «No Copyright» музыка.
   - Видео, темлейты, кисти, шрифты, экшены, иконки и другая графика.
 - {{< icon "trust medium" >}} [grphc dsgn {{< icon "telegram" >}}](https://t.me/+xx1YjI6DC4RiZjJk?sl)
-- {{< icon "trust medium" >}} [Iconify Design](https://iconify.design/?sl)
-  - Огромная коллекция иконок.
 - {{< icon "trust medium" >}} [squax graphics {{< icon "telegram" >}}](https://t.me/squaxgraphics?sl)
 - {{< icon "trust medium" >}} [TitanUI](https://www.titanui.com/?sl)
   - Мокапы, шрифты, иконки, UI Kits, кисти, паттерны, скетчи и тп.

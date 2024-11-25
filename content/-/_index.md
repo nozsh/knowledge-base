@@ -1,10 +1,11 @@
 ---
 type: docs
 # slug: ""
-# url: ""
+# url: "" # Abs URL to
 # linkTitle: ""
-title: "🔒"
+title: "🎰 🎲 ☕"
 description: "kb a.k.a Knowledge Base"
+# canonical: ""
 # aliases:
 #   - callouts
 sidebar:
@@ -13,18 +14,13 @@ sidebar:
 # date: ""
 # math: true
 # draft: true
-# prev: docs/folder/
-# next: docs/folder/
-# toc: false
+prev: false # or true/false
+next: false # or true/false
+# breadcrumbs: false
+toc: false
 excludeSearch: true
 robotsNoIndex: true
-weight: 10000
+weight: 960
 ---
 
-<style>
-  body {
-    display: none;
-  }
-</style>
-
-{{< redirectroot "0" >}}
+- [Правила интернета](rules-of-the-internet)

@@ -75,6 +75,15 @@
   color: inherit;
 }
 
+/* Default Tags */
+
+hr {
+  margin: 30px 0;
+  height: 2px;
+  background: var(--tertiary);
+  border: 0;
+}
+
 /* Medium Zoom */
 .medium-zoom-overlay {
   background: rgb(17 17 17 / var(--tw-bg-opacity)) !important;

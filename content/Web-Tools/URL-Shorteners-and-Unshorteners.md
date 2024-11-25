@@ -31,8 +31,10 @@ sidebar:
 
 - [Emojied](https://emojied.net/?sl) и [🏹.to](https://xn--kn8h.to/?sl)
   - Ссылка из emoji.
-- [is.gd](https://www.is.gd/?sl) <sup>🌟</sup> и [v.gd](https://v.gd/?sl) <sup>🌟</sup>
+- [is.gd](https://www.is.gd/?sl) <sup>🌟</sup>
   - Старый и проверенный.
+- [v.gd](https://v.gd/?sl)
+  - Есть промежуточный экран.
 - [t.ly](https://t.ly/?sl)
 - [Wiki Shortener](https://meta.wikimedia.org/wiki/Special:UrlShortener?sl)
   - Сокращатель для ссылок Wikipedia.

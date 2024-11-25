@@ -23,7 +23,20 @@ sidebar:
 # weight: 900
 ---
 
+{{< callout type="info" >}}
+Обход ad-ссылок, PayWall контента и др.<br>
+Может не работать **идеально**.
+{{< /callout >}}
+
+{{< callout type="info" >}}
+Больше байпасс ресурсов (скрипты и расширения) на [fmhy](https://fmhy.net/adblockvpnguide#redirect-bypass?sl).
+{{< /callout >}}
+
 ## Ссылки
+
+- [Bypass City](https://bypass.city/?sl) / [2](https://adbypass.org/?sl) / [{{< icon "discord" >}}](https://discord.com/invite/uMEtrpRvAf?sl)
+- [Fast Forward](https://fastforward.team/bypass-checker?sl) / [{{< icon "discord" >}}](https://discord.gg/RSAf7b5njt?sl) / [Note](https://pastebin.com/Gr2AhsE8?sl)
+- [Yuumari](https://yuumari.com/bypass/?sl)
 
 ## Статьи
 

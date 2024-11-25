@@ -14,8 +14,8 @@ sidebar:
 prev: false
 next: false
 # toc: false
-# excludeSearch: true
-# robotsNoIndex: true
+excludeSearch: true
+robotsNoIndex: true
 # weight: 900
 ---
 
