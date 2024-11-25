@@ -117,15 +117,19 @@ const getQrCode = async () => {
   let qrCodeUrl = window.location.href;
   qrCode.src =
     "https://api.qrserver.com/v1/create-qr-code/?size=1000x1000&qzone=2&ecc=M&data=" +
-    qrCodeUrl;
+    encodeURIComponent(qrCodeUrl);
   isQrVisible = !isQrVisible;
   qrCodeDiv.style.display = isQrVisible ? "block" : "none";
   messageDiv.style.display = isQrVisible ? "none" : "block";
   previewDiv.style.display = isQrVisible ? "none" : "block";
   toggleViewButton.style.display = isQrVisible ? "none" : "block";
   passwordInput.style.display = isQrVisible ? "none" : "block";
-  document.getElementById("encryptButton").style.display = isQrVisible ? "none" : "block";
-  document.getElementById("decryptButton").style.display = isQrVisible ? "none" : "block";
+  document.getElementById("encryptButton").style.display = isQrVisible
+    ? "none"
+    : "block";
+  document.getElementById("decryptButton").style.display = isQrVisible
+    ? "none"
+    : "block";
 };
 
 // Encrypt Function
