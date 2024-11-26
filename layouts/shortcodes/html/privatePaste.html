@@ -1,7 +1,7 @@
 <div class="private-paste">
   <button id="toggleQrCode" disabled
     class="disabled hx-rounded-lg hx-border hx-border-gray-200 hx-text-current hover:hx-border-gray-300 hx-bg-transparent dark:hx-border-neutral-800 hover:hx-bg-slate-50 dark:hover:hx-border-neutral-700 dark:hover:hx-bg-neutral-900 hx-transition-all hx-duration-200">
-    QR Code
+    📷 QR Code
   </button>
 
   <div class="private-paste__qr-code" style="display: none">
@@ -50,8 +50,8 @@
 {{- $markedJS := resources.Get "js/lib/marked.min.js" }}
 {{- $privatePasteJS := resources.Get "js/pages/private-paste.js" }}
 <link rel="preload" as="style" onload="this.rel='stylesheet'" type="text/css"
-  href="{{ $privatePasteCSS.RelPermalink }}?v=4">
+  href="{{ $privatePasteCSS.RelPermalink }}?v=5">
 <script src="{{ $lzstringJS.RelPermalink }}?v=1" defer></script>
 <script src="{{ $cryptJS.RelPermalink }}?v=1" defer></script>
 <script src="{{ $markedJS.RelPermalink }}?v=14.1.3"></script>
-<script src="{{ $privatePasteJS.RelPermalink }}?v=3" defer></script>
+<script src="{{ $privatePasteJS.RelPermalink }}?v=4" defer></script>
