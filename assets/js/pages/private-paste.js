@@ -116,7 +116,7 @@ const getUrl = (url) => {
 const getQrCode = async () => {
   let qrCodeUrl = window.location.href;
   qrCode.src =
-    "https://api.qrserver.com/v1/create-qr-code/?size=1000x1000&qzone=2&ecc=M&data=" +
+    "https://api.qrserver.com/v1/create-qr-code/?size=1000x1000&qzone=2&ecc=L&format=png&data=" +
     encodeURIComponent(qrCodeUrl);
 
   isQrVisible = !isQrVisible;

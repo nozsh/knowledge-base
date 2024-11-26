@@ -52,7 +52,6 @@ sidebar:
 
 <br>
 
-- {{< icon "trust medium" >}} [a4d {{< icon "telegram" >}}](https://t.me/all4designer?sl)
 - {{< icon "trust medium" >}} [ALL PSD DESIGNS {{< icon "telegram" >}}](https://t.me/+HGkJrC0jfc8xMDAy?sl) <sup>💤</sup>
 - {{< icon "trust medium" >}} [Bloomy Design {{< icon "vk" >}}](https://m.vk.com/designbloody?sl) <sup>💤</sup>
 - {{< icon "trust medium" >}} [Creative Market {{< icon "telegram" >}}](https://t.me/creativemrkt?sl) <sup>💤</sup>
@@ -69,6 +68,11 @@ sidebar:
 - {{< icon "trust medium" >}} [UnliPresets](https://www.unlipresets.com/?sl)
   - Фотошоп, векторы, пресеты, кисти, luts.
   - Так же есть некоторые вещи для видео: AE, Premier, DaVinci, Final Cut.
+
+<br>
+
+- {{< icon "trust medium" >}} [a4d {{< icon "telegram" >}}](https://t.me/all4designer?sl) <sup>💤</sup>
+  - Очень-очень плохо, но может будет полезно.
 
 ## 3D
 
