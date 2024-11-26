@@ -71,7 +71,7 @@ sidebar:
 
 <br>
 
-- {{< icon "trust medium" >}} [a4d {{< icon "telegram" >}}](https://t.me/all4designer?sl) <sup>💤</sup>
+- {{< icon "trust low" >}} [a4d {{< icon "telegram" >}}](https://t.me/all4designer?sl) <sup>💤</sup>
   - Очень-очень плохо, но может будет полезно.
 
 ## 3D
