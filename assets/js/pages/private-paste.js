@@ -38,11 +38,12 @@ const updatePreview = () => {
   preview.innerHTML = marked.parse(markdownText);
 
   mdLinks = document.querySelectorAll("#preview a").forEach((mdLinks) => {
-    mdLinks.setAttribute("target", "privatepastelink");
+    // mdLinks.setAttribute("target", "privatepastelink");
     mdLinks.setAttribute("rel", "noreferrer nofollow noopener");
 
     let mdLinks_href = mdLinks.href;
     mdLinks.setAttribute("href", "https://href.li/?" + mdLinks_href);
+    // mdLinks.setAttribute("href", mdLinks_href);
   });
 };
 
@@ -58,7 +59,6 @@ const updateToggleButtonState = () => {
 };
 
 const updateToggleQrCodeState = () => {
-  // Проверяем, есть ли хэш в URL и пусто ли содержимое textarea
   let hasHashInUrl = window.location.hash.trim() !== "";
 
   if (isQrVisible != hasHashInUrl) {
@@ -152,8 +152,6 @@ const encrypt = async () => {
 };
 
 const isValidContent = (content) => {
-  // Здесь можно добавить логику проверки, например:
-  // Проверка на наличие хотя бы одной буквы
   return /[a-zA-Zа-яА-Я]/.test(content);
 };
 
