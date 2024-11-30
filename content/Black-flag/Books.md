@@ -27,11 +27,16 @@ weight: 900
 
 <br>
 
-- {{< icon "trust good" >}} [Anna's Archive](https://annas-archive.se?nt), [2](https://annas-archive.li/?nt), [3](https://annas-archive.org/?nt) <sup>🐐 (LD)</sup> / [{{< icon "reddit" >}}](https://www.reddit.com/r/Annas_Archive/?sl) / [{{< icon "wikipedia" >}}](https://en.wikipedia.org/wiki/Anna's_Archive?sl)
-  - Объединяет пиратские библиотеки книг, но хранит файлы на собственных серверах.
+
+
+<!-- <br> -->
+
+- {{< icon "trust medium" >}} [Z-Library](https://z-library.sk?nt), [2](https://z-lib.gs/?nt), [3](https://1lib.sk/?nt), [4](https://z-lib.fm/?nt) <sup>(R)</sup> / [{{< icon "reddit" >}} Access](https://www.reddit.com/r/zlibrary/wiki/index/access/?sl) / [{{< icon "reddit" >}}](https://www.reddit.com/r/zlibrary/?sl) / [{{< icon "mastodon" >}}](https://mastodon.social/@Z_Lib_official?sl) / [{{< icon "telegram" >}}](https://t.me/zlibrary_official?sl) / [{{< icon "wikipedia" >}}](https://en.wikipedia.org/wiki/Z-Library?sl)
+  - Актуальные домены лучше смотреть на Reddit, Telegram, Mastodon и Wikipedia.
+  - Если что-то было удалено, недоступно и тд. - возможно можно использовать Anna's Archive.
 
 <br>
 
-- {{< icon "trust medium" >}} [Z-Library](https://singlelogin.re/?nt), [2](https://singlelogin.rs/?nt), [3](https://z-lib.gs/?nt) <sup>(R)</sup> / [{{< icon "reddit" >}}](https://www.reddit.com/r/zlibrary/?sl) / [{{< icon "mastodon" >}}](https://mastodon.social/@Z_Lib_official?sl) / [{{< icon "telegram" >}}](https://t.me/zlibrary_official?sl) / [{{< icon "wikipedia" >}}](https://en.wikipedia.org/wiki/Z-Library?sl)
-  - Актуальные домены лучше смотреть на Reddit, Telegram, Mastodon и Wikipedia.
-  - Если что-то было удалено, недоступно и тд. - используйте Anna's Archive.
+- {{< icon "trust low" >}} [Anna's Archive](https://annas-archive.se?nt), [2](https://annas-archive.li/?nt), [3](https://annas-archive.org/?nt) <sup>🐐 (LD) 💤</sup> / [{{< icon "reddit" >}}](https://www.reddit.com/r/Annas_Archive/?sl) / [{{< icon "wikipedia" >}}](https://en.wikipedia.org/wiki/Anna's_Archive?sl)
+  - Объединяет пиратские библиотеки книг, но хранит файлы на собственных серверах.
+  - Долгое ожидание перед началом скачивания, и как итог плохой шлюз или «too long to respond».
