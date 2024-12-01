@@ -1,9 +1,13 @@
 {{/* XMAS */}}
 {{/**/}}
 <style>
-  .xny-bg { animation: 1s xnyBgAnim; opacity: 0.3; }
-  @keyframes xnyBgAnim { from { opacity: 0; } to { opacity: 0.3; } }
-  .hextra-cards .hextra-card {backdrop-filter: blur(6px);}
+  :root {--xny-bg-opacity: 0.4;}
+  .dark {--xny-bg-opacity: 0.1;}
+  .xny-bg { animation: 1s xnyBgAnim; opacity: var(--xny-bg-opacity); }
+  @keyframes xnyBgAnim { from { opacity: 0; } to { opacity: var(--xny-bg-opacity); } }
+  .hextra-cards .hextra-card, .hextra-badge, .kg-callout-card,
+  .private-paste #toggleQrCode, .private-paste #toggleView, .private-paste .private-paste__message, .private-paste .private-paste__preview, .private-paste .private-paste__password, .private-paste .private-paste__buttons
+  {backdrop-filter: blur(6px);}
 </style>
 <!-- xmas Settings -->
 <script>
