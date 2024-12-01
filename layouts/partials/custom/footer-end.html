@@ -1,0 +1,24 @@
+{{/* XMAS */}}
+{{/**/}}
+<style>
+  .xny-bg { animation: 1s xnyBgAnim; opacity: 0.3; }
+  @keyframes xnyBgAnim { from { opacity: 0; } to { opacity: 0.3; } }
+  .hextra-cards .hextra-card {backdrop-filter: blur(6px);}
+</style>
+<!-- xmas Settings -->
+<script>
+  const xnySettings = {
+    bgUrl: "https://assets.nozsh.su/img/loose/new-year-bg-light.svg", // BG URL at top page
+    maxFlakes: 12, // Max flakes
+    funIcons: ["⛄", "🎁", "🦌", "☃", "🍪"], // (❄️≧◡≦❄️)
+    funChance: 0.025, // More chance, More fun
+    speed1: 8000, // Less number, More speed
+    speed2: 10000, // Less number, More speed
+    life: 100, // More life, More speed
+    initialOpacity: 0.2, // Opacity on born
+    opacityThreshold: 0.5 // Opacity on start dying
+  };
+</script>
+
+<!-- Load xmas.js -->
+<script src="https://assets.nozsh.su/js/loose/xmas.min.js?v={{ time.Now.Unix }}" defer></script> {{/**/}}
