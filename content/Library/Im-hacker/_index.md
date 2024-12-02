@@ -18,3 +18,9 @@ sidebar:
 robotsNoIndex: true
 # weight: 900
 ---
+
+{{< cards cols="1" >}}
+  {{< card link="biblioteka-zhurnala-xakep" title="Библиотека журнала «Хакер»" icon="fluent library-32-filled" >}}
+  {{< autocards subtitle=true icon="emojione-monotone blue-book"  >}}
+{{< /cards >}}
+

@@ -3,7 +3,7 @@ type: docs
 # slug: ""
 # linkTitle: ""
 title: "Новая исповедь экономического убийцы"
-description: "kb a.k.a Knowledge Base"
+description: "Джон Перкинс, 2016г."
 # aliases:
 #   - callouts
 sidebar:

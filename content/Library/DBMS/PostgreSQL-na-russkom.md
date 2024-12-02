@@ -3,7 +3,7 @@ type: docs
 # slug: ""
 # linkTitle: ""
 title: "PostgreSQL на русском"
-description: "kb a.k.a Knowledge Base"
+description: "Полный, профессиональный перевод документации PostgreSQL на русском с примерами кода и запросов."
 # aliases:
 #   - callouts
 sidebar:

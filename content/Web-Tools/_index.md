@@ -25,11 +25,13 @@ weight: 900
 Полезные онлайн инструменты.
 {{< /callout >}}
 
-{{< cards >}}
+{{< cards cols="2" >}}
 {{< card link="bypass" title="Байпас" icon="fluent branch-fork-link-24-regular" tag="" subtitle="Обход ad-ссылок, PayWall контента и др." >}}
+{{< card link="web-proxy" title="Веб прокси" icon="mdi proxy" tag="" subtitle="Доступ к сайтам через прокси сервер." >}}
 {{< card link="images" title="Изображения" icon="mdi image" tag="" subtitle="Инструменты для работы с пикчами." >}}
-{{< /cards >}}
-
-{{< cards cols="1" >}}
 {{< card link="url-shorteners-and-unshorteners" title="Сокращатели и 🔄 ссылок" icon="tdesign link" tag="" subtitle="Сокращатели ссылок и наоборот." >}}
 {{< /cards >}}
+
+<!-- {{< cards cols="1" >}}
+{{< /cards >}} -->
+

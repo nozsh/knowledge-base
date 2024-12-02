@@ -23,7 +23,7 @@ sidebar:
 weight: 900
 ---
 
-{{< cards >}}
+{{< cards cols="2" >}}
   {{< card link="stocks" title="Стоки" icon="ri unsplash-fill" subtitle="Фото, видео и др. стоки." >}}
   {{< card link="assets" title="Ассеты" icon="icon-park-outline graphic-stitching-four" subtitle="Паки, ассеты, мокапы, графика и тп." >}}
 {{< /cards >}}

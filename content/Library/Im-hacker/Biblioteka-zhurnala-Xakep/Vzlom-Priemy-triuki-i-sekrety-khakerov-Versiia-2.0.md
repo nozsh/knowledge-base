@@ -3,7 +3,7 @@ type: docs
 # slug: ""
 # linkTitle: ""
 title: "Взлом. Приемы, трюки и секреты хакеров. Версия 2.0"
-description: "kb a.k.a Knowledge Base"
+description: "Коллектив авторов, 2022г. Из серии: Библиотека журнала «Хакер»"
 # aliases:
 #   - callouts
 sidebar:

@@ -1,15 +1,15 @@
 {{- $imgURL := site.Params.assets.assetsURL -}}
 {{- $imgPATH := site.Params.assets.assetsPATH -}}
 
-{{- $src := .Get "src" | safeURL -}}
+{{- $src := .Get 2 | safeURL -}}
 
 <p>
   {{- if hasPrefix $src $imgPATH -}}
     {{- $urlWithoutHash := .Page.RelPermalink | replaceRE "#.*$" "" -}}
     {{- $articleName := $urlWithoutHash | replaceRE "^.*/([^/]+)/$" "$1" | urlize -}}
-    {{- $newSrc := $src | replaceRE (printf "^%s" $imgPATH) (printf "%s%s" $imgURL $articleName) -}}
-    <img id="{{ .Get "id" }}" class="{{ .Get "class" }}" loading='{{ .Get "loading" }}' alt='{{ .Get "alt" }}' width='{{ .Get "width" }}' height='{{ .Get "height" }}' src='{{ $newSrc }}'>
+    {{- $newSrc := $src | replaceRE (printf "^%s" $imgPATH) (printf "%s%s/" $imgURL $articleName) -}}
+    <img loading="lazy" alt='{{ .Get 0 }}' width='{{.Get 1}}' src='{{ $newSrc }}'>
   {{- else -}}
-    <img id="{{ .Get "id" }}" class="{{ .Get "class" }}" loading='{{ .Get "loading" }}' alt='{{ .Get "alt" }}' width='{{ .Get "width" }}' src='{{ .Get "src" }}'>
+    <img loading="lazy" alt='{{ .Get 0 }}' width='{{ .Get 1 }}' src='{{ .Get 2 }}'>
   {{- end -}}
 </p>

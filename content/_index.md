@@ -33,13 +33,13 @@ sidebar:
 
 <br>
 
-{{< cards >}}
+{{< cards cols="2" >}}
 {{< card link="artificial-intelligence" title="AI" icon="healthicons artificial-intelligence" tagType="" tag="✨" subtitle="Все что связанно с ИИ." >}}
 {{< card link="library" title="Библиотека" icon="fluent library-32-filled" tagType="" tag="🧠" subtitle="Разные книги, журналы, комиксы и др." >}}
 {{< card link="web-tools" title="Веб-инструменты" icon="mdi internet" tagType="" tag="🌐" subtitle="Всякое полезное прямо в браузере." >}}
 {{< card link="os" title="Операционки" icon="emojione-monotone computer-disk" tagType="" tag="💽" subtitle="Ссылки на операционные системы." >}}
 {{< card link="creative" title="Креатив" icon="mdi design" tagType="" tag="✒️" subtitle="Ресурсы, в основном для креаторов." >}}
-{{< card link="black-flag" title="Черный флаг" icon="gis pirate-map" tagType="" tag="🦜" subtitle="Полезные ресурсы для интернет пирата." >}}
+{{< card link="black-flag" title="Черный флаг" icon="game-icons pirate-flag" tagType="" tag="🦜" subtitle="Полезные ресурсы для интернет пирата." >}}
 {{< /cards >}}
 
 <br>

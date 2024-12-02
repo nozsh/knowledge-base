@@ -18,3 +18,7 @@ sidebar:
 robotsNoIndex: true
 # weight: 900
 ---
+
+{{< cards cols="1" >}}
+  {{< card link="linux" title="Linux" icon="uim linux" >}}
+{{< /cards >}}

@@ -25,7 +25,7 @@ weight: 900
 
 <br>
 
-{{< cards >}}
+{{< cards cols="2" >}}
 {{< card link="data" title="Данные" >}}
 {{< card link="infosec-cybersecurity" title="ИнфоБез & КБ" >}}
 {{< card link="politology" title="Политология" >}}

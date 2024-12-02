@@ -21,7 +21,7 @@ robotsNoIndex: true
 # weight: 900
 ---
 
-{{< imgs/img id="abc123" src="@img/nsfw-t-bw-cover.png" alt="NSFW Cover" loading="eager" width="1100px" height="400px" >}}
+{{< imgs/img2 id="abc123" src="@img/nsfw-t-bw-cover.png" alt="NSFW Cover" loading="eager" width="1100px" height="400px" >}}
 
 <script>
     const imageNames = [
@@ -55,7 +55,7 @@ robotsNoIndex: true
   </p>
 </div>
 
-{{< cards >}}
+{{< cards cols="2" >}}
 {{< card link="booru-boards" title="Boards" icon="game-icons dripping-tube" tag="" subtitle="Доски с картинками и анимацией." >}}
 {{< card link="hentai" title="Hentai" icon="arcticons blue-archive" tag="" subtitle="Манги и аниме для взрослых." >}}
 {{< card link="just-tubes" title="Tubes" icon="fe video" tag="" subtitle="Просто сайты." >}}

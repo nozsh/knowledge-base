@@ -3,7 +3,7 @@ type: docs
 # slug: ""
 # linkTitle: ""
 title: "Освой самостоятельно C++ по одному часу в день"
-description: "kb a.k.a Knowledge Base"
+description: "Сиддхартха Рао, 2017г."
 # aliases:
 #   - callouts
 sidebar:

@@ -78,3 +78,9 @@ sidebar:
 
 - [SFMLab](https://sfmlab.com/?sl) / [Open3DLab](https://open3dlab.com/?sl) / [Smut Base](https://smutba.se/?sl) <sup>(LD)</sup>
   - 3D модели.
+
+
+## Звук
+
+- [Free Sound](https://freesound.org/) <sup>🌟 (R)</sup>
+  - Тот самый сайт с кучей разных звуков абсолютно бесплатно.

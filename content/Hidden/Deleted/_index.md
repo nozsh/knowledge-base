@@ -20,7 +20,7 @@ robotsNoIndex: true
 # weight: 90909
 ---
 
-{{< cards >}}
+{{< cards cols="2" >}}
 {{< card link="blog" title="Блог" >}}
 {{< card link="knowledge-base" title="База знаний" >}}
 {{< /cards >}}

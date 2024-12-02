@@ -37,6 +37,18 @@ linkTitle: Cards
 {{</* /cards */>}}
 ```
 
+## Auto Cards
+
+{{< cards >}}
+  {{< autocards subtitle=true  >}}
+{{< /cards >}}
+
+```
+{{</* cards */>}}
+  {{</* autocards subtitle=true  */>}}
+{{</* /cards */>}}
+```
+
 ## Card Parameters
 
 | Parameter  | Description                                                     |

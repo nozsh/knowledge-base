@@ -13,7 +13,7 @@ Explore the following sections to learn how to use Hextra:
 
 <!--more-->
 
-{{< cards >}}
+{{< cards cols="2" >}}
 {{< card link="organize-files" title="Organize Files" icon="document-duplicate" >}}
 {{< card link="configuration" title="Configuration" icon="adjustments" >}}
 {{< card link="markdown" title="Markdown" icon="markdown" >}}

@@ -3,7 +3,7 @@ type: docs
 # slug: ""
 # linkTitle: ""
 title: "Объектно-ориентированное программирование в С++"
-description: "kb a.k.a Knowledge Base"
+description: "Роберт Лафоре, 2016г."
 # aliases:
 #   - callouts
 sidebar:

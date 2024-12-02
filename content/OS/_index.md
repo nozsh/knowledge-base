@@ -18,7 +18,7 @@ sidebar:
 weight: 900
 ---
 
-{{< cards >}}
+{{< cards cols="2" >}}
 {{< card link="linux" title="Linux" icon="uim linux" tag="🔥" >}}
 {{< card link="windows-iso" title="Windows" icon="ri windows-fill" tag="💩" >}}
 {{< /cards >}}

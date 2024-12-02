@@ -3,7 +3,7 @@ type: docs
 # slug: ""
 # linkTitle: ""
 title: "Восстановление данных. Практическое руководство"
-description: "kb a.k.a Knowledge Base"
+description: "Касперски Крис, Холмогоров Валентин, Кирилова Ксения, 2021г."
 # aliases:
 #   - callouts
 sidebar:

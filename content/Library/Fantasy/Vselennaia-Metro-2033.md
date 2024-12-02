@@ -3,7 +3,7 @@ type: docs
 # slug: ""
 # linkTitle: ""
 title: "Вселенная Метро 2033"
-description: "kb a.k.a Knowledge Base"
+description: "Дмитрий Глуховский - предтеча (2007-2009) и другие."
 # aliases:
 #   - callouts
 sidebar:

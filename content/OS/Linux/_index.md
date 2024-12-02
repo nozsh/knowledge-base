@@ -20,7 +20,7 @@ weight: 850
 ---
 
 
-{{< cards >}}
+{{< cards cols="2" >}}
 {{< card link="arch" title="Arch" icon="mdi arch" tag="" >}}
 {{< card link="debian" title="Debian" icon="cib debian" tag="" >}}
 {{< /cards >}}

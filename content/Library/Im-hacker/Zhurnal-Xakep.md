@@ -3,7 +3,7 @@ type: docs
 # slug: ""
 # linkTitle: ""
 title: "Журнал «Хакер»"
-description: "kb a.k.a Knowledge Base"
+description: "«Хакер» - компьютерный журнал, посвященный вопросам информационной безопасности, программирования и администрирования компьютерных сетей. Издается с 99-го года."
 # aliases:
 #   - callouts
 sidebar:

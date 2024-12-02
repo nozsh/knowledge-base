@@ -39,6 +39,7 @@ robotsNoIndex: true
 - [Arcticons](https://github.com/Arcticons-Team/Arcticons?sl)
 - [BoxIcons](https://github.com/atisawd/boxicons?sl)
 - [CoreUI Brands](https://github.com/coreui/coreui-icons?sl)
+- [Devicon](https://github.com/devicons/devicon?sl)
 - [Emoji One](https://github.com/EmojiTwo/emojitwo?sl)
 - [Feather Icon](https://github.com/feathericon/feathericon?sl)
 - [Flowbite](https://github.com/themesberg/flowbite-icons?sl)

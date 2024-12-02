@@ -3,7 +3,7 @@ type: docs
 # slug: ""
 # linkTitle: ""
 title: "Пособие по программированию модулей ядра Linux"
-description: "kb a.k.a Knowledge Base"
+description: "Jim Huang et al, 2022г."
 # aliases:
 #   - callouts
 sidebar:

@@ -1,0 +1,41 @@
+{{- $context := . -}}
+{{- $currentDir := .Page.File.Dir -}} <!-- Получаем текущую директорию -->
+{{- $pages := where .Site.Pages "File.Dir" $currentDir -}} <!-- Получаем все страницы из текущей директории -->
+
+<!-- Общие параметры, которые будут применяться ко всем карточкам -->
+{{- $globalIcon := .Get "icon" -}}
+{{- $globalImage := .Get "image" -}}
+{{- $globalImageStyle := .Get "imageStyle" -}}
+{{- $globalTag := .Get "tag" -}}
+{{- $globalTagType := .Get "tagType" -}}
+{{- $enableSubtitle := .Get "subtitle" -}} <!-- Получаем значение subtitle -->
+
+{{- range $pages }}
+  {{- $fileName := .File.BaseFileName -}} <!-- Имя файла без расширения -->
+  <!-- Исключаем файлы, начинающиеся с "_" -->
+  {{- if not (hasPrefix $fileName "_") }}
+    <!-- Локальные параметры из фронтматтера страницы -->
+    {{- $title := .Params.title -}} <!-- Заголовок из фронтматтера -->
+    {{- $link := .RelPermalink -}} <!-- Ссылка на запись -->
+    {{- $image := .Params.image | default $globalImage -}} <!-- Изображение из фронтматтера, иначе глобальное -->
+    {{- $subtitle := "" -}} <!-- По умолчанию subtitle пустой -->
+
+    <!-- Проверяем, нужно ли включать subtitle -->
+    {{- if or (eq $enableSubtitle true) (eq $enableSubtitle "true") }} <!-- Включаем только при строго true -->
+      {{- $subtitle = .Params.description | default "" -}}
+    {{- end }}
+
+    <!-- Вызываем ваш существующий shortcode card -->
+    {{- partial "shortcodes/card" (dict
+      "page"        $context.Page
+      "link"        $link
+      "title"       $title
+      "subtitle"    $subtitle
+      "icon"        $globalIcon
+      "image"       $image
+      "imageStyle"  $globalImageStyle
+      "tag"         $globalTag
+      "tagType"     $globalTagType
+    ) -}}
+  {{- end }}
+{{- end }}

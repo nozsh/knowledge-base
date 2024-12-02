@@ -21,7 +21,7 @@ sidebar:
 weight: 900
 ---
 
-{{< cards >}}
+{{< cards cols="2" >}}
 {{< card link="chat-bots" title="Чат-боты" subtitle="Текстовые приключения." tag="💬" >}}
 {{< card link="character-cards" title="Карты персонажей" subtitle="Просто карты персонажей." tag="🤖" >}}
 {{< /cards >}}
