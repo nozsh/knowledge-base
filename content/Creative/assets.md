@@ -56,7 +56,7 @@ sidebar:
 - {{< icon "trust medium" >}} [Bloomy Design {{< icon "vk" >}}](https://m.vk.com/designbloody?sl) <sup>💤</sup>
 - {{< icon "trust medium" >}} [Creative Market {{< icon "telegram" >}}](https://t.me/creativemrkt?sl) <sup>💤</sup>
 - {{< icon "trust medium" >}} [Designer Gang {{< icon "vk" >}}](https://m.vk.com/designersgan9?sl)
-- {{< icon "trust medium" >}} [design-archive](https://t.me/designarchiv?sl) <sup>❌</sup>
+- {{< icon "trust medium" >}} [design-archive {{< icon "telegram" >}}](https://t.me/designarchiv?sl) <sup>❌</sup>
   - Очень давно не обновлялся.
 - {{< icon "trust medium" >}} [Freeject](https://www.freeject.net/?sl)
   - Разные ресурсы, так же есть «No Copyright» музыка.
