@@ -49,7 +49,7 @@ weight: 900
 - {{< icon "trust good" >}} [LostFilm](https://www.lostfilm.tv/?nt) <sup>(R) (t)</sup>
   - Тот самый LostFilm. Онлайн стриминга нет, только качать (торрент).
   - Озвучка только от LostFilm.
-- {{< icon "trust good" >}} [HDREZKA](https://rezka.ag/?nt), [2](https://hdrezka.ag/?nt)
+- {{< icon "trust good" >}} [HDREZKA](https://rezka.ag/?nt), [2](https://hdrezka.ag/?nt) / [{{< icon "vk" >}}](https://vk.com/hdrezka?nt)
   - Все фильмы, сериалы, аниме, мультфильмы, даже 40-х.
   - В лучшем качестве (не всегда), с выбором (почти) любой существующей озвучки.
   - Самые новые, самые популярные и самые нишевые произведения.
@@ -66,7 +66,7 @@ weight: 900
   - Бывают CAMRip релизы (экранки).
 - {{< icon "trust medium" >}} [KinoKong](https://kinokong.sk/?nt), [2](https://kinokong.pro/?nt), [3](https://kinokong.bz/?nt)
   - Разные плееры, разное качество, разные озвучки.
-- {{< icon "trust medium" >}} [Red Head Sound](https://redheadsound.studio/?nt)
+- {{< icon "trust medium" >}} [Red Head Sound](https://redheadsound.studio/?nt) / [{{< icon "logos youtube-icon" >}}](https://www.youtube.com/@redheadsound?sl) / [{{< icon "telegram" >}}](https://t.me/cherevatstreams?sl) / [{{< icon "vk" >}}](https://vk.com/redheadsound?sl)
   - Сайт группы озвучки RHS.
   - Озвучка только от RHS.
 - {{< icon "trust medium" >}} [Zetflix](https://go.zet-flix.online/?nt), [2](https://zetflix.zone/?nt) / [{{< icon "telegram" >}}](https://t.me/+VIIFsf9wbiU1YWMy?sl)

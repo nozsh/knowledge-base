@@ -33,7 +33,7 @@ robotsNoIndex: true
 
 ## Изменено
 
-- Изменено: [{{< icon "trust low" >}} {{< icon "trust medium" >}} {{< icon "trust good" >}}](/kb/info/marks)
+- Изменено: ресурсы ([{{< icon "trust low" >}} {{< icon "trust medium" >}} {{< icon "trust good" >}}](/kb/info/marks)) Раздел >> [Раздел (h2 в котором было добавление)](ссылка на раздел, и #)
   - {{< icon "trust medium" >}} >> {{< icon "trust good" >}} [Ресурс](ссылка на раздел, и #)
     - Причина (необязательно)
 
