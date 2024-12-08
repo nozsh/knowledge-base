@@ -27,8 +27,9 @@ sidebar:
 **База интересной, полезной и не очень информации.**
 {{< /callout >}}
 
-{{< cards cols="1" >}}
+{{< cards cols="2" >}}
 {{< card link="info" title="Информация" icon="information-circle" tagType="" tag="ℹ️" subtitle="" >}}
+{{< card link="changelog" title="Changelog" icon="mdi history" tagType="" tag="📝" subtitle="" >}}
 {{< /cards >}}
 
 <br>

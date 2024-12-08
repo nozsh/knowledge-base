@@ -27,16 +27,10 @@ weight: 950
 
 <br>
 
-- [0day](https://0day.cx/?nt) <sup>❌</sup>
-
 - [predb](https://predb.net/?nt), [2](https://predb.me/?nt) <sup>🌟</sup>
-
 - [Scene-RLS RELEASES](https://scene-rls.net/releases/index.php?nt)
-
 - [GameStatus](https://gamestatus.info/)
-
 - [xREL](https://www.xrel.to/?nt)
   - Deutsch sprache!
-
 - [Таблица приватных трекеров](https://hdvinnie.github.io/Private-Trackers-Spreadsheet/?nt)
   - А почему бы и нет.

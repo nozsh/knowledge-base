@@ -52,3 +52,9 @@ robotsNoIndex: true
 Нажмите [здесь](https://x2x.su/private-paste-example), чтобы увидеть пример сообщения.<br>
 Пароль `qwerty`.
 {{< /callout >}}
+
+---
+
+{{< callout type="warning" >}}
+QR-код на очень длинные сообщения не работает.
+{{< /callout >}}

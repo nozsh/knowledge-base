@@ -30,11 +30,13 @@ weight: 900
 ## Аниме
 
 - {{< icon "trust medium" >}} [Amedia](https://amedia.site/?nt) / [{{< icon "telegram" >}}](https://t.me/AnimeMediaNews?sl)
-  - Сайт как сайт.
-  - Не везде, но имеется плеер Kodik, а поэтому не везде, но имеются куча озвучек.
-
+  - Иногда много озвучек, иногда мало.
 - {{< icon "trust medium" >}} [AnimeVost](https://animevost.org/?nt) / [{{< icon "vk" >}}](https://vk.com/animevostorg?nt)
   - Противоположность AnimeBest.
+- {{< icon "trust medium" >}} [AnimeGo.org](https://animego.org/?nt) или [AnimeGo](https://animego.pro/?nt) / [{{< icon "telegram" >}}](https://t.me/animego_official?sl)
+  - Есть выбор озвучки.
+  - Не всегда хорошее качество.
+  - Библиотека `.org` кажется больше.
 
 <br>
 
@@ -47,16 +49,26 @@ weight: 900
 - {{< icon "trust good" >}} [LostFilm](https://www.lostfilm.tv/?nt) <sup>(R) (t)</sup>
   - Тот самый LostFilm. Онлайн стриминга нет, только качать (торрент).
   - Озвучка только от LostFilm.
-
 - {{< icon "trust good" >}} [HDREZKA](https://rezka.ag/?nt), [2](https://hdrezka.ag/?nt)
-  - Все фильмы, сериалы, аниме, мультфильмы, даже 40-х. В максимальном качестве, с выбором (почти) любой существующей озвучки. Самые новые, самые популярные и самые нишевые произведения.
+  - Все фильмы, сериалы, аниме, мультфильмы, даже 40-х.
+  - В лучшем качестве (не всегда), с выбором (почти) любой существующей озвучки.
+  - Самые новые, самые популярные и самые нишевые произведения.
 
 <br>
 
+- {{< icon "trust medium" >}} [EX-FS](https://ex-fs.net/?nt)
+  - Не все озвучки в мире. Иногда есть оригинальная озвучка.
+  - Качество 720p-1080p.
+  - Бывают CAMRip релизы (экранки).
+- {{< icon "trust medium" >}} [KinoBase](https://kinobase.org/?nt)
+  - Приемлемое качество.
+  - Нет выбора озвучки (очень редко есть).
+  - Бывают CAMRip релизы (экранки).
+- {{< icon "trust medium" >}} [KinoKong](https://kinokong.sk/?nt), [2](https://kinokong.pro/?nt), [3](https://kinokong.bz/?nt)
+  - Разные плееры, разное качество, разные озвучки.
 - {{< icon "trust medium" >}} [Red Head Sound](https://redheadsound.studio/?nt)
   - Сайт группы озвучки RHS.
   - Озвучка только от RHS.
-
 - {{< icon "trust medium" >}} [Zetflix](https://go.zet-flix.online/?nt), [2](https://zetflix.zone/?nt) / [{{< icon "telegram" >}}](https://t.me/+VIIFsf9wbiU1YWMy?sl)
   - База совсем не большая. Бывает много озвучек.
 

@@ -3,7 +3,7 @@ type: docs
 # slug: ""
 # url: "" # Abs URL to
 # linkTitle: ""
-title: "Для анонима"
+title: "Конфиденциальность"
 description: "Генераторы личностей, временная почта, телефон и тп."
 # canonical: ""
 # aliases:
