@@ -3,7 +3,7 @@ type: docs
 # slug: ""
 # url: "" # Abs URL to
 # linkTitle: ""
-# title: ""
+title: "mm.yyyy"
 description: "kb a.k.a Knowledge Base. Changelog."
 # canonical: ""
 # aliases:
