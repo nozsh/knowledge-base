@@ -29,14 +29,17 @@ weight: 900
 
 ## Аниме
 
-- {{< icon "trust medium" >}} [Amedia](https://amedia.site/?nt) / [{{< icon "telegram" >}}](https://t.me/AnimeMediaNews?sl)
+- {{< icon "trust medium" >}} [Amedia](https://amedia.lol/?nt) / [{{< icon "telegram" >}}](https://t.me/AnimeMediaNews?sl) / [{{< icon "discord" >}}](https://discord.gg/C3KARjASMF?sl)
   - Иногда много озвучек, иногда мало.
 - {{< icon "trust medium" >}} [AnimeVost](https://animevost.org/?nt) / [{{< icon "vk" >}}](https://vk.com/animevostorg?nt)
   - Противоположность AnimeBest.
+  - Тоже собирают деньги как и AnimeBest, но AnimeVost это в первую очередь группа озвучки.
 - {{< icon "trust medium" >}} [AnimeGo.org](https://animego.org/?nt) или [AnimeGo](https://animego.pro/?nt) / [{{< icon "telegram" >}}](https://t.me/animego_official?sl)
   - Есть выбор озвучки.
   - Не всегда хорошее качество.
   - Библиотека `.org` кажется больше.
+- {{< icon "trust medium" >}} [Yummy Anime](https://yummyani.me/?nt) / [{{< icon "telegram" >}}](https://t.me/yummyanimeru?sl) / [{{< icon "telegram" >}} 2](https://t.me/yummyanidev?sl) / [{{< icon "discord" >}}](https://discord.gg/EyXbaRyBcQ?sl) / [{{< icon "vk" >}}](https://vk.com/yummyanime_official?nt) / [Pikabu](https://pikabu.ru/@YummyAnime?nt)
+  - Уживались с РКН какое-то время, поэтому некоторых «неугодных» аниме нету.
 
 <br>
 
