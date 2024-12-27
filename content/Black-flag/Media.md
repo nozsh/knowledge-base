@@ -27,6 +27,14 @@ weight: 900
 
 <br>
 
+- {{< icon "trust medium" >}} [ReYohoho](https://reyohoho.github.io/reyohoho/?nt)
+  - Возможно есть все или почти все.
+  - Данный ресурс позволяет искать и смотреть медиа контент со сторонних источников.
+  - Какие-то источники работают хорошо, какие-то не очень, какие-то вообще не работают.
+  - Отличный «План Б».
+
+<br>
+
 ## Аниме
 
 - {{< icon "trust medium" >}} [Amedia](https://amedia.lol/?nt) / [{{< icon "telegram" >}}](https://t.me/AnimeMediaNews?sl) / [{{< icon "discord" >}}](https://discord.gg/C3KARjASMF?sl)
@@ -38,6 +46,9 @@ weight: 900
   - Есть выбор озвучки.
   - Не всегда хорошее качество.
   - Библиотека `.org` кажется больше.
+- {{< icon "trust medium" >}} [AnimeLIB](https://anilib.me/?nt)
+  - Красиво.
+  - Выбор плеера, озвучек, качества (не везде).
 - {{< icon "trust medium" >}} [Yummy Anime](https://yummyani.me/?nt) / [{{< icon "telegram" >}}](https://t.me/yummyanimeru?sl) / [{{< icon "telegram" >}} 2](https://t.me/yummyanidev?sl) / [{{< icon "discord" >}}](https://discord.gg/EyXbaRyBcQ?sl) / [{{< icon "vk" >}}](https://vk.com/yummyanime_official?nt) / [Pikabu](https://pikabu.ru/@YummyAnime?nt)
   - Уживались с РКН какое-то время, поэтому некоторых «неугодных» аниме нету.
 
