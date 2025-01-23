@@ -25,4 +25,8 @@ robotsNoIndex: true
 
 ## 2024
 
+- [01.2024](13.2024)
+
 - [12.2024](12.2024)
+  - Добавлено: ReYohoho, AnimeGO, Amedia, Yummy Anime, AniLIB, EX-FS, KinoBase, KinoKong, VirusTotal, Hybrid Analysis.
+  - Удалено: 0day, RARBG.

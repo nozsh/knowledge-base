@@ -32,3 +32,9 @@ weight: 940
 - [cURL Converter](https://curlconverter.com/?sl) / [{{< icon "github" >}}](https://github.com/curlconverter/curlconverter/?sl)
   - Крутая утилита, используйте вкладку «Сеть» в инструментах разработчика, чтобы скопировать запрос как cURL, и конвертируйте его в код.
   - Очень ускоряет.
+
+## Latex
+
+- [Detexify](https://detexify.kirelabs.org/?sl)
+  - Великолепный инструмент если вы пишите всякие формулы в Latex, и понятия не имеете "Как это написать?".
+  - Нарисуйте символ, сервис распознает его и скажет как его писать в Latex.
