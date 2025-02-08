@@ -63,7 +63,7 @@ weight: 900
 - {{< icon "trust good" >}} [LostFilm](https://www.lostfilm.tv/?nt) <sup>(R) (t)</sup>
   - Тот самый LostFilm. Онлайн стриминга нет, только качать (торрент).
   - Озвучка только от LostFilm.
-- {{< icon "trust good" >}} [HDREZKA](https://rezka.ag/?nt), [2](https://hdrezka.ag/?nt) / [{{< icon "vk" >}}](https://vk.com/hdrezka?nt)
+- {{< icon "trust good" >}} [HDREZKA](https://rezka.ag/?nt), [2](https://hdrezka.ag/?nt) / [Mirror](https://rezka.fi/?nt) / [{{< icon "vk" >}}](https://vk.com/hdrezka?nt)
   - Все фильмы, сериалы, аниме, мультфильмы, даже 40-х.
   - В лучшем качестве (не всегда), с выбором (почти) любой существующей озвучки.
   - Самые новые, самые популярные и самые нишевые произведения.
