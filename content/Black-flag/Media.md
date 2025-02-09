@@ -27,7 +27,7 @@ weight: 900
 
 <br>
 
-- {{< icon "trust medium" >}} [ReYohoho](https://reyohoho.github.io/reyohoho/?nt)
+- {{< icon "trust medium" >}} [ReYohoho](https://reyohoho.github.io/reyohoho/?nt) / [{{< icon "telegram" >}}](https://t.me/ReYohoho?sl) / [{{< icon "github" >}}](https://github.com/reyohoho/reyohoho?sl)
   - Возможно есть все или почти все.
   - Данный ресурс позволяет искать и смотреть медиа контент со сторонних источников.
   - Какие-то источники работают хорошо, какие-то не очень, какие-то вообще не работают.
