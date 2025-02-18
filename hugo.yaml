@@ -65,10 +65,10 @@ menu:
       params:
         type: separator
       weight: 1
-    - identifier: private-paste
-      name: "Private Paste"
-      url: "private-paste"
-      weight: 10
+    # - identifier: private-paste
+    #   name: "Private Paste"
+    #   url: "private-paste"
+    #   weight: 10
     - identifier: br3f
       name: "BR3F ↗"
       url: "https://www.br3f.com/?sl"

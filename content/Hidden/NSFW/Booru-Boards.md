@@ -32,7 +32,7 @@ robotsNoIndex: true
 - [Gelbooru](https://gelbooru.com?nt)
 - [GuroChan](https://guro.cx/?nt) / [Boards](https://boards.guro.cx/?nt)
 - [Hypnohub](https://hypnohub.net?nt)
-- [Hentai Foundry](https://www.hentai-foundry.com/) <sup>🌟</sup>
+- [Hentai Foundry](https://www.hentai-foundry.com/?nt) <sup>🌟</sup>
   - Это по большей части доска, а не хентай сайт.
   - Очень много разнообразного контента.
 - [Konachan](https://konachan.com?nt)

@@ -52,12 +52,6 @@ weight: 900
 - {{< icon "trust medium" >}} [Yummy Anime](https://yummyani.me/?nt) / [{{< icon "telegram" >}}](https://t.me/yummyanimeru?sl) / [{{< icon "telegram" >}} 2](https://t.me/yummyanidev?sl) / [{{< icon "discord" >}}](https://discord.gg/EyXbaRyBcQ?sl) / [{{< icon "vk" >}}](https://vk.com/yummyanime_official?nt) / [Pikabu](https://pikabu.ru/@YummyAnime?nt)
   - Уживались с РКН какое-то время, поэтому некоторых «неугодных» аниме нету.
 
-<br>
-
-- {{< icon "trust low" >}} [AnimeBest](https://anime1.best/?nt) / [{{< icon "telegram" >}}](https://t.me/Anime1Best?sl)
-  - Не советую. Категорически заставляют скачать их приложение.
-  - Клянчат очень немалые суммы на оплаты серверов, не то что бы я против, но чуваки, серьезно? Пираты таким не занимаются.
-
 ## Фильмы / Сериалы
 
 - {{< icon "trust good" >}} [LostFilm](https://www.lostfilm.tv/?nt) <sup>(R) (t)</sup>
@@ -83,7 +77,8 @@ weight: 900
 - {{< icon "trust medium" >}} [Red Head Sound](https://redheadsound.studio/?nt) / [{{< icon "logos youtube-icon" >}}](https://www.youtube.com/@redheadsound?sl) / [{{< icon "telegram" >}}](https://t.me/cherevatstreams?sl) / [{{< icon "vk" >}}](https://vk.com/redheadsound?sl)
   - Сайт группы озвучки RHS.
   - Озвучка только от RHS.
-- {{< icon "trust medium" >}} [Zetflix](https://go.zet-flix.online/?nt), [2](https://zetflix.zone/?nt) / [{{< icon "telegram" >}}](https://t.me/+VIIFsf9wbiU1YWMy?sl)
+  - Поток может не работать через VPN.
+- {{< icon "trust medium" >}} [Zetflix](https://go.zet-flix.online/?nt), [2](https://go.zetflix-online.lol/?nt), [3](https://zetflix.zone/?nt) / [{{< icon "telegram" >}}](https://t.me/+VIIFsf9wbiU1YWMy?sl)
   - База совсем не большая. Бывает много озвучек.
 
 <!-- <br> -->

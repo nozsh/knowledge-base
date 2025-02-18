@@ -28,7 +28,7 @@ weight: 900
   - При желании можно найти все что угодно.
 - {{< icon "trust medium" >}} [Scnlog](https://scnlog.me/?nt) <sup>(m)</sup>
   - Общая база данных, включающая различные типы медиаконтента, но с акцентом на музыку.
-- {{< icon "trust medium" >}} [Soft Archive](https://softarchive.is/?nt), [2](https://sanet.lc/?nt), [3](https://sanet.ws/?nt) [4](https://sanet.st/?nt), [5](https://sanet.sb?nt), [6](https://soft.ac?nt) / [Status](https://sastatus.com/?nt)
+- {{< icon "trust medium" >}} [Soft Archive](https://softarchive.is/?nt) / [Status](https://sastatus.com/?nt)
   - Сайты сцены, основанный в 2004 году, посвященный новым релизам ПО, игр, музыки, фильмов и электронных книг.
 - {{< icon "trust medium" >}} [WarezBook](https://www.warezbook.org/?nt)
   - Чисто оформленный форум с фильмами, ПО, играми и музыки.

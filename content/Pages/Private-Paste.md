@@ -22,6 +22,11 @@ robotsNoIndex: true
 # weight: 900
 ---
 
+{{< callout type="warning" >}}
+**НЕ ИСПОЛЬЗУЙТЕ!**<br>
+[Zeta Paste](https://zeta.su/paste/) **лучше :)**
+{{< /callout >}}
+
 {{< html/privatePaste >}}
 
 ## Как это работает?

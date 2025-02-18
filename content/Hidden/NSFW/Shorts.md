@@ -25,7 +25,7 @@ robotsNoIndex: true
 Короткие видео, как на YT Shorts, TikTok, etc.
 {{< /callout >}}
 
-- [RedGifs](https://www.redgifs.com/)
+- [RedGifs](https://www.redgifs.com/?nt)
   - Легендарный старый добрый - Gfycat.
-- [Scrolller](https://scrolller.com/r/nsfw)
+- [Scrolller](https://scrolller.com/r/nsfw?nt)
   - Много надоедливых баннеров и рекламы.
