@@ -35,7 +35,7 @@ robotsNoIndex: true
 - [hAnime](https://hanime.tv/?nt) <sup>🌟</sup>
   - Есть картинки (не манга), но акцент на аниме.
   - Плеер работает не очень хорошо.
-  - Обязательно отключаться Dark Reader.
+  - Обязательно отключать Dark Reader.
   - FullHD платный.
 - [Hentai City](https://www.hentaicity.com/?nt)
 - [HentaiFox TV](https://hentaifox.tv/?nt)
