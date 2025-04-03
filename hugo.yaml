@@ -46,8 +46,8 @@ menu:
       url: ../blog
       weight: 10
     - identifier: hub
-      name: "🌀 hub"
-      url: ../
+      name: "🌀 hub ↗"
+      url: https://nozsh.com/
       weight: 20
     - name: Search
       weight: 900
