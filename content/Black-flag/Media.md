@@ -40,12 +40,12 @@ weight: 900
 - {{< icon "trust medium" >}} [Amedia](https://amedia.lol/?nt) / [{{< icon "telegram" >}}](https://t.me/AnimeMediaNews?sl) / [{{< icon "discord" >}}](https://discord.gg/C3KARjASMF?sl)
   - Иногда много озвучек, иногда мало.
 - {{< icon "trust medium" >}} [AnimeVost](https://animevost.org/?nt) / [{{< icon "vk" >}}](https://vk.com/animevostorg?nt)
-  - Противоположность AnimeBest.
+  - Противоположность [AnimeBest](/kb/changelog/02.2025/#удалено).
   - Тоже собирают деньги как и AnimeBest, но AnimeVost это в первую очередь группа озвучки.
-- {{< icon "trust medium" >}} [AnimeGo.org](https://animego.org/?nt) или [AnimeGo](https://animego.pro/?nt) / [{{< icon "telegram" >}}](https://t.me/animego_official?sl)
+- {{< icon "trust medium" >}} [AnimeGo](https://animego.org/?nt) / [Mirror](https://animego.one?nt) / [{{< icon "telegram" >}}](https://t.me/animego_official?sl)
   - Есть выбор озвучки.
   - Не всегда хорошее качество.
-  - Библиотека `.org` кажется больше.
+  - Имеет уже классическую «проблему» -- Сайт блокируется в РФ, сайт блокирует VPN.
 - {{< icon "trust medium" >}} [AnimeLIB](https://anilib.me/?nt)
   - Красиво.
   - Выбор плеера, озвучек, качества (не везде).

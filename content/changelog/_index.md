@@ -25,7 +25,11 @@ robotsNoIndex: true
 
 ## 2025
 
+- [04.2025](04.2025)
 - [02.2025](02.2025)
+  - Добавлено: Mistral, Qwen
+  - Изменено: DODI, ONLINE-FIX, FitGirl Repacks
+  - Удалено: Bookracy, AnimeBest
 - [01.2025](01.2025)
   - Добавлено: Detexify
 

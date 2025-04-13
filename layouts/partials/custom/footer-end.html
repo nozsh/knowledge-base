@@ -1,3 +1,17 @@
+{{/* NTLinks */}}
+<script src="{{ (resources.Get "js/ntlinks.js").RelPermalink }}?v=3" defer></script>
+
+{{/* Lite YouTube Embed */}}
+<link rel="preload" as="style" onload="this.rel='stylesheet'" type="text/css"
+  href="{{ (resources.Get "css/lite-yt-embed.css").RelPermalink }}?v=1.0.0">
+<link rel="preload" as="style" onload="this.rel='stylesheet'" type="text/css"
+  href="{{ (resources.Get "css/lite-yt-embed-custom.css").RelPermalink }}?v=1">
+<script src="{{ (resources.Get "js/lite-yt-embed.js").RelPermalink }}?v=0.3.3" defer></script>
+
+{{/* mediumZoom */}}
+<script src="{{ (resources.Get "js/medium-zoom.min.js").RelPermalink }}?v=1.0.6" data-no-instant></script>
+<script src="{{ (resources.Get "js/medium-zoom-settings.js").RelPermalink }}?v=1" defer></script>
+
 {{/* XMAS */}}
 {{/* <style>
   :root {--xny-bg-opacity: 0.4;}
@@ -11,7 +25,7 @@
 <!-- xmas Settings -->
 <script>
   const xnySettings = {
-    bgUrl: "https://assets.nozsh.su/img/loose/new-year-bg-light.svg", // BG URL at top page
+    bgUrl: "https://assets.nozsh.com/img/loose/new-year-bg-light.svg", // BG URL at top page
     maxFlakes: 12, // Max flakes
     funIcons: ["⛄", "🎁", "🦌", "☃", "🍪"], // (❄️≧◡≦❄️)
     funChance: 0.025, // More chance, More fun
@@ -24,7 +38,7 @@
 </script> */}}
 
 <!-- Load xmas.js -->
-{{/* <script src="https://assets.nozsh.su/js/loose/xmas.min.js?v={{ time.Now.Unix }}" defer></script> */}}
+{{/* <script src="https://assets.nozsh.com/js/loose/xmas.min.js?v={{ time.Now.Unix }}" defer></script> */}}
 
 {{/* Goat Counter */}}
 <script data-goatcounter="https://saladvisor-kb.goatcounter.com/count"

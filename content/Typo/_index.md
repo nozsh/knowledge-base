@@ -7,6 +7,7 @@ prev: /docs/getting-started
 next: /docs/guide/organize-files
 sidebar:
   # open: true
+  exclude: true
 ---
 
 Explore the following sections to learn how to use Hextra:

@@ -98,9 +98,9 @@ hr {
 }
 
 /* # Other */
-li:has(a[href="/kb/typo/"]) {
+/* li:has(a[href="/kb/typo/"]) {
   display: none;
-}
+} */
 
 article kbd {
   background: color-mix(in srgb, var(--theme) 5%, transparent) !important;
