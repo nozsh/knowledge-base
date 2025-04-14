@@ -57,4 +57,4 @@ weight: 900
 
 - [Fake Name Generator](https://www.fakenamegenerator.com/?sl)
 - [Fake Person Generator](https://www.fakepersongenerator.com/?sl)
-- [FauxID](https://fauxid.com/fake-name-generator/?sl) <sup>❌</sup>
+- [FauxID](https://fauxid.com/fake-name-generator/?sl)
