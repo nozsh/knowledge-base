@@ -36,4 +36,4 @@ sidebar:
   - Чат-бот от Google.
   - Две модели, бесплатная и платная.
 - [Mistral](https://chat.mistral.ai/chat?sl)
-- [Qwen](https://chat.qwenlm.ai/?sl) <sup>(R)</sup>
+- [Qwen](https://chat.qwen.ai/?sl) <sup>(R)</sup>
