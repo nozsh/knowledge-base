@@ -1,37 +1,46 @@
 {{- $enableFooterSwitches := .Scratch.Get "enableFooterSwitches" | default false -}}
 {{- $displayThemeToggle := site.Params.theme.displayToggle | default true -}}
+{{- $footerSwitchesVisible := and $enableFooterSwitches (or hugo.IsMultilingual $displayThemeToggle) -}}
+{{- $copyrightSectionVisible := or (.Site.Params.footer.displayPoweredBy | default true) .Site.Params.footer.displayCopyright -}}
 
 {{- $copyright := (T "copyright") | default "© 2024 Hextra." -}}
-{{- $poweredBy := "Powered by <a href='https://gohugo.io/'>Hugo</a> <svg height='1em' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 128 128'><path fill='currentColor' d='M110 26.1L73.3 4.8c-6.6-3.8-14.7-3.7-21.2.3L19.2 25.4c-6.5 4.1-10.4 11-10.4 18.7v41.4c0 7.6 4.1 14.7 10.7 18.5L53 123.3c3.1 1.8 6.5 2.7 10 2.7c3.4 0 6.8-.9 9.8-2.6l36.4-20.5c6.2-3.5 10-10.1 10-17.2V42c0-6.5-3.5-12.6-9.2-15.9M52.5 67.9v29H38.6V30.5h13.9v24.2h23V30.5h13.9v66.4H75.5v-29z'/></svg>  & <a href='https://github.com/imfing/hextra'>Hextra</a>" -}}
+{{- $poweredBy := (T "poweredBy") | default "Powered by Hextra" -}}
 
-{{- $footerWidth := "hx-max-w-screen-xl" -}}
+{{- $footerWidth := "hx:max-w-screen-xl" -}}
 {{- with .Site.Params.footer.width -}}
   {{ if eq . "wide" -}}
-    {{ $footerWidth = "hx-max-w-[90rem]" -}}
+    {{ $footerWidth = "hx:max-w-[90rem]" -}}
   {{ else if eq . "full" -}}
     {{ $footerWidth = "max-w-full" -}}
   {{ end -}}
 {{- end -}}
 
 
-<footer class="hextra-footer hx-bg-gray-100 hx-pb-[env(safe-area-inset-bottom)] dark:hx-bg-neutral-900 print:hx-bg-transparent">
-  {{- if $enableFooterSwitches -}}
-    <div class="hx-mx-auto hx-flex hx-gap-2 hx-py-2 hx-px-4 {{ $footerWidth }}">
+<footer class="hextra-footer hx:bg-gray-100 hx:pb-[env(safe-area-inset-bottom)] hx:dark:bg-neutral-900 hx:print:bg-transparent">
+  {{- if $footerSwitchesVisible -}}
+    <div class="hx:mx-auto hx:flex hx:gap-2 hx:py-2 hx:px-4 {{ $footerWidth }}">
       {{- partial "language-switch.html" (dict "context" .) -}}
       {{- with $displayThemeToggle }}{{ partial "theme-toggle.html" }}{{ end -}}
     </div>
     {{- if or hugo.IsMultilingual $displayThemeToggle -}}
-      <hr class="dark:hx-border-neutral-800" />
+      <hr class="hx:border-gray-200 hx:dark:border-neutral-800" />
     {{- end -}}
   {{- end -}}
-  <div
-    class="{{ $footerWidth }} hx-mx-auto hx-flex hx-justify-center hx-py-12 hx-pl-[max(env(safe-area-inset-left),1.5rem)] hx-pr-[max(env(safe-area-inset-right),1.5rem)] hx-text-gray-600 dark:hx-text-gray-400 md:hx-justify-start"
-  >
-    <div class="hx-flex hx-w-full hx-flex-col hx-items-center sm:hx-items-start">
-      {{- if (.Site.Params.footer.displayPoweredBy | default true) }}<div class="hx-font-semibold hx-text-xs">{{ template "theme-credit" $poweredBy }}</div>{{ end }}
-      {{- if .Site.Params.footer.displayCopyright }}<div class="hx-mt-6 hx-text-xs">&copy; {{ now.Year }} <a style="text-decoration: underline;" href="{{ "" | absLangURL }}">nozsh</a></div>{{ end }}
+    <div
+      class="hextra-custom-footer {{ $footerWidth }} hx:mx-auto hx:pl-[max(env(safe-area-inset-left),1.5rem)] hx:pr-[max(env(safe-area-inset-right),1.5rem)] hx:text-gray-600 hx:dark:text-gray-400"
+    >
+      {{- partial "custom/footer.html" (dict "context" . "switchesVisible" $footerSwitchesVisible "copyrightVisible" $copyrightSectionVisible) -}}
     </div>
-  </div>
+    {{- if $copyrightSectionVisible -}}
+      <div
+        class="{{ $footerWidth }} hx:mx-auto hx:flex hx:justify-center hx:py-12 hx:pl-[max(env(safe-area-inset-left),1.5rem)] hx:pr-[max(env(safe-area-inset-right),1.5rem)] hx:text-gray-600 hx:dark:text-gray-400 hx:md:justify-start"
+      >
+        <div class="hx:flex hx:w-full hx:flex-col hx:items-center hx:sm:items-start">
+            {{- if (.Site.Params.footer.displayPoweredBy | default true) }}<div class="hx:font-semibold hx:text-xs">{{ template "theme-credit" $poweredBy }}</div>{{- end -}}
+            {{- if .Site.Params.footer.displayCopyright }}<div class="hx:mt-6 hx:text-xs">&copy; {{ now.Year }} <a style="text-decoration: underline;" href="{{ "" | absLangURL }}">nozsh</a></div>{{- end -}}
+        </div>
+      </div>
+    {{- end -}}
 </footer>
 
 {{- define "theme-credit" -}}
@@ -39,3 +48,8 @@
 {{- end -}}
 
 {{ partial "custom/footer-end.html" . }}
+
+
+{{/*  CUSTOM  */}}
+{{/*  Custom partial footer and copyright  */}}
+{{/*  CUSTOM  */}}
