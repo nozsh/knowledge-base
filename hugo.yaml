@@ -61,16 +61,24 @@ menu:
 
   sidebar:
     - identifier: more
-      name: Еще
+      name: "Еще"
       params:
         type: separator
       weight: 1
+    - identifier: blog
+      name: "✏️ Блог ↗"
+      url: "https://nozsh.com/blog/"
+      weight: 5
+    - identifier: hub
+      name: "🌀 hub ↗"
+      url: https://nozsh.com/
+      weight: 6
     - identifier: zeta-paste
-      name: "Zeta Paste"
+      name: "🔗 Zeta Paste ↗"
       url: "https://zeta.su/paste/"
       weight: 10
     - identifier: br3f
-      name: "BR3F ↗"
+      name: "🔗 BR3F ↗"
       url: "https://www.br3f.com/?sl"
       weight: 20
 
