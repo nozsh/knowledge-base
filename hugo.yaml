@@ -41,14 +41,14 @@ enableInlineShortcodes: true
 
 menu:
   main:
-    - identifier: blog
-      name: "✏️ Блог"
-      url: https://nozsh.com/blog/
-      weight: 10
-    - identifier: hub
-      name: "🌀 hub ↗"
-      url: https://nozsh.com/
-      weight: 20
+    # - identifier: blog
+    #   name: "✏️ Блог"
+    #   url: https://nozsh.com/blog/
+    #   weight: 10
+    # - identifier: hub
+    #   name: "🌀 hub ↗"
+    #   url: https://nozsh.com/
+    #   weight: 20
     - name: Search
       weight: 900
       params:
