@@ -1,4 +1,4 @@
-baseURL: https://nozsh.com/kb/
+baseURL: https://nozsh.com/kb
 languageCode: ru
 defaultContentLanguage: ru
 title: Knowledge Base
@@ -43,7 +43,7 @@ menu:
   main:
     - identifier: blog
       name: "✏️ Блог"
-      url: ../blog
+      url: https://nozsh.com/blog/
       weight: 10
     - identifier: hub
       name: "🌀 hub ↗"
@@ -160,5 +160,8 @@ params:
     # emitMetadata: 0
     # inputPosition: top
     # lang: en
+
+permalinks:
+  posts: "/:contentbasename"
 # permalinks:
 # docs: "/:filename" # convert = /posts/post1 => /post1, https://gohugo.io/content-management/urls/
