@@ -88,7 +88,7 @@ params:
   description: kb a.k.a Knowledge Base
 
   assets:
-    assetsURL: "https://assets.nozsh.su/img/kb/"
+    assetsURL: "https://assets.nozsh.com/img/kb/"
     assetsPATH: "@img"
 
   navbar:
