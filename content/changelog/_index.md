@@ -25,7 +25,10 @@ robotsNoIndex: true
 
 ## 2025
 
+- [06.2025](06.2025)
 - [04.2025](04.2025)
+  - Добавлено: Freedium
+  - Удалено: PDFDrive.com
 - [02.2025](02.2025)
   - Добавлено: Mistral, Qwen
   - Изменено: DODI, ONLINE-FIX, FitGirl Repacks

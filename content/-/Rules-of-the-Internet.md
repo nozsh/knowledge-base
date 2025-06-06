@@ -1,6 +1,6 @@
 ---
 type: docs
-# slug: ""
+slug: "rules-of-internet"
 # url: "" # Abs URL to
 # linkTitle: ""
 title: "Правила интернета"
