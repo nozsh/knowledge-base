@@ -38,5 +38,5 @@ sidebar:
 - [Mistral](https://chat.mistral.ai/chat?sl)
 - [NotebookLM](https://notebooklm.google.com/?sl) <sup>(R)</sup>
   - by Google
-  - Заточен на работу с документами, видео и ссылками (заготовленными материалами).
+  - Заточен на работу с заготовленными материалами.
 - [Qwen](https://chat.qwen.ai/?sl) <sup>(R)</sup>
