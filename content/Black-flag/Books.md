@@ -40,7 +40,7 @@ weight: 900
   - Минималистичный ресурс.
 - {{< icon "trust good" >}} [Library Genesis](https://libgen.is/?nt), [2](https://libgen.st/?nt) <sup>🐐</sup>
   - Будет интересно только тем кто интересуется наукой.
-- {{< icon "trust good" >}} [Z-Library](https://z-library.sk?nt) <sup>🐐 🌟 (R)</sup> / [{{< icon "reddit" >}} Access](https://www.reddit.com/r/zlibrary/wiki/index/access/?sl) / [{{< icon "reddit" >}}](https://www.reddit.com/r/zlibrary/?sl) / [{{< icon "mastodon" >}}](https://mastodon.social/@Z_Lib_official?sl) / [{{< icon "telegram" >}}](https://t.me/zlibrary_official?sl) / [{{< icon "wikipedia" >}}](https://en.wikipedia.org/wiki/Z-Library?sl)
+- {{< icon "trust good" >}} [Z-Library](https://go-to-library.sk?nt) <sup>🐐 🌟 (R)</sup> / [{{< icon "reddit" >}} Access](https://www.reddit.com/r/zlibrary/wiki/index/access/?sl) / [{{< icon "reddit" >}}](https://www.reddit.com/r/zlibrary/?sl) / [{{< icon "mastodon" >}}](https://mastodon.social/@Z_Lib_official?sl) / [{{< icon "telegram" >}}](https://t.me/zlibrary_official?sl) / [{{< icon "wikipedia" >}}](https://en.wikipedia.org/wiki/Z-Library?sl)
   - Актуальные домены лучше смотреть на Reddit (Access), ~Telegram~, Mastodon и Wikipedia.
   - К сожалению некоторые материалы удаляются (нельзя скачать), в таком случае придется воспользоваться другими ресурсами.
 

@@ -35,6 +35,8 @@ sidebar:
 - [Gemini](https://gemini.google.com/?sl) <sup>(R)</sup>
   - Чат-бот от Google.
   - Две модели, бесплатная и платная.
+- [Grok](https://grok.com/?sl) <sup>(R)</sup>
+  - Чат-бот от X (Twitter)
 - [Mistral](https://chat.mistral.ai/chat?sl)
 - [NotebookLM](https://notebooklm.google.com/?sl) <sup>(R)</sup>
   - by Google
